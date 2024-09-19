@@ -1,0 +1,2581 @@
+data_AF-Q9D920-F1
+#
+_entry.id AF-Q9D920-F1
+#
+loop_
+_atom_type.symbol
+C 
+N 
+O 
+S 
+#
+loop_
+_audit_author.name
+_audit_author.pdbx_ordinal
+"Jumper, John"               1  
+"Evans, Richard"             2  
+"Pritzel, Alexander"         3  
+"Green, Tim"                 4  
+"Figurnov, Michael"          5  
+"Ronneberger, Olaf"          6  
+"Tunyasuvunakool, Kathryn"   7  
+"Bates, Russ"                8  
+"Zidek, Augustin"            9  
+"Potapenko, Anna"            10 
+"Bridgland, Alex"            11 
+"Meyer, Clemens"             12 
+"Kohl, Simon A. A."          13 
+"Ballard, Andrew J."         14 
+"Cowie, Andrew"              15 
+"Romera-Paredes, Bernardino" 16 
+"Nikolov, Stanislav"         17 
+"Jain, Rishub"               18 
+"Adler, Jonas"               19 
+"Back, Trevor"               20 
+"Petersen, Stig"             21 
+"Reiman, David"              22 
+"Clancy, Ellen"              23 
+"Zielinski, Michal"          24 
+"Steinegger, Martin"         25 
+"Pacholska, Michalina"       26 
+"Berghammer, Tamas"          27 
+"Silver, David"              28 
+"Vinyals, Oriol"             29 
+"Senior, Andrew W."          30 
+"Kavukcuoglu, Koray"         31 
+"Kohli, Pushmeet"            32 
+"Hassabis, Demis"            33 
+#
+_audit_conform.dict_location https://raw.githubusercontent.com/ihmwg/ModelCIF/master/dist/mmcif_ma.dic
+_audit_conform.dict_name     mmcif_ma.dic
+_audit_conform.dict_version  1.3.9
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"    89.093  ALA y ALANINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N4 O2"  175.209 ARG y ARGININE        ? "L-PEPTIDE LINKING" 
+"C4 H8 N2 O3"   132.118 ASN y ASPARAGINE      ? "L-PEPTIDE LINKING" 
+"C4 H7 N O4"    133.103 ASP y "ASPARTIC ACID" ? "L-PEPTIDE LINKING" 
+"C3 H7 N O2 S"  121.158 CYS y CYSTEINE        ? "L-PEPTIDE LINKING" 
+"C5 H10 N2 O3"  146.144 GLN y GLUTAMINE       ? "L-PEPTIDE LINKING" 
+"C5 H9 N O4"    147.129 GLU y "GLUTAMIC ACID" ? "L-PEPTIDE LINKING" 
+"C2 H5 N O2"    75.067  GLY y GLYCINE         ? "PEPTIDE LINKING"   
+"C6 H10 N3 O2"  156.162 HIS y HISTIDINE       ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 ILE y ISOLEUCINE      ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 LEU y LEUCINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N2 O2"  147.195 LYS y LYSINE          ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2 S" 149.211 MET y METHIONINE      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O2"   165.189 PHE y PHENYLALANINE   ? "L-PEPTIDE LINKING" 
+"C5 H9 N O2"    115.130 PRO y PROLINE         ? "L-PEPTIDE LINKING" 
+"C3 H7 N O3"    105.093 SER y SERINE          ? "L-PEPTIDE LINKING" 
+"C4 H9 N O3"    119.119 THR y THREONINE       ? "L-PEPTIDE LINKING" 
+"C9 H11 N O3"   181.189 TYR y TYROSINE        ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2"   117.146 VAL y VALINE          ? "L-PEPTIDE LINKING" 
+#
+_citation.book_publisher          ?
+_citation.country                 UK
+_citation.id                      primary
+_citation.journal_full            Nature
+_citation.journal_id_ASTM         NATUAS
+_citation.journal_id_CSD          0006
+_citation.journal_id_ISSN         0028-0836
+_citation.journal_volume          596
+_citation.page_first              583
+_citation.page_last               589
+_citation.pdbx_database_id_DOI    10.1038/s41586-021-03819-2
+_citation.pdbx_database_id_PubMed 34265844
+_citation.title                   "Highly accurate protein structure prediction with AlphaFold"
+_citation.year                    2021
+#
+loop_
+_citation_author.citation_id
+_citation_author.name
+_citation_author.ordinal
+1 "Jumper, John"               1  
+1 "Evans, Richard"             2  
+1 "Pritzel, Alexander"         3  
+1 "Green, Tim"                 4  
+1 "Figurnov, Michael"          5  
+1 "Ronneberger, Olaf"          6  
+1 "Tunyasuvunakool, Kathryn"   7  
+1 "Bates, Russ"                8  
+1 "Zidek, Augustin"            9  
+1 "Potapenko, Anna"            10 
+1 "Bridgland, Alex"            11 
+1 "Meyer, Clemens"             12 
+1 "Kohl, Simon A. A."          13 
+1 "Ballard, Andrew J."         14 
+1 "Cowie, Andrew"              15 
+1 "Romera-Paredes, Bernardino" 16 
+1 "Nikolov, Stanislav"         17 
+1 "Jain, Rishub"               18 
+1 "Adler, Jonas"               19 
+1 "Back, Trevor"               20 
+1 "Petersen, Stig"             21 
+1 "Reiman, David"              22 
+1 "Clancy, Ellen"              23 
+1 "Zielinski, Michal"          24 
+1 "Steinegger, Martin"         25 
+1 "Pacholska, Michalina"       26 
+1 "Berghammer, Tamas"          27 
+1 "Silver, David"              28 
+1 "Vinyals, Oriol"             29 
+1 "Senior, Andrew W."          30 
+1 "Kavukcuoglu, Koray"         31 
+1 "Kohli, Pushmeet"            32 
+1 "Hassabis, Demis"            33 
+#
+_database_2.database_code AF-Q9D920-F1
+_database_2.database_id   AlphaFoldDB
+#
+_entity.details                  ?
+_entity.formula_weight           ?
+_entity.id                       1
+_entity.pdbx_description         "BLOC-1-related complex subunit 5"
+_entity.pdbx_ec                  ?
+_entity.pdbx_fragment            ?
+_entity.pdbx_mutation            ?
+_entity.pdbx_number_of_molecules 1
+_entity.src_method               man
+_entity.type                     polymer
+#
+_entity_poly.entity_id                    1
+_entity_poly.nstd_linkage                 no
+_entity_poly.nstd_monomer                 no
+_entity_poly.pdbx_seq_one_letter_code     
+;MGSEQSAEAESRPGDLNASVTPSPAKHRAKMDDIVVVAQGSQASRNVSNDPDVIKLQEIPTFQPLLKGLLSGQTSPTNAK
+LEKLDSQQVLQLCLRYQDHLHQCAEAVAFDQNALVKRIKEMDLSVETLFCFMQERQKRYAKYAEQIQKVNEMSAILRRIQ
+MGIDQTVPLMERLNSMLPEAERLEPFSMKPERERH
+;
+_entity_poly.pdbx_seq_one_letter_code_can 
+;MGSEQSAEAESRPGDLNASVTPSPAKHRAKMDDIVVVAQGSQASRNVSNDPDVIKLQEIPTFQPLLKGLLSGQTSPTNAK
+LEKLDSQQVLQLCLRYQDHLHQCAEAVAFDQNALVKRIKEMDLSVETLFCFMQERQKRYAKYAEQIQKVNEMSAILRRIQ
+MGIDQTVPLMERLNSMLPEAERLEPFSMKPERERH
+;
+_entity_poly.pdbx_strand_id               A
+_entity_poly.type                         polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+1 n MET 1   
+1 n GLY 2   
+1 n SER 3   
+1 n GLU 4   
+1 n GLN 5   
+1 n SER 6   
+1 n ALA 7   
+1 n GLU 8   
+1 n ALA 9   
+1 n GLU 10  
+1 n SER 11  
+1 n ARG 12  
+1 n PRO 13  
+1 n GLY 14  
+1 n ASP 15  
+1 n LEU 16  
+1 n ASN 17  
+1 n ALA 18  
+1 n SER 19  
+1 n VAL 20  
+1 n THR 21  
+1 n PRO 22  
+1 n SER 23  
+1 n PRO 24  
+1 n ALA 25  
+1 n LYS 26  
+1 n HIS 27  
+1 n ARG 28  
+1 n ALA 29  
+1 n LYS 30  
+1 n MET 31  
+1 n ASP 32  
+1 n ASP 33  
+1 n ILE 34  
+1 n VAL 35  
+1 n VAL 36  
+1 n VAL 37  
+1 n ALA 38  
+1 n GLN 39  
+1 n GLY 40  
+1 n SER 41  
+1 n GLN 42  
+1 n ALA 43  
+1 n SER 44  
+1 n ARG 45  
+1 n ASN 46  
+1 n VAL 47  
+1 n SER 48  
+1 n ASN 49  
+1 n ASP 50  
+1 n PRO 51  
+1 n ASP 52  
+1 n VAL 53  
+1 n ILE 54  
+1 n LYS 55  
+1 n LEU 56  
+1 n GLN 57  
+1 n GLU 58  
+1 n ILE 59  
+1 n PRO 60  
+1 n THR 61  
+1 n PHE 62  
+1 n GLN 63  
+1 n PRO 64  
+1 n LEU 65  
+1 n LEU 66  
+1 n LYS 67  
+1 n GLY 68  
+1 n LEU 69  
+1 n LEU 70  
+1 n SER 71  
+1 n GLY 72  
+1 n GLN 73  
+1 n THR 74  
+1 n SER 75  
+1 n PRO 76  
+1 n THR 77  
+1 n ASN 78  
+1 n ALA 79  
+1 n LYS 80  
+1 n LEU 81  
+1 n GLU 82  
+1 n LYS 83  
+1 n LEU 84  
+1 n ASP 85  
+1 n SER 86  
+1 n GLN 87  
+1 n GLN 88  
+1 n VAL 89  
+1 n LEU 90  
+1 n GLN 91  
+1 n LEU 92  
+1 n CYS 93  
+1 n LEU 94  
+1 n ARG 95  
+1 n TYR 96  
+1 n GLN 97  
+1 n ASP 98  
+1 n HIS 99  
+1 n LEU 100 
+1 n HIS 101 
+1 n GLN 102 
+1 n CYS 103 
+1 n ALA 104 
+1 n GLU 105 
+1 n ALA 106 
+1 n VAL 107 
+1 n ALA 108 
+1 n PHE 109 
+1 n ASP 110 
+1 n GLN 111 
+1 n ASN 112 
+1 n ALA 113 
+1 n LEU 114 
+1 n VAL 115 
+1 n LYS 116 
+1 n ARG 117 
+1 n ILE 118 
+1 n LYS 119 
+1 n GLU 120 
+1 n MET 121 
+1 n ASP 122 
+1 n LEU 123 
+1 n SER 124 
+1 n VAL 125 
+1 n GLU 126 
+1 n THR 127 
+1 n LEU 128 
+1 n PHE 129 
+1 n CYS 130 
+1 n PHE 131 
+1 n MET 132 
+1 n GLN 133 
+1 n GLU 134 
+1 n ARG 135 
+1 n GLN 136 
+1 n LYS 137 
+1 n ARG 138 
+1 n TYR 139 
+1 n ALA 140 
+1 n LYS 141 
+1 n TYR 142 
+1 n ALA 143 
+1 n GLU 144 
+1 n GLN 145 
+1 n ILE 146 
+1 n GLN 147 
+1 n LYS 148 
+1 n VAL 149 
+1 n ASN 150 
+1 n GLU 151 
+1 n MET 152 
+1 n SER 153 
+1 n ALA 154 
+1 n ILE 155 
+1 n LEU 156 
+1 n ARG 157 
+1 n ARG 158 
+1 n ILE 159 
+1 n GLN 160 
+1 n MET 161 
+1 n GLY 162 
+1 n ILE 163 
+1 n ASP 164 
+1 n GLN 165 
+1 n THR 166 
+1 n VAL 167 
+1 n PRO 168 
+1 n LEU 169 
+1 n MET 170 
+1 n GLU 171 
+1 n ARG 172 
+1 n LEU 173 
+1 n ASN 174 
+1 n SER 175 
+1 n MET 176 
+1 n LEU 177 
+1 n PRO 178 
+1 n GLU 179 
+1 n ALA 180 
+1 n GLU 181 
+1 n ARG 182 
+1 n LEU 183 
+1 n GLU 184 
+1 n PRO 185 
+1 n PHE 186 
+1 n SER 187 
+1 n MET 188 
+1 n LYS 189 
+1 n PRO 190 
+1 n GLU 191 
+1 n ARG 192 
+1 n GLU 193 
+1 n ARG 194 
+1 n HIS 195 
+#
+loop_
+_ma_data.content_type
+_ma_data.id
+_ma_data.name
+"model coordinates" 1 Model             
+"input structure"   2 "Input structure" 
+#
+_ma_model_list.data_id          1
+_ma_model_list.model_group_id   1
+_ma_model_list.model_group_name "AlphaFold Monomer v2.0 model"
+_ma_model_list.model_id         1
+_ma_model_list.model_name       "Top ranked model"
+_ma_model_list.model_type       "Ab initio model"
+_ma_model_list.ordinal_id       1
+#
+loop_
+_ma_protocol_step.method_type
+_ma_protocol_step.ordinal_id
+_ma_protocol_step.protocol_id
+_ma_protocol_step.step_id
+"coevolution MSA" 1 1 1 
+"template search" 2 1 2 
+modeling          3 1 3 
+#
+loop_
+_ma_qa_metric.id
+_ma_qa_metric.mode
+_ma_qa_metric.name
+_ma_qa_metric.software_group_id
+_ma_qa_metric.type
+1 global pLDDT 1 pLDDT 
+2 local  pLDDT 1 pLDDT 
+#
+_ma_qa_metric_global.metric_id    1
+_ma_qa_metric_global.metric_value 80.82
+_ma_qa_metric_global.model_id     1
+_ma_qa_metric_global.ordinal_id   1
+#
+loop_
+_ma_qa_metric_local.label_asym_id
+_ma_qa_metric_local.label_comp_id
+_ma_qa_metric_local.label_seq_id
+_ma_qa_metric_local.metric_id
+_ma_qa_metric_local.metric_value
+_ma_qa_metric_local.model_id
+_ma_qa_metric_local.ordinal_id
+A MET 1   2 47.18 1 1   
+A GLY 2   2 57.88 1 2   
+A SER 3   2 48.38 1 3   
+A GLU 4   2 64.84 1 4   
+A GLN 5   2 47.96 1 5   
+A SER 6   2 48.04 1 6   
+A ALA 7   2 47.83 1 7   
+A GLU 8   2 41.37 1 8   
+A ALA 9   2 50.14 1 9   
+A GLU 10  2 41.02 1 10  
+A SER 11  2 45.15 1 11  
+A ARG 12  2 45.74 1 12  
+A PRO 13  2 46.40 1 13  
+A GLY 14  2 41.52 1 14  
+A ASP 15  2 39.91 1 15  
+A LEU 16  2 46.03 1 16  
+A ASN 17  2 42.03 1 17  
+A ALA 18  2 46.19 1 18  
+A SER 19  2 44.97 1 19  
+A VAL 20  2 52.69 1 20  
+A THR 21  2 53.62 1 21  
+A PRO 22  2 56.30 1 22  
+A SER 23  2 52.53 1 23  
+A PRO 24  2 54.33 1 24  
+A ALA 25  2 53.21 1 25  
+A LYS 26  2 54.80 1 26  
+A HIS 27  2 62.49 1 27  
+A ARG 28  2 64.85 1 28  
+A ALA 29  2 67.32 1 29  
+A LYS 30  2 74.96 1 30  
+A MET 31  2 65.42 1 31  
+A ASP 32  2 71.07 1 32  
+A ASP 33  2 69.95 1 33  
+A ILE 34  2 72.71 1 34  
+A VAL 35  2 74.19 1 35  
+A VAL 36  2 75.55 1 36  
+A VAL 37  2 73.05 1 37  
+A ALA 38  2 68.01 1 38  
+A GLN 39  2 63.14 1 39  
+A GLY 40  2 59.47 1 40  
+A SER 41  2 59.96 1 41  
+A GLN 42  2 54.95 1 42  
+A ALA 43  2 52.47 1 43  
+A SER 44  2 54.51 1 44  
+A ARG 45  2 58.94 1 45  
+A ASN 46  2 61.06 1 46  
+A VAL 47  2 69.71 1 47  
+A SER 48  2 72.32 1 48  
+A ASN 49  2 79.16 1 49  
+A ASP 50  2 83.51 1 50  
+A PRO 51  2 86.63 1 51  
+A ASP 52  2 85.43 1 52  
+A VAL 53  2 86.91 1 53  
+A ILE 54  2 86.93 1 54  
+A LYS 55  2 88.45 1 55  
+A LEU 56  2 86.65 1 56  
+A GLN 57  2 83.98 1 57  
+A GLU 58  2 88.02 1 58  
+A ILE 59  2 85.02 1 59  
+A PRO 60  2 85.13 1 60  
+A THR 61  2 81.09 1 61  
+A PHE 62  2 77.00 1 62  
+A GLN 63  2 73.74 1 63  
+A PRO 64  2 71.98 1 64  
+A LEU 65  2 70.68 1 65  
+A LEU 66  2 65.83 1 66  
+A LYS 67  2 64.04 1 67  
+A GLY 68  2 62.02 1 68  
+A LEU 69  2 61.91 1 69  
+A LEU 70  2 56.83 1 70  
+A SER 71  2 53.57 1 71  
+A GLY 72  2 57.08 1 72  
+A GLN 73  2 55.34 1 73  
+A THR 74  2 51.06 1 74  
+A SER 75  2 51.44 1 75  
+A PRO 76  2 55.39 1 76  
+A THR 77  2 54.38 1 77  
+A ASN 78  2 51.96 1 78  
+A ALA 79  2 53.19 1 79  
+A LYS 80  2 56.56 1 80  
+A LEU 81  2 57.38 1 81  
+A GLU 82  2 63.61 1 82  
+A LYS 83  2 71.26 1 83  
+A LEU 84  2 77.45 1 84  
+A ASP 85  2 87.23 1 85  
+A SER 86  2 91.15 1 86  
+A GLN 87  2 94.72 1 87  
+A GLN 88  2 94.52 1 88  
+A VAL 89  2 95.27 1 89  
+A LEU 90  2 96.91 1 90  
+A GLN 91  2 97.37 1 91  
+A LEU 92  2 97.56 1 92  
+A CYS 93  2 98.22 1 93  
+A LEU 94  2 98.49 1 94  
+A ARG 95  2 98.52 1 95  
+A TYR 96  2 98.56 1 96  
+A GLN 97  2 98.49 1 97  
+A ASP 98  2 98.64 1 98  
+A HIS 99  2 98.69 1 99  
+A LEU 100 2 98.74 1 100 
+A HIS 101 2 98.66 1 101 
+A GLN 102 2 98.59 1 102 
+A CYS 103 2 98.66 1 103 
+A ALA 104 2 98.73 1 104 
+A GLU 105 2 98.58 1 105 
+A ALA 106 2 98.41 1 106 
+A VAL 107 2 98.79 1 107 
+A ALA 108 2 98.56 1 108 
+A PHE 109 2 98.50 1 109 
+A ASP 110 2 98.59 1 110 
+A GLN 111 2 98.57 1 111 
+A ASN 112 2 98.40 1 112 
+A ALA 113 2 98.49 1 113 
+A LEU 114 2 98.65 1 114 
+A VAL 115 2 98.64 1 115 
+A LYS 116 2 98.38 1 116 
+A ARG 117 2 98.60 1 117 
+A ILE 118 2 98.73 1 118 
+A LYS 119 2 98.60 1 119 
+A GLU 120 2 98.43 1 120 
+A MET 121 2 98.66 1 121 
+A ASP 122 2 98.63 1 122 
+A LEU 123 2 98.53 1 123 
+A SER 124 2 98.48 1 124 
+A VAL 125 2 98.71 1 125 
+A GLU 126 2 98.62 1 126 
+A THR 127 2 98.63 1 127 
+A LEU 128 2 98.59 1 128 
+A PHE 129 2 98.62 1 129 
+A CYS 130 2 98.54 1 130 
+A PHE 131 2 98.52 1 131 
+A MET 132 2 98.52 1 132 
+A GLN 133 2 98.67 1 133 
+A GLU 134 2 98.52 1 134 
+A ARG 135 2 98.54 1 135 
+A GLN 136 2 98.63 1 136 
+A LYS 137 2 98.58 1 137 
+A ARG 138 2 98.46 1 138 
+A TYR 139 2 98.39 1 139 
+A ALA 140 2 98.58 1 140 
+A LYS 141 2 98.51 1 141 
+A TYR 142 2 98.35 1 142 
+A ALA 143 2 98.49 1 143 
+A GLU 144 2 98.38 1 144 
+A GLN 145 2 98.49 1 145 
+A ILE 146 2 98.15 1 146 
+A GLN 147 2 98.41 1 147 
+A LYS 148 2 98.26 1 148 
+A VAL 149 2 98.40 1 149 
+A ASN 150 2 98.12 1 150 
+A GLU 151 2 98.24 1 151 
+A MET 152 2 98.29 1 152 
+A SER 153 2 98.06 1 153 
+A ALA 154 2 98.18 1 154 
+A ILE 155 2 98.10 1 155 
+A LEU 156 2 97.69 1 156 
+A ARG 157 2 97.45 1 157 
+A ARG 158 2 97.83 1 158 
+A ILE 159 2 96.80 1 159 
+A GLN 160 2 95.01 1 160 
+A MET 161 2 95.79 1 161 
+A GLY 162 2 95.78 1 162 
+A ILE 163 2 93.60 1 163 
+A ASP 164 2 93.84 1 164 
+A GLN 165 2 95.24 1 165 
+A THR 166 2 95.20 1 166 
+A VAL 167 2 92.98 1 167 
+A PRO 168 2 92.80 1 168 
+A LEU 169 2 94.41 1 169 
+A MET 170 2 93.06 1 170 
+A GLU 171 2 91.75 1 171 
+A ARG 172 2 93.54 1 172 
+A LEU 173 2 93.28 1 173 
+A ASN 174 2 93.89 1 174 
+A SER 175 2 92.72 1 175 
+A MET 176 2 93.54 1 176 
+A LEU 177 2 91.93 1 177 
+A PRO 178 2 92.93 1 178 
+A GLU 179 2 89.46 1 179 
+A ALA 180 2 92.01 1 180 
+A GLU 181 2 92.96 1 181 
+A ARG 182 2 93.25 1 182 
+A LEU 183 2 90.86 1 183 
+A GLU 184 2 88.04 1 184 
+A PRO 185 2 84.46 1 185 
+A PHE 186 2 83.15 1 186 
+A SER 187 2 79.83 1 187 
+A MET 188 2 72.13 1 188 
+A LYS 189 2 68.06 1 189 
+A PRO 190 2 60.27 1 190 
+A GLU 191 2 51.62 1 191 
+A ARG 192 2 51.31 1 192 
+A GLU 193 2 43.92 1 193 
+A ARG 194 2 37.36 1 194 
+A HIS 195 2 37.97 1 195 
+#
+_ma_software_group.group_id    1
+_ma_software_group.ordinal_id  1
+_ma_software_group.software_id 1
+#
+_ma_target_entity.data_id   1
+_ma_target_entity.entity_id 1
+_ma_target_entity.origin    "reference database"
+#
+_ma_target_entity_instance.asym_id   A
+_ma_target_entity_instance.details   .
+_ma_target_entity_instance.entity_id 1
+#
+_ma_target_ref_db_details.db_accession                 Q9D920
+_ma_target_ref_db_details.db_code                      BORC5_MOUSE
+_ma_target_ref_db_details.db_name                      UNP
+_ma_target_ref_db_details.gene_name                    Borcs5
+_ma_target_ref_db_details.ncbi_taxonomy_id             10090
+_ma_target_ref_db_details.organism_scientific          "Mus musculus"
+_ma_target_ref_db_details.seq_db_align_begin           1
+_ma_target_ref_db_details.seq_db_align_end             195
+_ma_target_ref_db_details.seq_db_isoform               ?
+_ma_target_ref_db_details.seq_db_sequence_checksum     F3DF9A7520D35D51
+_ma_target_ref_db_details.seq_db_sequence_version_date 2001-06-01
+_ma_target_ref_db_details.target_entity_id             1
+#
+loop_
+_ma_template_details.ordinal_id
+_ma_template_details.target_asym_id
+_ma_template_details.template_auth_asym_id
+_ma_template_details.template_data_id
+_ma_template_details.template_entity_type
+_ma_template_details.template_id
+_ma_template_details.template_model_num
+_ma_template_details.template_origin
+_ma_template_details.template_trans_matrix_id
+1 A C 2 polymer 1 1 "reference database" 1 
+2 A C 2 polymer 2 1 "reference database" 1 
+3 A L 2 polymer 3 1 "reference database" 1 
+4 A H 2 polymer 4 1 "reference database" 1 
+#
+loop_
+_ma_template_ref_db_details.db_accession_code
+_ma_template_ref_db_details.db_name
+_ma_template_ref_db_details.template_id
+5CWS PDB 1 
+5C3L PDB 2 
+5J9T PDB 3 
+5J9U PDB 4 
+#
+_ma_template_trans_matrix.id               1
+_ma_template_trans_matrix.rot_matrix[1][1] 1.0
+_ma_template_trans_matrix.rot_matrix[1][2] 0.0
+_ma_template_trans_matrix.rot_matrix[1][3] 0.0
+_ma_template_trans_matrix.rot_matrix[2][1] 0.0
+_ma_template_trans_matrix.rot_matrix[2][2] 1.0
+_ma_template_trans_matrix.rot_matrix[2][3] 0.0
+_ma_template_trans_matrix.rot_matrix[3][1] 0.0
+_ma_template_trans_matrix.rot_matrix[3][2] 0.0
+_ma_template_trans_matrix.rot_matrix[3][3] 1.0
+_ma_template_trans_matrix.tr_vector[1]     0.0
+_ma_template_trans_matrix.tr_vector[2]     0.0
+_ma_template_trans_matrix.tr_vector[3]     0.0
+#
+loop_
+_pdbx_audit_revision_details.data_content_type
+_pdbx_audit_revision_details.description
+_pdbx_audit_revision_details.ordinal
+_pdbx_audit_revision_details.provider
+_pdbx_audit_revision_details.revision_ordinal
+_pdbx_audit_revision_details.type
+"Structure model" ?                                                       1 repository 1 "Initial release" 
+"Structure model" "Format fixes, new metadata, initial SwissProt release" 2 repository 2 Remediation       
+"Structure model" "Format fixes, new metadata, initial UniProt release"   3 repository 3 Remediation       
+"Structure model" "Improved prediction accuracy, small format fixes"      4 repository 4 Remediation       
+#
+loop_
+_pdbx_audit_revision_history.data_content_type
+_pdbx_audit_revision_history.major_revision
+_pdbx_audit_revision_history.minor_revision
+_pdbx_audit_revision_history.ordinal
+_pdbx_audit_revision_history.revision_date
+"Structure model" 1 0 1 2021-07-01 
+"Structure model" 2 0 2 2021-12-09 
+"Structure model" 3 0 3 2022-06-01 
+"Structure model" 4 0 4 2022-09-30 
+#
+loop_
+_pdbx_data_usage.details
+_pdbx_data_usage.id
+_pdbx_data_usage.name
+_pdbx_data_usage.type
+_pdbx_data_usage.url
+"Data in this file is available under a CC-BY-4.0 license." 1 CC-BY-4.0 license    https://creativecommons.org/licenses/by/4.0/ 
+;ALPHAFOLD DATA, COPYRIGHT (2021) DEEPMIND TECHNOLOGIES LIMITED. THE INFORMATION
+PROVIDED IS THEORETICAL MODELLING ONLY AND CAUTION SHOULD BE EXERCISED IN ITS
+USE. IT IS PROVIDED "AS-IS" WITHOUT ANY WARRANTY OF ANY KIND, WHETHER EXPRESSED
+OR IMPLIED. NO WARRANTY IS GIVEN THAT USE OF THE INFORMATION SHALL NOT INFRINGE
+THE RIGHTS OF ANY THIRD PARTY. DISCLAIMER: THE INFORMATION IS NOT INTENDED TO BE
+A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT, AND DOES
+NOT CONSTITUTE MEDICAL OR OTHER PROFESSIONAL ADVICE. IT IS AVAILABLE FOR
+ACADEMIC AND COMMERCIAL PURPOSES, UNDER CC-BY 4.0 LICENCE.
+;
+2 ?         disclaimer ?                                            
+#
+_pdbx_database_status.entry_id                      AF-Q9D920-F1
+_pdbx_database_status.recvd_initial_deposition_date 2022-06-01
+_pdbx_database_status.status_code                   REL
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_mon_id
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+A 1   1 n MET . MET 1   A 1   
+A 2   1 n GLY . GLY 2   A 2   
+A 3   1 n SER . SER 3   A 3   
+A 4   1 n GLU . GLU 4   A 4   
+A 5   1 n GLN . GLN 5   A 5   
+A 6   1 n SER . SER 6   A 6   
+A 7   1 n ALA . ALA 7   A 7   
+A 8   1 n GLU . GLU 8   A 8   
+A 9   1 n ALA . ALA 9   A 9   
+A 10  1 n GLU . GLU 10  A 10  
+A 11  1 n SER . SER 11  A 11  
+A 12  1 n ARG . ARG 12  A 12  
+A 13  1 n PRO . PRO 13  A 13  
+A 14  1 n GLY . GLY 14  A 14  
+A 15  1 n ASP . ASP 15  A 15  
+A 16  1 n LEU . LEU 16  A 16  
+A 17  1 n ASN . ASN 17  A 17  
+A 18  1 n ALA . ALA 18  A 18  
+A 19  1 n SER . SER 19  A 19  
+A 20  1 n VAL . VAL 20  A 20  
+A 21  1 n THR . THR 21  A 21  
+A 22  1 n PRO . PRO 22  A 22  
+A 23  1 n SER . SER 23  A 23  
+A 24  1 n PRO . PRO 24  A 24  
+A 25  1 n ALA . ALA 25  A 25  
+A 26  1 n LYS . LYS 26  A 26  
+A 27  1 n HIS . HIS 27  A 27  
+A 28  1 n ARG . ARG 28  A 28  
+A 29  1 n ALA . ALA 29  A 29  
+A 30  1 n LYS . LYS 30  A 30  
+A 31  1 n MET . MET 31  A 31  
+A 32  1 n ASP . ASP 32  A 32  
+A 33  1 n ASP . ASP 33  A 33  
+A 34  1 n ILE . ILE 34  A 34  
+A 35  1 n VAL . VAL 35  A 35  
+A 36  1 n VAL . VAL 36  A 36  
+A 37  1 n VAL . VAL 37  A 37  
+A 38  1 n ALA . ALA 38  A 38  
+A 39  1 n GLN . GLN 39  A 39  
+A 40  1 n GLY . GLY 40  A 40  
+A 41  1 n SER . SER 41  A 41  
+A 42  1 n GLN . GLN 42  A 42  
+A 43  1 n ALA . ALA 43  A 43  
+A 44  1 n SER . SER 44  A 44  
+A 45  1 n ARG . ARG 45  A 45  
+A 46  1 n ASN . ASN 46  A 46  
+A 47  1 n VAL . VAL 47  A 47  
+A 48  1 n SER . SER 48  A 48  
+A 49  1 n ASN . ASN 49  A 49  
+A 50  1 n ASP . ASP 50  A 50  
+A 51  1 n PRO . PRO 51  A 51  
+A 52  1 n ASP . ASP 52  A 52  
+A 53  1 n VAL . VAL 53  A 53  
+A 54  1 n ILE . ILE 54  A 54  
+A 55  1 n LYS . LYS 55  A 55  
+A 56  1 n LEU . LEU 56  A 56  
+A 57  1 n GLN . GLN 57  A 57  
+A 58  1 n GLU . GLU 58  A 58  
+A 59  1 n ILE . ILE 59  A 59  
+A 60  1 n PRO . PRO 60  A 60  
+A 61  1 n THR . THR 61  A 61  
+A 62  1 n PHE . PHE 62  A 62  
+A 63  1 n GLN . GLN 63  A 63  
+A 64  1 n PRO . PRO 64  A 64  
+A 65  1 n LEU . LEU 65  A 65  
+A 66  1 n LEU . LEU 66  A 66  
+A 67  1 n LYS . LYS 67  A 67  
+A 68  1 n GLY . GLY 68  A 68  
+A 69  1 n LEU . LEU 69  A 69  
+A 70  1 n LEU . LEU 70  A 70  
+A 71  1 n SER . SER 71  A 71  
+A 72  1 n GLY . GLY 72  A 72  
+A 73  1 n GLN . GLN 73  A 73  
+A 74  1 n THR . THR 74  A 74  
+A 75  1 n SER . SER 75  A 75  
+A 76  1 n PRO . PRO 76  A 76  
+A 77  1 n THR . THR 77  A 77  
+A 78  1 n ASN . ASN 78  A 78  
+A 79  1 n ALA . ALA 79  A 79  
+A 80  1 n LYS . LYS 80  A 80  
+A 81  1 n LEU . LEU 81  A 81  
+A 82  1 n GLU . GLU 82  A 82  
+A 83  1 n LYS . LYS 83  A 83  
+A 84  1 n LEU . LEU 84  A 84  
+A 85  1 n ASP . ASP 85  A 85  
+A 86  1 n SER . SER 86  A 86  
+A 87  1 n GLN . GLN 87  A 87  
+A 88  1 n GLN . GLN 88  A 88  
+A 89  1 n VAL . VAL 89  A 89  
+A 90  1 n LEU . LEU 90  A 90  
+A 91  1 n GLN . GLN 91  A 91  
+A 92  1 n LEU . LEU 92  A 92  
+A 93  1 n CYS . CYS 93  A 93  
+A 94  1 n LEU . LEU 94  A 94  
+A 95  1 n ARG . ARG 95  A 95  
+A 96  1 n TYR . TYR 96  A 96  
+A 97  1 n GLN . GLN 97  A 97  
+A 98  1 n ASP . ASP 98  A 98  
+A 99  1 n HIS . HIS 99  A 99  
+A 100 1 n LEU . LEU 100 A 100 
+A 101 1 n HIS . HIS 101 A 101 
+A 102 1 n GLN . GLN 102 A 102 
+A 103 1 n CYS . CYS 103 A 103 
+A 104 1 n ALA . ALA 104 A 104 
+A 105 1 n GLU . GLU 105 A 105 
+A 106 1 n ALA . ALA 106 A 106 
+A 107 1 n VAL . VAL 107 A 107 
+A 108 1 n ALA . ALA 108 A 108 
+A 109 1 n PHE . PHE 109 A 109 
+A 110 1 n ASP . ASP 110 A 110 
+A 111 1 n GLN . GLN 111 A 111 
+A 112 1 n ASN . ASN 112 A 112 
+A 113 1 n ALA . ALA 113 A 113 
+A 114 1 n LEU . LEU 114 A 114 
+A 115 1 n VAL . VAL 115 A 115 
+A 116 1 n LYS . LYS 116 A 116 
+A 117 1 n ARG . ARG 117 A 117 
+A 118 1 n ILE . ILE 118 A 118 
+A 119 1 n LYS . LYS 119 A 119 
+A 120 1 n GLU . GLU 120 A 120 
+A 121 1 n MET . MET 121 A 121 
+A 122 1 n ASP . ASP 122 A 122 
+A 123 1 n LEU . LEU 123 A 123 
+A 124 1 n SER . SER 124 A 124 
+A 125 1 n VAL . VAL 125 A 125 
+A 126 1 n GLU . GLU 126 A 126 
+A 127 1 n THR . THR 127 A 127 
+A 128 1 n LEU . LEU 128 A 128 
+A 129 1 n PHE . PHE 129 A 129 
+A 130 1 n CYS . CYS 130 A 130 
+A 131 1 n PHE . PHE 131 A 131 
+A 132 1 n MET . MET 132 A 132 
+A 133 1 n GLN . GLN 133 A 133 
+A 134 1 n GLU . GLU 134 A 134 
+A 135 1 n ARG . ARG 135 A 135 
+A 136 1 n GLN . GLN 136 A 136 
+A 137 1 n LYS . LYS 137 A 137 
+A 138 1 n ARG . ARG 138 A 138 
+A 139 1 n TYR . TYR 139 A 139 
+A 140 1 n ALA . ALA 140 A 140 
+A 141 1 n LYS . LYS 141 A 141 
+A 142 1 n TYR . TYR 142 A 142 
+A 143 1 n ALA . ALA 143 A 143 
+A 144 1 n GLU . GLU 144 A 144 
+A 145 1 n GLN . GLN 145 A 145 
+A 146 1 n ILE . ILE 146 A 146 
+A 147 1 n GLN . GLN 147 A 147 
+A 148 1 n LYS . LYS 148 A 148 
+A 149 1 n VAL . VAL 149 A 149 
+A 150 1 n ASN . ASN 150 A 150 
+A 151 1 n GLU . GLU 151 A 151 
+A 152 1 n MET . MET 152 A 152 
+A 153 1 n SER . SER 153 A 153 
+A 154 1 n ALA . ALA 154 A 154 
+A 155 1 n ILE . ILE 155 A 155 
+A 156 1 n LEU . LEU 156 A 156 
+A 157 1 n ARG . ARG 157 A 157 
+A 158 1 n ARG . ARG 158 A 158 
+A 159 1 n ILE . ILE 159 A 159 
+A 160 1 n GLN . GLN 160 A 160 
+A 161 1 n MET . MET 161 A 161 
+A 162 1 n GLY . GLY 162 A 162 
+A 163 1 n ILE . ILE 163 A 163 
+A 164 1 n ASP . ASP 164 A 164 
+A 165 1 n GLN . GLN 165 A 165 
+A 166 1 n THR . THR 166 A 166 
+A 167 1 n VAL . VAL 167 A 167 
+A 168 1 n PRO . PRO 168 A 168 
+A 169 1 n LEU . LEU 169 A 169 
+A 170 1 n MET . MET 170 A 170 
+A 171 1 n GLU . GLU 171 A 171 
+A 172 1 n ARG . ARG 172 A 172 
+A 173 1 n LEU . LEU 173 A 173 
+A 174 1 n ASN . ASN 174 A 174 
+A 175 1 n SER . SER 175 A 175 
+A 176 1 n MET . MET 176 A 176 
+A 177 1 n LEU . LEU 177 A 177 
+A 178 1 n PRO . PRO 178 A 178 
+A 179 1 n GLU . GLU 179 A 179 
+A 180 1 n ALA . ALA 180 A 180 
+A 181 1 n GLU . GLU 181 A 181 
+A 182 1 n ARG . ARG 182 A 182 
+A 183 1 n LEU . LEU 183 A 183 
+A 184 1 n GLU . GLU 184 A 184 
+A 185 1 n PRO . PRO 185 A 185 
+A 186 1 n PHE . PHE 186 A 186 
+A 187 1 n SER . SER 187 A 187 
+A 188 1 n MET . MET 188 A 188 
+A 189 1 n LYS . LYS 189 A 189 
+A 190 1 n PRO . PRO 190 A 190 
+A 191 1 n GLU . GLU 191 A 191 
+A 192 1 n ARG . ARG 192 A 192 
+A 193 1 n GLU . GLU 193 A 193 
+A 194 1 n ARG . ARG 194 A 194 
+A 195 1 n HIS . HIS 195 A 195 
+#
+loop_
+_software.classification
+_software.date
+_software.description
+_software.name
+_software.pdbx_ordinal
+_software.type
+_software.version
+other ? "Structure prediction" AlphaFold 1 package v2.0 
+other ? "Secondary structure"  dssp      2 library 4    
+#
+_struct_asym.entity_id 1
+_struct_asym.id        A
+#
+loop_
+_struct_conf.beg_auth_asym_id
+_struct_conf.beg_auth_comp_id
+_struct_conf.beg_auth_seq_id
+_struct_conf.beg_label_asym_id
+_struct_conf.beg_label_comp_id
+_struct_conf.beg_label_seq_id
+_struct_conf.conf_type_id
+_struct_conf.end_auth_asym_id
+_struct_conf.end_auth_comp_id
+_struct_conf.end_auth_seq_id
+_struct_conf.end_label_asym_id
+_struct_conf.end_label_comp_id
+_struct_conf.end_label_seq_id
+_struct_conf.id
+_struct_conf.pdbx_beg_PDB_ins_code
+_struct_conf.pdbx_end_PDB_ins_code
+A VAL 20  A VAL 20  HELX_LH_PP_P A PRO 24  A PRO 24  HELX_LH_PP_P1 ? ? 
+A HIS 27  A HIS 27  HELX_LH_PP_P A LYS 30  A LYS 30  HELX_LH_PP_P2 ? ? 
+A MET 31  A MET 31  HELX_RH_3T_P A ASP 33  A ASP 33  HELX_RH_3T_P1 ? ? 
+A VAL 47  A VAL 47  HELX_RH_3T_P A ASN 49  A ASN 49  HELX_RH_3T_P2 ? ? 
+A PRO 51  A PRO 51  HELX_RH_AL_P A GLU 58  A GLU 58  HELX_RH_AL_P1 ? ? 
+A ILE 59  A ILE 59  BEND         A ILE 59  A ILE 59  BEND1         ? ? 
+A PRO 60  A PRO 60  HELX_LH_PP_P A PRO 64  A PRO 64  HELX_LH_PP_P3 ? ? 
+A LEU 65  A LEU 65  BEND         A LEU 66  A LEU 66  BEND2         ? ? 
+A LYS 67  A LYS 67  TURN_TY1_P   A GLY 68  A GLY 68  TURN_TY1_P1   ? ? 
+A LEU 69  A LEU 69  BEND         A SER 71  A SER 71  BEND3         ? ? 
+A SER 75  A SER 75  BEND         A SER 75  A SER 75  BEND4         ? ? 
+A SER 86  A SER 86  HELX_RH_AL_P A SER 175 A SER 175 HELX_RH_AL_P2 ? ? 
+A MET 176 A MET 176 TURN_TY1_P   A MET 176 A MET 176 TURN_TY1_P2   ? ? 
+A LEU 177 A LEU 177 BEND         A LEU 177 A LEU 177 BEND5         ? ? 
+A GLU 179 A GLU 179 HELX_RH_3T_P A GLU 181 A GLU 181 HELX_RH_3T_P3 ? ? 
+A ARG 182 A ARG 182 HELX_LH_PP_P A PHE 186 A PHE 186 HELX_LH_PP_P4 ? ? 
+A LYS 189 A LYS 189 BEND         A LYS 189 A LYS 189 BEND6         ? ? 
+#
+loop_
+_struct_conf_type.criteria
+_struct_conf_type.id
+DSSP HELX_LH_PP_P 
+DSSP HELX_RH_3T_P 
+DSSP HELX_RH_AL_P 
+DSSP BEND         
+DSSP TURN_TY1_P   
+#
+_struct_ref.db_code                  BORC5_MOUSE
+_struct_ref.db_name                  UNP
+_struct_ref.entity_id                1
+_struct_ref.id                       1
+_struct_ref.pdbx_align_begin         1
+_struct_ref.pdbx_align_end           195
+_struct_ref.pdbx_db_accession        Q9D920
+_struct_ref.pdbx_db_isoform          ?
+_struct_ref.pdbx_seq_one_letter_code 
+;MGSEQSAEAESRPGDLNASVTPSPAKHRAKMDDIVVVAQGSQASRNVSNDPDVIKLQEIPTFQPLLKGLLSGQTSPTNAK
+LEKLDSQQVLQLCLRYQDHLHQCAEAVAFDQNALVKRIKEMDLSVETLFCFMQERQKRYAKYAEQIQKVNEMSAILRRIQ
+MGIDQTVPLMERLNSMLPEAERLEPFSMKPERERH
+;
+#
+_struct_ref_seq.align_id                    1
+_struct_ref_seq.db_align_beg                1
+_struct_ref_seq.db_align_end                195
+_struct_ref_seq.pdbx_PDB_id_code            AF-Q9D920-F1
+_struct_ref_seq.pdbx_auth_seq_align_beg     1
+_struct_ref_seq.pdbx_auth_seq_align_end     195
+_struct_ref_seq.pdbx_db_accession           Q9D920
+_struct_ref_seq.pdbx_db_align_beg_ins_code  ?
+_struct_ref_seq.pdbx_db_align_end_ins_code  ?
+_struct_ref_seq.pdbx_seq_align_beg_ins_code ?
+_struct_ref_seq.pdbx_seq_align_end_ins_code ?
+_struct_ref_seq.pdbx_strand_id              A
+_struct_ref_seq.ref_id                      1
+_struct_ref_seq.seq_align_beg               1
+_struct_ref_seq.seq_align_end               195
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+_atom_site.pdbx_sifts_xref_db_acc
+_atom_site.pdbx_sifts_xref_db_name
+_atom_site.pdbx_sifts_xref_db_num
+_atom_site.pdbx_sifts_xref_db_res
+ATOM 1    N N   . MET A 1 1   ? 9.018   20.413  38.466  1.0 47.18 ? 1   MET A N   1 Q9D920 UNP 1   M 
+ATOM 2    C CA  . MET A 1 1   ? 9.664   20.780  37.187  1.0 47.18 ? 1   MET A CA  1 Q9D920 UNP 1   M 
+ATOM 3    C C   . MET A 1 1   ? 8.906   20.049  36.089  1.0 47.18 ? 1   MET A C   1 Q9D920 UNP 1   M 
+ATOM 4    C CB  . MET A 1 1   ? 11.143  20.346  37.169  1.0 47.18 ? 1   MET A CB  1 Q9D920 UNP 1   M 
+ATOM 5    O O   . MET A 1 1   ? 8.923   18.828  36.123  1.0 47.18 ? 1   MET A O   1 Q9D920 UNP 1   M 
+ATOM 6    C CG  . MET A 1 1   ? 12.071  21.128  38.106  1.0 47.18 ? 1   MET A CG  1 Q9D920 UNP 1   M 
+ATOM 7    S SD  . MET A 1 1   ? 12.661  22.703  37.439  1.0 47.18 ? 1   MET A SD  1 Q9D920 UNP 1   M 
+ATOM 8    C CE  . MET A 1 1   ? 14.388  22.640  38.004  1.0 47.18 ? 1   MET A CE  1 Q9D920 UNP 1   M 
+ATOM 9    N N   . GLY A 1 2   ? 8.204   20.760  35.202  1.0 57.88 ? 2   GLY A N   1 Q9D920 UNP 2   G 
+ATOM 10   C CA  . GLY A 1 2   ? 7.455   20.171  34.078  1.0 57.88 ? 2   GLY A CA  1 Q9D920 UNP 2   G 
+ATOM 11   C C   . GLY A 1 2   ? 5.955   20.462  34.142  1.0 57.88 ? 2   GLY A C   1 Q9D920 UNP 2   G 
+ATOM 12   O O   . GLY A 1 2   ? 5.203   19.713  34.750  1.0 57.88 ? 2   GLY A O   1 Q9D920 UNP 2   G 
+ATOM 13   N N   . SER A 1 3   ? 5.567   21.591  33.561  1.0 48.38 ? 3   SER A N   1 Q9D920 UNP 3   S 
+ATOM 14   C CA  . SER A 1 3   ? 4.234   22.194  33.494  1.0 48.38 ? 3   SER A CA  1 Q9D920 UNP 3   S 
+ATOM 15   C C   . SER A 1 3   ? 3.715   22.136  32.064  1.0 48.38 ? 3   SER A C   1 Q9D920 UNP 3   S 
+ATOM 16   C CB  . SER A 1 3   ? 4.390   23.685  33.850  1.0 48.38 ? 3   SER A CB  1 Q9D920 UNP 3   S 
+ATOM 17   O O   . SER A 1 3   ? 4.440   22.628  31.208  1.0 48.38 ? 3   SER A O   1 Q9D920 UNP 3   S 
+ATOM 18   O OG  . SER A 1 3   ? 5.508   24.242  33.164  1.0 48.38 ? 3   SER A OG  1 Q9D920 UNP 3   S 
+ATOM 19   N N   . GLU A 1 4   ? 2.479   21.688  31.822  1.0 64.84 ? 4   GLU A N   1 Q9D920 UNP 4   E 
+ATOM 20   C CA  . GLU A 1 4   ? 1.703   22.079  30.631  1.0 64.84 ? 4   GLU A CA  1 Q9D920 UNP 4   E 
+ATOM 21   C C   . GLU A 1 4   ? 0.215   22.237  30.994  1.0 64.84 ? 4   GLU A C   1 Q9D920 UNP 4   E 
+ATOM 22   C CB  . GLU A 1 4   ? 1.937   21.155  29.418  1.0 64.84 ? 4   GLU A CB  1 Q9D920 UNP 4   E 
+ATOM 23   O O   . GLU A 1 4   ? -0.377  21.403  31.680  1.0 64.84 ? 4   GLU A O   1 Q9D920 UNP 4   E 
+ATOM 24   C CG  . GLU A 1 4   ? 3.380   21.295  28.900  1.0 64.84 ? 4   GLU A CG  1 Q9D920 UNP 4   E 
+ATOM 25   C CD  . GLU A 1 4   ? 3.626   20.691  27.523  1.0 64.84 ? 4   GLU A CD  1 Q9D920 UNP 4   E 
+ATOM 26   O OE1 . GLU A 1 4   ? 3.805   21.485  26.573  1.0 64.84 ? 4   GLU A OE1 1 Q9D920 UNP 4   E 
+ATOM 27   O OE2 . GLU A 1 4   ? 3.693   19.444  27.451  1.0 64.84 ? 4   GLU A OE2 1 Q9D920 UNP 4   E 
+ATOM 28   N N   . GLN A 1 5   ? -0.329  23.389  30.598  1.0 47.96 ? 5   GLN A N   1 Q9D920 UNP 5   Q 
+ATOM 29   C CA  . GLN A 1 5   ? -1.631  23.978  30.917  1.0 47.96 ? 5   GLN A CA  1 Q9D920 UNP 5   Q 
+ATOM 30   C C   . GLN A 1 5   ? -2.587  23.868  29.717  1.0 47.96 ? 5   GLN A C   1 Q9D920 UNP 5   Q 
+ATOM 31   C CB  . GLN A 1 5   ? -1.422  25.483  31.234  1.0 47.96 ? 5   GLN A CB  1 Q9D920 UNP 5   Q 
+ATOM 32   O O   . GLN A 1 5   ? -2.172  24.090  28.587  1.0 47.96 ? 5   GLN A O   1 Q9D920 UNP 5   Q 
+ATOM 33   C CG  . GLN A 1 5   ? -1.509  25.872  32.716  1.0 47.96 ? 5   GLN A CG  1 Q9D920 UNP 5   Q 
+ATOM 34   C CD  . GLN A 1 5   ? -1.177  27.349  32.956  1.0 47.96 ? 5   GLN A CD  1 Q9D920 UNP 5   Q 
+ATOM 35   N NE2 . GLN A 1 5   ? -1.577  27.911  34.076  1.0 47.96 ? 5   GLN A NE2 1 Q9D920 UNP 5   Q 
+ATOM 36   O OE1 . GLN A 1 5   ? -0.537  28.031  32.177  1.0 47.96 ? 5   GLN A OE1 1 Q9D920 UNP 5   Q 
+ATOM 37   N N   . SER A 1 6   ? -3.867  23.650  30.040  1.0 48.04 ? 6   SER A N   1 Q9D920 UNP 6   S 
+ATOM 38   C CA  . SER A 1 6   ? -5.084  24.303  29.516  1.0 48.04 ? 6   SER A CA  1 Q9D920 UNP 6   S 
+ATOM 39   C C   . SER A 1 6   ? -5.382  24.377  28.011  1.0 48.04 ? 6   SER A C   1 Q9D920 UNP 6   S 
+ATOM 40   C CB  . SER A 1 6   ? -5.163  25.729  30.075  1.0 48.04 ? 6   SER A CB  1 Q9D920 UNP 6   S 
+ATOM 41   O O   . SER A 1 6   ? -4.698  25.067  27.266  1.0 48.04 ? 6   SER A O   1 Q9D920 UNP 6   S 
+ATOM 42   O OG  . SER A 1 6   ? -5.103  25.717  31.492  1.0 48.04 ? 6   SER A OG  1 Q9D920 UNP 6   S 
+ATOM 43   N N   . ALA A 1 7   ? -6.568  23.875  27.636  1.0 47.83 ? 7   ALA A N   1 Q9D920 UNP 7   A 
+ATOM 44   C CA  . ALA A 1 7   ? -7.668  24.693  27.090  1.0 47.83 ? 7   ALA A CA  1 Q9D920 UNP 7   A 
+ATOM 45   C C   . ALA A 1 7   ? -8.946  23.838  26.924  1.0 47.83 ? 7   ALA A C   1 Q9D920 UNP 7   A 
+ATOM 46   C CB  . ALA A 1 7   ? -7.289  25.338  25.747  1.0 47.83 ? 7   ALA A CB  1 Q9D920 UNP 7   A 
+ATOM 47   O O   . ALA A 1 7   ? -9.014  22.976  26.051  1.0 47.83 ? 7   ALA A O   1 Q9D920 UNP 7   A 
+ATOM 48   N N   . GLU A 1 8   ? -9.961  24.086  27.758  1.0 41.37 ? 8   GLU A N   1 Q9D920 UNP 8   E 
+ATOM 49   C CA  . GLU A 1 8   ? -11.330 23.586  27.573  1.0 41.37 ? 8   GLU A CA  1 Q9D920 UNP 8   E 
+ATOM 50   C C   . GLU A 1 8   ? -12.101 24.523  26.631  1.0 41.37 ? 8   GLU A C   1 Q9D920 UNP 8   E 
+ATOM 51   C CB  . GLU A 1 8   ? -12.059 23.457  28.925  1.0 41.37 ? 8   GLU A CB  1 Q9D920 UNP 8   E 
+ATOM 52   O O   . GLU A 1 8   ? -12.078 25.744  26.794  1.0 41.37 ? 8   GLU A O   1 Q9D920 UNP 8   E 
+ATOM 53   C CG  . GLU A 1 8   ? -11.616 22.215  29.709  1.0 41.37 ? 8   GLU A CG  1 Q9D920 UNP 8   E 
+ATOM 54   C CD  . GLU A 1 8   ? -12.296 22.133  31.085  1.0 41.37 ? 8   GLU A CD  1 Q9D920 UNP 8   E 
+ATOM 55   O OE1 . GLU A 1 8   ? -13.097 21.193  31.288  1.0 41.37 ? 8   GLU A OE1 1 Q9D920 UNP 8   E 
+ATOM 56   O OE2 . GLU A 1 8   ? -11.972 22.997  31.931  1.0 41.37 ? 8   GLU A OE2 1 Q9D920 UNP 8   E 
+ATOM 57   N N   . ALA A 1 9   ? -12.781 23.935  25.644  1.0 50.14 ? 9   ALA A N   1 Q9D920 UNP 9   A 
+ATOM 58   C CA  . ALA A 1 9   ? -13.713 24.606  24.748  1.0 50.14 ? 9   ALA A CA  1 Q9D920 UNP 9   A 
+ATOM 59   C C   . ALA A 1 9   ? -15.149 24.185  25.089  1.0 50.14 ? 9   ALA A C   1 Q9D920 UNP 9   A 
+ATOM 60   C CB  . ALA A 1 9   ? -13.336 24.317  23.290  1.0 50.14 ? 9   ALA A CB  1 Q9D920 UNP 9   A 
+ATOM 61   O O   . ALA A 1 9   ? -15.488 23.004  25.157  1.0 50.14 ? 9   ALA A O   1 Q9D920 UNP 9   A 
+ATOM 62   N N   . GLU A 1 10  ? -15.974 25.199  25.301  1.0 41.02 ? 10  GLU A N   1 Q9D920 UNP 10  E 
+ATOM 63   C CA  . GLU A 1 10  ? -17.347 25.178  25.784  1.0 41.02 ? 10  GLU A CA  1 Q9D920 UNP 10  E 
+ATOM 64   C C   . GLU A 1 10  ? -18.342 25.090  24.613  1.0 41.02 ? 10  GLU A C   1 Q9D920 UNP 10  E 
+ATOM 65   C CB  . GLU A 1 10  ? -17.472 26.504  26.564  1.0 41.02 ? 10  GLU A CB  1 Q9D920 UNP 10  E 
+ATOM 66   O O   . GLU A 1 10  ? -18.348 25.973  23.759  1.0 41.02 ? 10  GLU A O   1 Q9D920 UNP 10  E 
+ATOM 67   C CG  . GLU A 1 10  ? -18.733 26.721  27.402  1.0 41.02 ? 10  GLU A CG  1 Q9D920 UNP 10  E 
+ATOM 68   C CD  . GLU A 1 10  ? -18.574 27.992  28.259  1.0 41.02 ? 10  GLU A CD  1 Q9D920 UNP 10  E 
+ATOM 69   O OE1 . GLU A 1 10  ? -19.414 28.908  28.095  1.0 41.02 ? 10  GLU A OE1 1 Q9D920 UNP 10  E 
+ATOM 70   O OE2 . GLU A 1 10  ? -17.618 28.039  29.062  1.0 41.02 ? 10  GLU A OE2 1 Q9D920 UNP 10  E 
+ATOM 71   N N   . SER A 1 11  ? -19.230 24.082  24.580  1.0 45.15 ? 11  SER A N   1 Q9D920 UNP 11  S 
+ATOM 72   C CA  . SER A 1 11  ? -20.586 24.252  24.019  1.0 45.15 ? 11  SER A CA  1 Q9D920 UNP 11  S 
+ATOM 73   C C   . SER A 1 11  ? -21.576 23.146  24.443  1.0 45.15 ? 11  SER A C   1 Q9D920 UNP 11  S 
+ATOM 74   C CB  . SER A 1 11  ? -20.617 24.448  22.484  1.0 45.15 ? 11  SER A CB  1 Q9D920 UNP 11  S 
+ATOM 75   O O   . SER A 1 11  ? -21.610 22.068  23.857  1.0 45.15 ? 11  SER A O   1 Q9D920 UNP 11  S 
+ATOM 76   O OG  . SER A 1 11  ? -20.477 23.256  21.744  1.0 45.15 ? 11  SER A OG  1 Q9D920 UNP 11  S 
+ATOM 77   N N   . ARG A 1 12  ? -22.424 23.501  25.421  1.0 45.74 ? 12  ARG A N   1 Q9D920 UNP 12  R 
+ATOM 78   C CA  . ARG A 1 12  ? -23.867 23.194  25.603  1.0 45.74 ? 12  ARG A CA  1 Q9D920 UNP 12  R 
+ATOM 79   C C   . ARG A 1 12  ? -24.376 21.738  25.555  1.0 45.74 ? 12  ARG A C   1 Q9D920 UNP 12  R 
+ATOM 80   C CB  . ARG A 1 12  ? -24.688 24.030  24.600  1.0 45.74 ? 12  ARG A CB  1 Q9D920 UNP 12  R 
+ATOM 81   O O   . ARG A 1 12  ? -24.385 21.109  24.501  1.0 45.74 ? 12  ARG A O   1 Q9D920 UNP 12  R 
+ATOM 82   C CG  . ARG A 1 12  ? -24.471 25.544  24.734  1.0 45.74 ? 12  ARG A CG  1 Q9D920 UNP 12  R 
+ATOM 83   C CD  . ARG A 1 12  ? -25.342 26.296  23.723  1.0 45.74 ? 12  ARG A CD  1 Q9D920 UNP 12  R 
+ATOM 84   N NE  . ARG A 1 12  ? -25.153 27.753  23.846  1.0 45.74 ? 12  ARG A NE  1 Q9D920 UNP 12  R 
+ATOM 85   N NH1 . ARG A 1 12  ? -26.668 28.399  22.247  1.0 45.74 ? 12  ARG A NH1 1 Q9D920 UNP 12  R 
+ATOM 86   N NH2 . ARG A 1 12  ? -25.526 29.946  23.384  1.0 45.74 ? 12  ARG A NH2 1 Q9D920 UNP 12  R 
+ATOM 87   C CZ  . ARG A 1 12  ? -25.781 28.689  23.160  1.0 45.74 ? 12  ARG A CZ  1 Q9D920 UNP 12  R 
+ATOM 88   N N   . PRO A 1 13  ? -25.138 21.360  26.596  1.0 46.40 ? 13  PRO A N   1 Q9D920 UNP 13  P 
+ATOM 89   C CA  . PRO A 1 13  ? -26.447 20.737  26.425  1.0 46.40 ? 13  PRO A CA  1 Q9D920 UNP 13  P 
+ATOM 90   C C   . PRO A 1 13  ? -27.556 21.616  27.028  1.0 46.40 ? 13  PRO A C   1 Q9D920 UNP 13  P 
+ATOM 91   C CB  . PRO A 1 13  ? -26.331 19.366  27.082  1.0 46.40 ? 13  PRO A CB  1 Q9D920 UNP 13  P 
+ATOM 92   O O   . PRO A 1 13  ? -27.370 22.273  28.046  1.0 46.40 ? 13  PRO A O   1 Q9D920 UNP 13  P 
+ATOM 93   C CG  . PRO A 1 13  ? -25.292 19.576  28.188  1.0 46.40 ? 13  PRO A CG  1 Q9D920 UNP 13  P 
+ATOM 94   C CD  . PRO A 1 13  ? -24.570 20.889  27.851  1.0 46.40 ? 13  PRO A CD  1 Q9D920 UNP 13  P 
+ATOM 95   N N   . GLY A 1 14  ? -28.693 21.676  26.333  1.0 41.52 ? 14  GLY A N   1 Q9D920 UNP 14  G 
+ATOM 96   C CA  . GLY A 1 14  ? -29.814 22.560  26.632  1.0 41.52 ? 14  GLY A CA  1 Q9D920 UNP 14  G 
+ATOM 97   C C   . GLY A 1 14  ? -30.568 22.207  27.913  1.0 41.52 ? 14  GLY A C   1 Q9D920 UNP 14  G 
+ATOM 98   O O   . GLY A 1 14  ? -31.008 21.074  28.099  1.0 41.52 ? 14  GLY A O   1 Q9D920 UNP 14  G 
+ATOM 99   N N   . ASP A 1 15  ? -30.772 23.233  28.736  1.0 39.91 ? 15  ASP A N   1 Q9D920 UNP 15  D 
+ATOM 100  C CA  . ASP A 1 15  ? -31.666 23.242  29.887  1.0 39.91 ? 15  ASP A CA  1 Q9D920 UNP 15  D 
+ATOM 101  C C   . ASP A 1 15  ? -33.132 23.340  29.441  1.0 39.91 ? 15  ASP A C   1 Q9D920 UNP 15  D 
+ATOM 102  C CB  . ASP A 1 15  ? -31.319 24.433  30.795  1.0 39.91 ? 15  ASP A CB  1 Q9D920 UNP 15  D 
+ATOM 103  O O   . ASP A 1 15  ? -33.590 24.362  28.925  1.0 39.91 ? 15  ASP A O   1 Q9D920 UNP 15  D 
+ATOM 104  C CG  . ASP A 1 15  ? -30.019 24.226  31.568  1.0 39.91 ? 15  ASP A CG  1 Q9D920 UNP 15  D 
+ATOM 105  O OD1 . ASP A 1 15  ? -29.932 23.182  32.252  1.0 39.91 ? 15  ASP A OD1 1 Q9D920 UNP 15  D 
+ATOM 106  O OD2 . ASP A 1 15  ? -29.159 25.130  31.494  1.0 39.91 ? 15  ASP A OD2 1 Q9D920 UNP 15  D 
+ATOM 107  N N   . LEU A 1 16  ? -33.898 22.283  29.699  1.0 46.03 ? 16  LEU A N   1 Q9D920 UNP 16  L 
+ATOM 108  C CA  . LEU A 1 16  ? -35.350 22.347  29.831  1.0 46.03 ? 16  LEU A CA  1 Q9D920 UNP 16  L 
+ATOM 109  C C   . LEU A 1 16  ? -35.671 22.320  31.324  1.0 46.03 ? 16  LEU A C   1 Q9D920 UNP 16  L 
+ATOM 110  C CB  . LEU A 1 16  ? -36.018 21.186  29.067  1.0 46.03 ? 16  LEU A CB  1 Q9D920 UNP 16  L 
+ATOM 111  O O   . LEU A 1 16  ? -35.890 21.258  31.900  1.0 46.03 ? 16  LEU A O   1 Q9D920 UNP 16  L 
+ATOM 112  C CG  . LEU A 1 16  ? -36.032 21.347  27.538  1.0 46.03 ? 16  LEU A CG  1 Q9D920 UNP 16  L 
+ATOM 113  C CD1 . LEU A 1 16  ? -36.449 20.023  26.895  1.0 46.03 ? 16  LEU A CD1 1 Q9D920 UNP 16  L 
+ATOM 114  C CD2 . LEU A 1 16  ? -37.025 22.422  27.081  1.0 46.03 ? 16  LEU A CD2 1 Q9D920 UNP 16  L 
+ATOM 115  N N   . ASN A 1 17  ? -35.700 23.491  31.959  1.0 42.03 ? 17  ASN A N   1 Q9D920 UNP 17  N 
+ATOM 116  C CA  . ASN A 1 17  ? -36.364 23.638  33.247  1.0 42.03 ? 17  ASN A CA  1 Q9D920 UNP 17  N 
+ATOM 117  C C   . ASN A 1 17  ? -37.176 24.937  33.252  1.0 42.03 ? 17  ASN A C   1 Q9D920 UNP 17  N 
+ATOM 118  C CB  . ASN A 1 17  ? -35.355 23.489  34.403  1.0 42.03 ? 17  ASN A CB  1 Q9D920 UNP 17  N 
+ATOM 119  O O   . ASN A 1 17  ? -36.640 26.044  33.256  1.0 42.03 ? 17  ASN A O   1 Q9D920 UNP 17  N 
+ATOM 120  C CG  . ASN A 1 17  ? -35.931 22.735  35.593  1.0 42.03 ? 17  ASN A CG  1 Q9D920 UNP 17  N 
+ATOM 121  N ND2 . ASN A 1 17  ? -35.232 22.717  36.702  1.0 42.03 ? 17  ASN A ND2 1 Q9D920 UNP 17  N 
+ATOM 122  O OD1 . ASN A 1 17  ? -36.999 22.146  35.560  1.0 42.03 ? 17  ASN A OD1 1 Q9D920 UNP 17  N 
+ATOM 123  N N   . ALA A 1 18  ? -38.495 24.777  33.164  1.0 46.19 ? 18  ALA A N   1 Q9D920 UNP 18  A 
+ATOM 124  C CA  . ALA A 1 18  ? -39.464 25.855  33.092  1.0 46.19 ? 18  ALA A CA  1 Q9D920 UNP 18  A 
+ATOM 125  C C   . ALA A 1 18  ? -39.471 26.654  34.405  1.0 46.19 ? 18  ALA A C   1 Q9D920 UNP 18  A 
+ATOM 126  C CB  . ALA A 1 18  ? -40.830 25.241  32.759  1.0 46.19 ? 18  ALA A CB  1 Q9D920 UNP 18  A 
+ATOM 127  O O   . ALA A 1 18  ? -39.936 26.187  35.444  1.0 46.19 ? 18  ALA A O   1 Q9D920 UNP 18  A 
+ATOM 128  N N   . SER A 1 19  ? -38.954 27.881  34.338  1.0 44.97 ? 19  SER A N   1 Q9D920 UNP 19  S 
+ATOM 129  C CA  . SER A 1 19  ? -39.079 28.893  35.382  1.0 44.97 ? 19  SER A CA  1 Q9D920 UNP 19  S 
+ATOM 130  C C   . SER A 1 19  ? -40.529 29.382  35.441  1.0 44.97 ? 19  SER A C   1 Q9D920 UNP 19  S 
+ATOM 131  C CB  . SER A 1 19  ? -38.112 30.045  35.086  1.0 44.97 ? 19  SER A CB  1 Q9D920 UNP 19  S 
+ATOM 132  O O   . SER A 1 19  ? -41.022 30.034  34.521  1.0 44.97 ? 19  SER A O   1 Q9D920 UNP 19  S 
+ATOM 133  O OG  . SER A 1 19  ? -38.147 31.018  36.110  1.0 44.97 ? 19  SER A OG  1 Q9D920 UNP 19  S 
+ATOM 134  N N   . VAL A 1 20  ? -41.226 29.034  36.524  1.0 52.69 ? 20  VAL A N   1 Q9D920 UNP 20  V 
+ATOM 135  C CA  . VAL A 1 20  ? -42.525 29.607  36.881  1.0 52.69 ? 20  VAL A CA  1 Q9D920 UNP 20  V 
+ATOM 136  C C   . VAL A 1 20  ? -42.306 31.069  37.266  1.0 52.69 ? 20  VAL A C   1 Q9D920 UNP 20  V 
+ATOM 137  C CB  . VAL A 1 20  ? -43.190 28.805  38.017  1.0 52.69 ? 20  VAL A CB  1 Q9D920 UNP 20  V 
+ATOM 138  O O   . VAL A 1 20  ? -41.622 31.381  38.239  1.0 52.69 ? 20  VAL A O   1 Q9D920 UNP 20  V 
+ATOM 139  C CG1 . VAL A 1 20  ? -44.498 29.443  38.503  1.0 52.69 ? 20  VAL A CG1 1 Q9D920 UNP 20  V 
+ATOM 140  C CG2 . VAL A 1 20  ? -43.511 27.379  37.545  1.0 52.69 ? 20  VAL A CG2 1 Q9D920 UNP 20  V 
+ATOM 141  N N   . THR A 1 21  ? -42.896 31.966  36.485  1.0 53.62 ? 21  THR A N   1 Q9D920 UNP 21  T 
+ATOM 142  C CA  . THR A 1 21  ? -42.916 33.407  36.724  1.0 53.62 ? 21  THR A CA  1 Q9D920 UNP 21  T 
+ATOM 143  C C   . THR A 1 21  ? -43.758 33.741  37.967  1.0 53.62 ? 21  THR A C   1 Q9D920 UNP 21  T 
+ATOM 144  C CB  . THR A 1 21  ? -43.478 34.131  35.488  1.0 53.62 ? 21  THR A CB  1 Q9D920 UNP 21  T 
+ATOM 145  O O   . THR A 1 21  ? -44.901 33.289  38.080  1.0 53.62 ? 21  THR A O   1 Q9D920 UNP 21  T 
+ATOM 146  C CG2 . THR A 1 21  ? -42.447 34.203  34.363  1.0 53.62 ? 21  THR A CG2 1 Q9D920 UNP 21  T 
+ATOM 147  O OG1 . THR A 1 21  ? -44.591 33.445  34.953  1.0 53.62 ? 21  THR A OG1 1 Q9D920 UNP 21  T 
+ATOM 148  N N   . PRO A 1 22  ? -43.250 34.546  38.920  1.0 56.30 ? 22  PRO A N   1 Q9D920 UNP 22  P 
+ATOM 149  C CA  . PRO A 1 22  ? -44.058 35.010  40.038  1.0 56.30 ? 22  PRO A CA  1 Q9D920 UNP 22  P 
+ATOM 150  C C   . PRO A 1 22  ? -45.054 36.069  39.543  1.0 56.30 ? 22  PRO A C   1 Q9D920 UNP 22  P 
+ATOM 151  C CB  . PRO A 1 22  ? -43.063 35.524  41.082  1.0 56.30 ? 22  PRO A CB  1 Q9D920 UNP 22  P 
+ATOM 152  O O   . PRO A 1 22  ? -44.676 37.109  39.008  1.0 56.30 ? 22  PRO A O   1 Q9D920 UNP 22  P 
+ATOM 153  C CG  . PRO A 1 22  ? -41.859 35.964  40.249  1.0 56.30 ? 22  PRO A CG  1 Q9D920 UNP 22  P 
+ATOM 154  C CD  . PRO A 1 22  ? -41.888 35.047  39.025  1.0 56.30 ? 22  PRO A CD  1 Q9D920 UNP 22  P 
+ATOM 155  N N   . SER A 1 23  ? -46.346 35.786  39.715  1.0 52.53 ? 23  SER A N   1 Q9D920 UNP 23  S 
+ATOM 156  C CA  . SER A 1 23  ? -47.442 36.726  39.449  1.0 52.53 ? 23  SER A CA  1 Q9D920 UNP 23  S 
+ATOM 157  C C   . SER A 1 23  ? -47.352 37.981  40.337  1.0 52.53 ? 23  SER A C   1 Q9D920 UNP 23  S 
+ATOM 158  C CB  . SER A 1 23  ? -48.780 36.009  39.636  1.0 52.53 ? 23  SER A CB  1 Q9D920 UNP 23  S 
+ATOM 159  O O   . SER A 1 23  ? -46.838 37.910  41.456  1.0 52.53 ? 23  SER A O   1 Q9D920 UNP 23  S 
+ATOM 160  O OG  . SER A 1 23  ? -49.058 35.226  38.495  1.0 52.53 ? 23  SER A OG  1 Q9D920 UNP 23  S 
+ATOM 161  N N   . PRO A 1 24  ? -47.842 39.137  39.849  1.0 54.33 ? 24  PRO A N   1 Q9D920 UNP 24  P 
+ATOM 162  C CA  . PRO A 1 24  ? -47.454 40.460  40.326  1.0 54.33 ? 24  PRO A CA  1 Q9D920 UNP 24  P 
+ATOM 163  C C   . PRO A 1 24  ? -47.931 40.745  41.751  1.0 54.33 ? 24  PRO A C   1 Q9D920 UNP 24  P 
+ATOM 164  C CB  . PRO A 1 24  ? -48.028 41.453  39.308  1.0 54.33 ? 24  PRO A CB  1 Q9D920 UNP 24  P 
+ATOM 165  O O   . PRO A 1 24  ? -49.001 40.309  42.182  1.0 54.33 ? 24  PRO A O   1 Q9D920 UNP 24  P 
+ATOM 166  C CG  . PRO A 1 24  ? -49.239 40.715  38.744  1.0 54.33 ? 24  PRO A CG  1 Q9D920 UNP 24  P 
+ATOM 167  C CD  . PRO A 1 24  ? -48.776 39.264  38.741  1.0 54.33 ? 24  PRO A CD  1 Q9D920 UNP 24  P 
+ATOM 168  N N   . ALA A 1 25  ? -47.117 41.524  42.466  1.0 53.21 ? 25  ALA A N   1 Q9D920 UNP 25  A 
+ATOM 169  C CA  . ALA A 1 25  ? -47.368 42.011  43.813  1.0 53.21 ? 25  ALA A CA  1 Q9D920 UNP 25  A 
+ATOM 170  C C   . ALA A 1 25  ? -48.778 42.617  43.937  1.0 53.21 ? 25  ALA A C   1 Q9D920 UNP 25  A 
+ATOM 171  C CB  . ALA A 1 25  ? -46.268 43.025  44.159  1.0 53.21 ? 25  ALA A CB  1 Q9D920 UNP 25  A 
+ATOM 172  O O   . ALA A 1 25  ? -49.073 43.704  43.427  1.0 53.21 ? 25  ALA A O   1 Q9D920 UNP 25  A 
+ATOM 173  N N   . LYS A 1 26  ? -49.650 41.885  44.640  1.0 54.80 ? 26  LYS A N   1 Q9D920 UNP 26  K 
+ATOM 174  C CA  . LYS A 1 26  ? -51.000 42.311  45.007  1.0 54.80 ? 26  LYS A CA  1 Q9D920 UNP 26  K 
+ATOM 175  C C   . LYS A 1 26  ? -50.905 43.623  45.777  1.0 54.80 ? 26  LYS A C   1 Q9D920 UNP 26  K 
+ATOM 176  C CB  . LYS A 1 26  ? -51.697 41.223  45.841  1.0 54.80 ? 26  LYS A CB  1 Q9D920 UNP 26  K 
+ATOM 177  O O   . LYS A 1 26  ? -50.387 43.667  46.893  1.0 54.80 ? 26  LYS A O   1 Q9D920 UNP 26  K 
+ATOM 178  C CG  . LYS A 1 26  ? -52.086 40.002  44.993  1.0 54.80 ? 26  LYS A CG  1 Q9D920 UNP 26  K 
+ATOM 179  C CD  . LYS A 1 26  ? -52.740 38.913  45.855  1.0 54.80 ? 26  LYS A CD  1 Q9D920 UNP 26  K 
+ATOM 180  C CE  . LYS A 1 26  ? -53.162 37.732  44.970  1.0 54.80 ? 26  LYS A CE  1 Q9D920 UNP 26  K 
+ATOM 181  N NZ  . LYS A 1 26  ? -53.790 36.642  45.760  1.0 54.80 ? 26  LYS A NZ  1 Q9D920 UNP 26  K 
+ATOM 182  N N   . HIS A 1 27  ? -51.397 44.687  45.155  1.0 62.49 ? 27  HIS A N   1 Q9D920 UNP 27  H 
+ATOM 183  C CA  . HIS A 1 27  ? -51.636 45.959  45.815  1.0 62.49 ? 27  HIS A CA  1 Q9D920 UNP 27  H 
+ATOM 184  C C   . HIS A 1 27  ? -52.523 45.692  47.036  1.0 62.49 ? 27  HIS A C   1 Q9D920 UNP 27  H 
+ATOM 185  C CB  . HIS A 1 27  ? -52.288 46.921  44.812  1.0 62.49 ? 27  HIS A CB  1 Q9D920 UNP 27  H 
+ATOM 186  O O   . HIS A 1 27  ? -53.537 45.002  46.928  1.0 62.49 ? 27  HIS A O   1 Q9D920 UNP 27  H 
+ATOM 187  C CG  . HIS A 1 27  ? -51.346 47.407  43.732  1.0 62.49 ? 27  HIS A CG  1 Q9D920 UNP 27  H 
+ATOM 188  C CD2 . HIS A 1 27  ? -51.340 48.664  43.189  1.0 62.49 ? 27  HIS A CD2 1 Q9D920 UNP 27  H 
+ATOM 189  N ND1 . HIS A 1 27  ? -50.310 46.709  43.137  1.0 62.49 ? 27  HIS A ND1 1 Q9D920 UNP 27  H 
+ATOM 190  C CE1 . HIS A 1 27  ? -49.702 47.532  42.267  1.0 62.49 ? 27  HIS A CE1 1 Q9D920 UNP 27  H 
+ATOM 191  N NE2 . HIS A 1 27  ? -50.290 48.737  42.272  1.0 62.49 ? 27  HIS A NE2 1 Q9D920 UNP 27  H 
+ATOM 192  N N   . ARG A 1 28  ? -52.101 46.170  48.214  1.0 64.85 ? 28  ARG A N   1 Q9D920 UNP 28  R 
+ATOM 193  C CA  . ARG A 1 28  ? -52.895 46.056  49.442  1.0 64.85 ? 28  ARG A CA  1 Q9D920 UNP 28  R 
+ATOM 194  C C   . ARG A 1 28  ? -54.245 46.731  49.208  1.0 64.85 ? 28  ARG A C   1 Q9D920 UNP 28  R 
+ATOM 195  C CB  . ARG A 1 28  ? -52.174 46.704  50.640  1.0 64.85 ? 28  ARG A CB  1 Q9D920 UNP 28  R 
+ATOM 196  O O   . ARG A 1 28  ? -54.280 47.929  48.930  1.0 64.85 ? 28  ARG A O   1 Q9D920 UNP 28  R 
+ATOM 197  C CG  . ARG A 1 28  ? -51.181 45.761  51.335  1.0 64.85 ? 28  ARG A CG  1 Q9D920 UNP 28  R 
+ATOM 198  C CD  . ARG A 1 28  ? -50.546 46.473  52.539  1.0 64.85 ? 28  ARG A CD  1 Q9D920 UNP 28  R 
+ATOM 199  N NE  . ARG A 1 28  ? -49.701 45.566  53.343  1.0 64.85 ? 28  ARG A NE  1 Q9D920 UNP 28  R 
+ATOM 200  N NH1 . ARG A 1 28  ? -49.021 47.108  54.905  1.0 64.85 ? 28  ARG A NH1 1 Q9D920 UNP 28  R 
+ATOM 201  N NH2 . ARG A 1 28  ? -48.348 44.991  55.087  1.0 64.85 ? 28  ARG A NH2 1 Q9D920 UNP 28  R 
+ATOM 202  C CZ  . ARG A 1 28  ? -49.030 45.891  54.436  1.0 64.85 ? 28  ARG A CZ  1 Q9D920 UNP 28  R 
+ATOM 203  N N   . ALA A 1 29  ? -55.317 45.954  49.340  1.0 67.32 ? 29  ALA A N   1 Q9D920 UNP 29  A 
+ATOM 204  C CA  . ALA A 1 29  ? -56.679 46.462  49.394  1.0 67.32 ? 29  ALA A CA  1 Q9D920 UNP 29  A 
+ATOM 205  C C   . ALA A 1 29  ? -56.763 47.561  50.465  1.0 67.32 ? 29  ALA A C   1 Q9D920 UNP 29  A 
+ATOM 206  C CB  . ALA A 1 29  ? -57.625 45.292  49.686  1.0 67.32 ? 29  ALA A CB  1 Q9D920 UNP 29  A 
+ATOM 207  O O   . ALA A 1 29  ? -56.244 47.401  51.577  1.0 67.32 ? 29  ALA A O   1 Q9D920 UNP 29  A 
+ATOM 208  N N   . LYS A 1 30  ? -57.350 48.702  50.100  1.0 74.96 ? 30  LYS A N   1 Q9D920 UNP 30  K 
+ATOM 209  C CA  . LYS A 1 30  ? -57.607 49.808  51.029  1.0 74.96 ? 30  LYS A CA  1 Q9D920 UNP 30  K 
+ATOM 210  C C   . LYS A 1 30  ? -58.869 49.494  51.829  1.0 74.96 ? 30  LYS A C   1 Q9D920 UNP 30  K 
+ATOM 211  C CB  . LYS A 1 30  ? -57.697 51.143  50.272  1.0 74.96 ? 30  LYS A CB  1 Q9D920 UNP 30  K 
+ATOM 212  O O   . LYS A 1 30  ? -59.683 48.681  51.417  1.0 74.96 ? 30  LYS A O   1 Q9D920 UNP 30  K 
+ATOM 213  C CG  . LYS A 1 30  ? -56.347 51.531  49.643  1.0 74.96 ? 30  LYS A CG  1 Q9D920 UNP 30  K 
+ATOM 214  C CD  . LYS A 1 30  ? -56.444 52.907  48.977  1.0 74.96 ? 30  LYS A CD  1 Q9D920 UNP 30  K 
+ATOM 215  C CE  . LYS A 1 30  ? -55.116 53.284  48.313  1.0 74.96 ? 30  LYS A CE  1 Q9D920 UNP 30  K 
+ATOM 216  N NZ  . LYS A 1 30  ? -55.205 54.627  47.687  1.0 74.96 ? 30  LYS A NZ  1 Q9D920 UNP 30  K 
+ATOM 217  N N   . MET A 1 31  ? -59.030 50.139  52.978  1.0 65.42 ? 31  MET A N   1 Q9D920 UNP 31  M 
+ATOM 218  C CA  . MET A 1 31  ? -60.168 49.910  53.877  1.0 65.42 ? 31  MET A CA  1 Q9D920 UNP 31  M 
+ATOM 219  C C   . MET A 1 31  ? -61.530 50.181  53.200  1.0 65.42 ? 31  MET A C   1 Q9D920 UNP 31  M 
+ATOM 220  C CB  . MET A 1 31  ? -59.923 50.770  55.123  1.0 65.42 ? 31  MET A CB  1 Q9D920 UNP 31  M 
+ATOM 221  O O   . MET A 1 31  ? -62.517 49.552  53.563  1.0 65.42 ? 31  MET A O   1 Q9D920 UNP 31  M 
+ATOM 222  C CG  . MET A 1 31  ? -60.714 50.342  56.358  1.0 65.42 ? 31  MET A CG  1 Q9D920 UNP 31  M 
+ATOM 223  S SD  . MET A 1 31  ? -59.958 50.986  57.880  1.0 65.42 ? 31  MET A SD  1 Q9D920 UNP 31  M 
+ATOM 224  C CE  . MET A 1 31  ? -61.354 50.826  59.019  1.0 65.42 ? 31  MET A CE  1 Q9D920 UNP 31  M 
+ATOM 225  N N   . ASP A 1 32  ? -61.549 51.024  52.161  1.0 71.07 ? 32  ASP A N   1 Q9D920 UNP 32  D 
+ATOM 226  C CA  . ASP A 1 32  ? -62.721 51.320  51.319  1.0 71.07 ? 32  ASP A CA  1 Q9D920 UNP 32  D 
+ATOM 227  C C   . ASP A 1 32  ? -63.102 50.186  50.345  1.0 71.07 ? 32  ASP A C   1 Q9D920 UNP 32  D 
+ATOM 228  C CB  . ASP A 1 32  ? -62.446 52.603  50.517  1.0 71.07 ? 32  ASP A CB  1 Q9D920 UNP 32  D 
+ATOM 229  O O   . ASP A 1 32  ? -64.183 50.202  49.765  1.0 71.07 ? 32  ASP A O   1 Q9D920 UNP 32  D 
+ATOM 230  C CG  . ASP A 1 32  ? -62.042 53.785  51.399  1.0 71.07 ? 32  ASP A CG  1 Q9D920 UNP 32  D 
+ATOM 231  O OD1 . ASP A 1 32  ? -62.714 54.012  52.427  1.0 71.07 ? 32  ASP A OD1 1 Q9D920 UNP 32  D 
+ATOM 232  O OD2 . ASP A 1 32  ? -61.005 54.408  51.069  1.0 71.07 ? 32  ASP A OD2 1 Q9D920 UNP 32  D 
+ATOM 233  N N   . ASP A 1 33  ? -62.223 49.198  50.163  1.0 69.95 ? 33  ASP A N   1 Q9D920 UNP 33  D 
+ATOM 234  C CA  . ASP A 1 33  ? -62.409 48.034  49.281  1.0 69.95 ? 33  ASP A CA  1 Q9D920 UNP 33  D 
+ATOM 235  C C   . ASP A 1 33  ? -63.125 46.872  50.006  1.0 69.95 ? 33  ASP A C   1 Q9D920 UNP 33  D 
+ATOM 236  C CB  . ASP A 1 33  ? -61.015 47.626  48.760  1.0 69.95 ? 33  ASP A CB  1 Q9D920 UNP 33  D 
+ATOM 237  O O   . ASP A 1 33  ? -63.371 45.799  49.451  1.0 69.95 ? 33  ASP A O   1 Q9D920 UNP 33  D 
+ATOM 238  C CG  . ASP A 1 33  ? -60.943 47.179  47.298  1.0 69.95 ? 33  ASP A CG  1 Q9D920 UNP 33  D 
+ATOM 239  O OD1 . ASP A 1 33  ? -61.925 47.359  46.547  1.0 69.95 ? 33  ASP A OD1 1 Q9D920 UNP 33  D 
+ATOM 240  O OD2 . ASP A 1 33  ? -59.828 46.738  46.927  1.0 69.95 ? 33  ASP A OD2 1 Q9D920 UNP 33  D 
+ATOM 241  N N   . ILE A 1 34  ? -63.455 47.068  51.289  1.0 72.71 ? 34  ILE A N   1 Q9D920 UNP 34  I 
+ATOM 242  C CA  . ILE A 1 34  ? -64.183 46.099  52.105  1.0 72.71 ? 34  ILE A CA  1 Q9D920 UNP 34  I 
+ATOM 243  C C   . ILE A 1 34  ? -65.680 46.259  51.826  1.0 72.71 ? 34  ILE A C   1 Q9D920 UNP 34  I 
+ATOM 244  C CB  . ILE A 1 34  ? -63.819 46.224  53.604  1.0 72.71 ? 34  ILE A CB  1 Q9D920 UNP 34  I 
+ATOM 245  O O   . ILE A 1 34  ? -66.397 46.992  52.507  1.0 72.71 ? 34  ILE A O   1 Q9D920 UNP 34  I 
+ATOM 246  C CG1 . ILE A 1 34  ? -62.289 46.098  53.810  1.0 72.71 ? 34  ILE A CG1 1 Q9D920 UNP 34  I 
+ATOM 247  C CG2 . ILE A 1 34  ? -64.556 45.132  54.410  1.0 72.71 ? 34  ILE A CG2 1 Q9D920 UNP 34  I 
+ATOM 248  C CD1 . ILE A 1 34  ? -61.830 46.298  55.260  1.0 72.71 ? 34  ILE A CD1 1 Q9D920 UNP 34  I 
+ATOM 249  N N   . VAL A 1 35  ? -66.173 45.523  50.832  1.0 74.19 ? 35  VAL A N   1 Q9D920 UNP 35  V 
+ATOM 250  C CA  . VAL A 1 35  ? -67.613 45.325  50.642  1.0 74.19 ? 35  VAL A CA  1 Q9D920 UNP 35  V 
+ATOM 251  C C   . VAL A 1 35  ? -68.102 44.348  51.710  1.0 74.19 ? 35  VAL A C   1 Q9D920 UNP 35  V 
+ATOM 252  C CB  . VAL A 1 35  ? -67.947 44.855  49.214  1.0 74.19 ? 35  VAL A CB  1 Q9D920 UNP 35  V 
+ATOM 253  O O   . VAL A 1 35  ? -67.901 43.136  51.612  1.0 74.19 ? 35  VAL A O   1 Q9D920 UNP 35  V 
+ATOM 254  C CG1 . VAL A 1 35  ? -69.463 44.696  49.025  1.0 74.19 ? 35  VAL A CG1 1 Q9D920 UNP 35  V 
+ATOM 255  C CG2 . VAL A 1 35  ? -67.449 45.871  48.177  1.0 74.19 ? 35  VAL A CG2 1 Q9D920 UNP 35  V 
+ATOM 256  N N   . VAL A 1 36  ? -68.748 44.873  52.754  1.0 75.55 ? 36  VAL A N   1 Q9D920 UNP 36  V 
+ATOM 257  C CA  . VAL A 1 36  ? -69.471 44.052  53.733  1.0 75.55 ? 36  VAL A CA  1 Q9D920 UNP 36  V 
+ATOM 258  C C   . VAL A 1 36  ? -70.692 43.466  53.032  1.0 75.55 ? 36  VAL A C   1 Q9D920 UNP 36  V 
+ATOM 259  C CB  . VAL A 1 36  ? -69.850 44.842  55.002  1.0 75.55 ? 36  VAL A CB  1 Q9D920 UNP 36  V 
+ATOM 260  O O   . VAL A 1 36  ? -71.715 44.126  52.858  1.0 75.55 ? 36  VAL A O   1 Q9D920 UNP 36  V 
+ATOM 261  C CG1 . VAL A 1 36  ? -70.605 43.959  56.008  1.0 75.55 ? 36  VAL A CG1 1 Q9D920 UNP 36  V 
+ATOM 262  C CG2 . VAL A 1 36  ? -68.593 45.375  55.705  1.0 75.55 ? 36  VAL A CG2 1 Q9D920 UNP 36  V 
+ATOM 263  N N   . VAL A 1 37  ? -70.570 42.214  52.594  1.0 73.05 ? 37  VAL A N   1 Q9D920 UNP 37  V 
+ATOM 264  C CA  . VAL A 1 37  ? -71.690 41.435  52.067  1.0 73.05 ? 37  VAL A CA  1 Q9D920 UNP 37  V 
+ATOM 265  C C   . VAL A 1 37  ? -72.677 41.240  53.214  1.0 73.05 ? 37  VAL A C   1 Q9D920 UNP 37  V 
+ATOM 266  C CB  . VAL A 1 37  ? -71.212 40.096  51.469  1.0 73.05 ? 37  VAL A CB  1 Q9D920 UNP 37  V 
+ATOM 267  O O   . VAL A 1 37  ? -72.367 40.568  54.199  1.0 73.05 ? 37  VAL A O   1 Q9D920 UNP 37  V 
+ATOM 268  C CG1 . VAL A 1 37  ? -72.376 39.278  50.894  1.0 73.05 ? 37  VAL A CG1 1 Q9D920 UNP 37  V 
+ATOM 269  C CG2 . VAL A 1 37  ? -70.210 40.335  50.330  1.0 73.05 ? 37  VAL A CG2 1 Q9D920 UNP 37  V 
+ATOM 270  N N   . ALA A 1 38  ? -73.849 41.873  53.101  1.0 68.01 ? 38  ALA A N   1 Q9D920 UNP 38  A 
+ATOM 271  C CA  . ALA A 1 38  ? -74.961 41.664  54.018  1.0 68.01 ? 38  ALA A CA  1 Q9D920 UNP 38  A 
+ATOM 272  C C   . ALA A 1 38  ? -75.164 40.158  54.209  1.0 68.01 ? 38  ALA A C   1 Q9D920 UNP 38  A 
+ATOM 273  C CB  . ALA A 1 38  ? -76.218 42.331  53.443  1.0 68.01 ? 38  ALA A CB  1 Q9D920 UNP 38  A 
+ATOM 274  O O   . ALA A 1 38  ? -75.163 39.418  53.222  1.0 68.01 ? 38  ALA A O   1 Q9D920 UNP 38  A 
+ATOM 275  N N   . GLN A 1 39  ? -75.299 39.709  55.464  1.0 63.14 ? 39  GLN A N   1 Q9D920 UNP 39  Q 
+ATOM 276  C CA  . GLN A 1 39  ? -75.569 38.305  55.763  1.0 63.14 ? 39  GLN A CA  1 Q9D920 UNP 39  Q 
+ATOM 277  C C   . GLN A 1 39  ? -76.748 37.857  54.899  1.0 63.14 ? 39  GLN A C   1 Q9D920 UNP 39  Q 
+ATOM 278  C CB  . GLN A 1 39  ? -75.870 38.096  57.257  1.0 63.14 ? 39  GLN A CB  1 Q9D920 UNP 39  Q 
+ATOM 279  O O   . GLN A 1 39  ? -77.872 38.331  55.071  1.0 63.14 ? 39  GLN A O   1 Q9D920 UNP 39  Q 
+ATOM 280  C CG  . GLN A 1 39  ? -74.594 38.015  58.108  1.0 63.14 ? 39  GLN A CG  1 Q9D920 UNP 39  Q 
+ATOM 281  C CD  . GLN A 1 39  ? -74.895 37.724  59.577  1.0 63.14 ? 39  GLN A CD  1 Q9D920 UNP 39  Q 
+ATOM 282  N NE2 . GLN A 1 39  ? -74.025 37.031  60.279  1.0 63.14 ? 39  GLN A NE2 1 Q9D920 UNP 39  Q 
+ATOM 283  O OE1 . GLN A 1 39  ? -75.906 38.112  60.132  1.0 63.14 ? 39  GLN A OE1 1 Q9D920 UNP 39  Q 
+ATOM 284  N N   . GLY A 1 40  ? -76.454 37.000  53.916  1.0 59.47 ? 40  GLY A N   1 Q9D920 UNP 40  G 
+ATOM 285  C CA  . GLY A 1 40  ? -77.460 36.461  53.019  1.0 59.47 ? 40  GLY A CA  1 Q9D920 UNP 40  G 
+ATOM 286  C C   . GLY A 1 40  ? -78.556 35.840  53.867  1.0 59.47 ? 40  GLY A C   1 Q9D920 UNP 40  G 
+ATOM 287  O O   . GLY A 1 40  ? -78.258 35.100  54.805  1.0 59.47 ? 40  GLY A O   1 Q9D920 UNP 40  G 
+ATOM 288  N N   . SER A 1 41  ? -79.808 36.189  53.567  1.0 59.96 ? 41  SER A N   1 Q9D920 UNP 41  S 
+ATOM 289  C CA  . SER A 1 41  ? -80.980 35.628  54.229  1.0 59.96 ? 41  SER A CA  1 Q9D920 UNP 41  S 
+ATOM 290  C C   . SER A 1 41  ? -80.924 34.105  54.101  1.0 59.96 ? 41  SER A C   1 Q9D920 UNP 41  S 
+ATOM 291  C CB  . SER A 1 41  ? -82.251 36.205  53.590  1.0 59.96 ? 41  SER A CB  1 Q9D920 UNP 41  S 
+ATOM 292  O O   . SER A 1 41  ? -81.280 33.540  53.068  1.0 59.96 ? 41  SER A O   1 Q9D920 UNP 41  S 
+ATOM 293  O OG  . SER A 1 41  ? -83.408 35.747  54.259  1.0 59.96 ? 41  SER A OG  1 Q9D920 UNP 41  S 
+ATOM 294  N N   . GLN A 1 42  ? -80.417 33.433  55.138  1.0 54.95 ? 42  GLN A N   1 Q9D920 UNP 42  Q 
+ATOM 295  C CA  . GLN A 1 42  ? -80.446 31.980  55.250  1.0 54.95 ? 42  GLN A CA  1 Q9D920 UNP 42  Q 
+ATOM 296  C C   . GLN A 1 42  ? -81.861 31.553  55.641  1.0 54.95 ? 42  GLN A C   1 Q9D920 UNP 42  Q 
+ATOM 297  C CB  . GLN A 1 42  ? -79.364 31.439  56.200  1.0 54.95 ? 42  GLN A CB  1 Q9D920 UNP 42  Q 
+ATOM 298  O O   . GLN A 1 42  ? -82.110 31.015  56.716  1.0 54.95 ? 42  GLN A O   1 Q9D920 UNP 42  Q 
+ATOM 299  C CG  . GLN A 1 42  ? -77.940 31.537  55.617  1.0 54.95 ? 42  GLN A CG  1 Q9D920 UNP 42  Q 
+ATOM 300  C CD  . GLN A 1 42  ? -77.008 30.415  56.081  1.0 54.95 ? 42  GLN A CD  1 Q9D920 UNP 42  Q 
+ATOM 301  N NE2 . GLN A 1 42  ? -75.743 30.463  55.723  1.0 54.95 ? 42  GLN A NE2 1 Q9D920 UNP 42  Q 
+ATOM 302  O OE1 . GLN A 1 42  ? -77.377 29.458  56.737  1.0 54.95 ? 42  GLN A OE1 1 Q9D920 UNP 42  Q 
+ATOM 303  N N   . ALA A 1 43  ? -82.814 31.806  54.748  1.0 52.47 ? 43  ALA A N   1 Q9D920 UNP 43  A 
+ATOM 304  C CA  . ALA A 1 43  ? -84.084 31.113  54.751  1.0 52.47 ? 43  ALA A CA  1 Q9D920 UNP 43  A 
+ATOM 305  C C   . ALA A 1 43  ? -83.848 29.739  54.112  1.0 52.47 ? 43  ALA A C   1 Q9D920 UNP 43  A 
+ATOM 306  C CB  . ALA A 1 43  ? -85.134 31.972  54.040  1.0 52.47 ? 43  ALA A CB  1 Q9D920 UNP 43  A 
+ATOM 307  O O   . ALA A 1 43  ? -83.940 29.581  52.897  1.0 52.47 ? 43  ALA A O   1 Q9D920 UNP 43  A 
+ATOM 308  N N   . SER A 1 44  ? -83.451 28.776  54.950  1.0 54.51 ? 44  SER A N   1 Q9D920 UNP 44  S 
+ATOM 309  C CA  . SER A 1 44  ? -83.884 27.372  54.864  1.0 54.51 ? 44  SER A CA  1 Q9D920 UNP 44  S 
+ATOM 310  C C   . SER A 1 44  ? -83.804 26.658  53.502  1.0 54.51 ? 44  SER A C   1 Q9D920 UNP 44  S 
+ATOM 311  C CB  . SER A 1 44  ? -85.278 27.236  55.495  1.0 54.51 ? 44  SER A CB  1 Q9D920 UNP 44  S 
+ATOM 312  O O   . SER A 1 44  ? -84.543 25.704  53.257  1.0 54.51 ? 44  SER A O   1 Q9D920 UNP 44  S 
+ATOM 313  O OG  . SER A 1 44  ? -86.208 28.091  54.855  1.0 54.51 ? 44  SER A OG  1 Q9D920 UNP 44  S 
+ATOM 314  N N   . ARG A 1 45  ? -82.879 27.034  52.614  1.0 58.94 ? 45  ARG A N   1 Q9D920 UNP 45  R 
+ATOM 315  C CA  . ARG A 1 45  ? -82.523 26.186  51.474  1.0 58.94 ? 45  ARG A CA  1 Q9D920 UNP 45  R 
+ATOM 316  C C   . ARG A 1 45  ? -81.555 25.131  51.980  1.0 58.94 ? 45  ARG A C   1 Q9D920 UNP 45  R 
+ATOM 317  C CB  . ARG A 1 45  ? -81.983 27.003  50.293  1.0 58.94 ? 45  ARG A CB  1 Q9D920 UNP 45  R 
+ATOM 318  O O   . ARG A 1 45  ? -80.362 25.388  52.104  1.0 58.94 ? 45  ARG A O   1 Q9D920 UNP 45  R 
+ATOM 319  C CG  . ARG A 1 45  ? -83.112 27.806  49.631  1.0 58.94 ? 45  ARG A CG  1 Q9D920 UNP 45  R 
+ATOM 320  C CD  . ARG A 1 45  ? -82.621 28.445  48.330  1.0 58.94 ? 45  ARG A CD  1 Q9D920 UNP 45  R 
+ATOM 321  N NE  . ARG A 1 45  ? -83.669 29.281  47.716  1.0 58.94 ? 45  ARG A NE  1 Q9D920 UNP 45  R 
+ATOM 322  N NH1 . ARG A 1 45  ? -82.451 29.964  45.896  1.0 58.94 ? 45  ARG A NH1 1 Q9D920 UNP 45  R 
+ATOM 323  N NH2 . ARG A 1 45  ? -84.537 30.708  46.169  1.0 58.94 ? 45  ARG A NH2 1 Q9D920 UNP 45  R 
+ATOM 324  C CZ  . ARG A 1 45  ? -83.548 29.978  46.601  1.0 58.94 ? 45  ARG A CZ  1 Q9D920 UNP 45  R 
+ATOM 325  N N   . ASN A 1 46  ? -82.091 23.957  52.314  1.0 61.06 ? 46  ASN A N   1 Q9D920 UNP 46  N 
+ATOM 326  C CA  . ASN A 1 46  ? -81.292 22.752  52.508  1.0 61.06 ? 46  ASN A CA  1 Q9D920 UNP 46  N 
+ATOM 327  C C   . ASN A 1 46  ? -80.364 22.619  51.294  1.0 61.06 ? 46  ASN A C   1 Q9D920 UNP 46  N 
+ATOM 328  C CB  . ASN A 1 46  ? -82.225 21.527  52.629  1.0 61.06 ? 46  ASN A CB  1 Q9D920 UNP 46  N 
+ATOM 329  O O   . ASN A 1 46  ? -80.840 22.319  50.204  1.0 61.06 ? 46  ASN A O   1 Q9D920 UNP 46  N 
+ATOM 330  C CG  . ASN A 1 46  ? -82.901 21.409  53.982  1.0 61.06 ? 46  ASN A CG  1 Q9D920 UNP 46  N 
+ATOM 331  N ND2 . ASN A 1 46  ? -84.075 20.825  54.039  1.0 61.06 ? 46  ASN A ND2 1 Q9D920 UNP 46  N 
+ATOM 332  O OD1 . ASN A 1 46  ? -82.384 21.821  55.003  1.0 61.06 ? 46  ASN A OD1 1 Q9D920 UNP 46  N 
+ATOM 333  N N   . VAL A 1 47  ? -79.062 22.866  51.474  1.0 69.71 ? 47  VAL A N   1 Q9D920 UNP 47  V 
+ATOM 334  C CA  . VAL A 1 47  ? -78.026 22.737  50.426  1.0 69.71 ? 47  VAL A CA  1 Q9D920 UNP 47  V 
+ATOM 335  C C   . VAL A 1 47  ? -78.072 21.343  49.788  1.0 69.71 ? 47  VAL A C   1 Q9D920 UNP 47  V 
+ATOM 336  C CB  . VAL A 1 47  ? -76.638 23.019  51.042  1.0 69.71 ? 47  VAL A CB  1 Q9D920 UNP 47  V 
+ATOM 337  O O   . VAL A 1 47  ? -77.780 21.173  48.612  1.0 69.71 ? 47  VAL A O   1 Q9D920 UNP 47  V 
+ATOM 338  C CG1 . VAL A 1 47  ? -75.483 22.828  50.053  1.0 69.71 ? 47  VAL A CG1 1 Q9D920 UNP 47  V 
+ATOM 339  C CG2 . VAL A 1 47  ? -76.558 24.459  51.575  1.0 69.71 ? 47  VAL A CG2 1 Q9D920 UNP 47  V 
+ATOM 340  N N   . SER A 1 48  ? -78.541 20.354  50.551  1.0 72.32 ? 48  SER A N   1 Q9D920 UNP 48  S 
+ATOM 341  C CA  . SER A 1 48  ? -78.837 18.989  50.113  1.0 72.32 ? 48  SER A CA  1 Q9D920 UNP 48  S 
+ATOM 342  C C   . SER A 1 48  ? -79.901 18.874  49.009  1.0 72.32 ? 48  SER A C   1 Q9D920 UNP 48  S 
+ATOM 343  C CB  . SER A 1 48  ? -79.323 18.192  51.330  1.0 72.32 ? 48  SER A CB  1 Q9D920 UNP 48  S 
+ATOM 344  O O   . SER A 1 48  ? -79.966 17.837  48.363  1.0 72.32 ? 48  SER A O   1 Q9D920 UNP 48  S 
+ATOM 345  O OG  . SER A 1 48  ? -78.490 18.431  52.456  1.0 72.32 ? 48  SER A OG  1 Q9D920 UNP 48  S 
+ATOM 346  N N   . ASN A 1 49  ? -80.725 19.903  48.793  1.0 79.16 ? 49  ASN A N   1 Q9D920 UNP 49  N 
+ATOM 347  C CA  . ASN A 1 49  ? -81.780 19.943  47.772  1.0 79.16 ? 49  ASN A CA  1 Q9D920 UNP 49  N 
+ATOM 348  C C   . ASN A 1 49  ? -81.408 20.824  46.565  1.0 79.16 ? 49  ASN A C   1 Q9D920 UNP 49  N 
+ATOM 349  C CB  . ASN A 1 49  ? -83.099 20.418  48.416  1.0 79.16 ? 49  ASN A CB  1 Q9D920 UNP 49  N 
+ATOM 350  O O   . ASN A 1 49  ? -82.251 21.047  45.696  1.0 79.16 ? 49  ASN A O   1 Q9D920 UNP 49  N 
+ATOM 351  C CG  . ASN A 1 49  ? -83.711 19.443  49.401  1.0 79.16 ? 49  ASN A CG  1 Q9D920 UNP 49  N 
+ATOM 352  N ND2 . ASN A 1 49  ? -84.730 19.862  50.116  1.0 79.16 ? 49  ASN A ND2 1 Q9D920 UNP 49  N 
+ATOM 353  O OD1 . ASN A 1 49  ? -83.333 18.299  49.551  1.0 79.16 ? 49  ASN A OD1 1 Q9D920 UNP 49  N 
+ATOM 354  N N   . ASP A 1 50  ? -80.189 21.369  46.518  1.0 83.51 ? 50  ASP A N   1 Q9D920 UNP 50  D 
+ATOM 355  C CA  . ASP A 1 50  ? -79.720 22.137  45.367  1.0 83.51 ? 50  ASP A CA  1 Q9D920 UNP 50  D 
+ATOM 356  C C   . ASP A 1 50  ? -79.473 21.185  44.176  1.0 83.51 ? 50  ASP A C   1 Q9D920 UNP 50  D 
+ATOM 357  C CB  . ASP A 1 50  ? -78.470 22.937  45.760  1.0 83.51 ? 50  ASP A CB  1 Q9D920 UNP 50  D 
+ATOM 358  O O   . ASP A 1 50  ? -78.683 20.242  44.309  1.0 83.51 ? 50  ASP A O   1 Q9D920 UNP 50  D 
+ATOM 359  C CG  . ASP A 1 50  ? -77.994 23.912  44.677  1.0 83.51 ? 50  ASP A CG  1 Q9D920 UNP 50  D 
+ATOM 360  O OD1 . ASP A 1 50  ? -78.202 23.617  43.479  1.0 83.51 ? 50  ASP A OD1 1 Q9D920 UNP 50  D 
+ATOM 361  O OD2 . ASP A 1 50  ? -77.444 24.962  45.071  1.0 83.51 ? 50  ASP A OD2 1 Q9D920 UNP 50  D 
+ATOM 362  N N   . PRO A 1 51  ? -80.131 21.391  43.016  1.0 86.63 ? 51  PRO A N   1 Q9D920 UNP 51  P 
+ATOM 363  C CA  . PRO A 1 51  ? -79.975 20.525  41.849  1.0 86.63 ? 51  PRO A CA  1 Q9D920 UNP 51  P 
+ATOM 364  C C   . PRO A 1 51  ? -78.523 20.403  41.365  1.0 86.63 ? 51  PRO A C   1 Q9D920 UNP 51  P 
+ATOM 365  C CB  . PRO A 1 51  ? -80.877 21.133  40.767  1.0 86.63 ? 51  PRO A CB  1 Q9D920 UNP 51  P 
+ATOM 366  O O   . PRO A 1 51  ? -78.164 19.358  40.820  1.0 86.63 ? 51  PRO A O   1 Q9D920 UNP 51  P 
+ATOM 367  C CG  . PRO A 1 51  ? -81.028 22.594  41.185  1.0 86.63 ? 51  PRO A CG  1 Q9D920 UNP 51  P 
+ATOM 368  C CD  . PRO A 1 51  ? -81.016 22.503  42.704  1.0 86.63 ? 51  PRO A CD  1 Q9D920 UNP 51  P 
+ATOM 369  N N   . ASP A 1 52  ? -77.677 21.415  41.567  1.0 85.43 ? 52  ASP A N   1 Q9D920 UNP 52  D 
+ATOM 370  C CA  . ASP A 1 52  ? -76.273 21.349  41.150  1.0 85.43 ? 52  ASP A CA  1 Q9D920 UNP 52  D 
+ATOM 371  C C   . ASP A 1 52  ? -75.415 20.550  42.143  1.0 85.43 ? 52  ASP A C   1 Q9D920 UNP 52  D 
+ATOM 372  C CB  . ASP A 1 52  ? -75.733 22.766  40.914  1.0 85.43 ? 52  ASP A CB  1 Q9D920 UNP 52  D 
+ATOM 373  O O   . ASP A 1 52  ? -74.508 19.821  41.734  1.0 85.43 ? 52  ASP A O   1 Q9D920 UNP 52  D 
+ATOM 374  C CG  . ASP A 1 52  ? -76.354 23.445  39.680  1.0 85.43 ? 52  ASP A CG  1 Q9D920 UNP 52  D 
+ATOM 375  O OD1 . ASP A 1 52  ? -76.817 22.725  38.748  1.0 85.43 ? 52  ASP A OD1 1 Q9D920 UNP 52  D 
+ATOM 376  O OD2 . ASP A 1 52  ? -76.318 24.694  39.636  1.0 85.43 ? 52  ASP A OD2 1 Q9D920 UNP 52  D 
+ATOM 377  N N   . VAL A 1 53  ? -75.749 20.592  43.437  1.0 86.91 ? 53  VAL A N   1 Q9D920 UNP 53  V 
+ATOM 378  C CA  . VAL A 1 53  ? -75.111 19.744  44.460  1.0 86.91 ? 53  VAL A CA  1 Q9D920 UNP 53  V 
+ATOM 379  C C   . VAL A 1 53  ? -75.467 18.275  44.237  1.0 86.91 ? 53  VAL A C   1 Q9D920 UNP 53  V 
+ATOM 380  C CB  . VAL A 1 53  ? -75.494 20.198  45.882  1.0 86.91 ? 53  VAL A CB  1 Q9D920 UNP 53  V 
+ATOM 381  O O   . VAL A 1 53  ? -74.590 17.418  44.338  1.0 86.91 ? 53  VAL A O   1 Q9D920 UNP 53  V 
+ATOM 382  C CG1 . VAL A 1 53  ? -74.901 19.288  46.968  1.0 86.91 ? 53  VAL A CG1 1 Q9D920 UNP 53  V 
+ATOM 383  C CG2 . VAL A 1 53  ? -74.978 21.619  46.147  1.0 86.91 ? 53  VAL A CG2 1 Q9D920 UNP 53  V 
+ATOM 384  N N   . ILE A 1 54  ? -76.718 17.982  43.873  1.0 86.93 ? 54  ILE A N   1 Q9D920 UNP 54  I 
+ATOM 385  C CA  . ILE A 1 54  ? -77.166 16.622  43.538  1.0 86.93 ? 54  ILE A CA  1 Q9D920 UNP 54  I 
+ATOM 386  C C   . ILE A 1 54  ? -76.389 16.086  42.326  1.0 86.93 ? 54  ILE A C   1 Q9D920 UNP 54  I 
+ATOM 387  C CB  . ILE A 1 54  ? -78.697 16.598  43.325  1.0 86.93 ? 54  ILE A CB  1 Q9D920 UNP 54  I 
+ATOM 388  O O   . ILE A 1 54  ? -75.810 15.006  42.406  1.0 86.93 ? 54  ILE A O   1 Q9D920 UNP 54  I 
+ATOM 389  C CG1 . ILE A 1 54  ? -79.421 16.912  44.658  1.0 86.93 ? 54  ILE A CG1 1 Q9D920 UNP 54  I 
+ATOM 390  C CG2 . ILE A 1 54  ? -79.157 15.232  42.781  1.0 86.93 ? 54  ILE A CG2 1 Q9D920 UNP 54  I 
+ATOM 391  C CD1 . ILE A 1 54  ? -80.918 17.209  44.502  1.0 86.93 ? 54  ILE A CD1 1 Q9D920 UNP 54  I 
+ATOM 392  N N   . LYS A 1 55  ? -76.270 16.865  41.241  1.0 88.45 ? 55  LYS A N   1 Q9D920 UNP 55  K 
+ATOM 393  C CA  . LYS A 1 55  ? -75.479 16.463  40.060  1.0 88.45 ? 55  LYS A CA  1 Q9D920 UNP 55  K 
+ATOM 394  C C   . LYS A 1 55  ? -74.012 16.203  40.388  1.0 88.45 ? 55  LYS A C   1 Q9D920 UNP 55  K 
+ATOM 395  C CB  . LYS A 1 55  ? -75.530 17.555  38.994  1.0 88.45 ? 55  LYS A CB  1 Q9D920 UNP 55  K 
+ATOM 396  O O   . LYS A 1 55  ? -73.428 15.270  39.851  1.0 88.45 ? 55  LYS A O   1 Q9D920 UNP 55  K 
+ATOM 397  C CG  . LYS A 1 55  ? -76.874 17.622  38.267  1.0 88.45 ? 55  LYS A CG  1 Q9D920 UNP 55  K 
+ATOM 398  C CD  . LYS A 1 55  ? -76.841 18.874  37.392  1.0 88.45 ? 55  LYS A CD  1 Q9D920 UNP 55  K 
+ATOM 399  C CE  . LYS A 1 55  ? -78.207 19.185  36.798  1.0 88.45 ? 55  LYS A CE  1 Q9D920 UNP 55  K 
+ATOM 400  N NZ  . LYS A 1 55  ? -78.199 20.586  36.313  1.0 88.45 ? 55  LYS A NZ  1 Q9D920 UNP 55  K 
+ATOM 401  N N   . LEU A 1 56  ? -73.402 17.013  41.256  1.0 86.65 ? 56  LEU A N   1 Q9D920 UNP 56  L 
+ATOM 402  C CA  . LEU A 1 56  ? -72.020 16.793  41.694  1.0 86.65 ? 56  LEU A CA  1 Q9D920 UNP 56  L 
+ATOM 403  C C   . LEU A 1 56  ? -71.871 15.493  42.497  1.0 86.65 ? 56  LEU A C   1 Q9D920 UNP 56  L 
+ATOM 404  C CB  . LEU A 1 56  ? -71.538 17.996  42.524  1.0 86.65 ? 56  LEU A CB  1 Q9D920 UNP 56  L 
+ATOM 405  O O   . LEU A 1 56  ? -70.844 14.828  42.377  1.0 86.65 ? 56  LEU A O   1 Q9D920 UNP 56  L 
+ATOM 406  C CG  . LEU A 1 56  ? -71.192 19.246  41.697  1.0 86.65 ? 56  LEU A CG  1 Q9D920 UNP 56  L 
+ATOM 407  C CD1 . LEU A 1 56  ? -70.947 20.423  42.642  1.0 86.65 ? 56  LEU A CD1 1 Q9D920 UNP 56  L 
+ATOM 408  C CD2 . LEU A 1 56  ? -69.927 19.049  40.856  1.0 86.65 ? 56  LEU A CD2 1 Q9D920 UNP 56  L 
+ATOM 409  N N   . GLN A 1 57  ? -72.882 15.122  43.287  1.0 83.98 ? 57  GLN A N   1 Q9D920 UNP 57  Q 
+ATOM 410  C CA  . GLN A 1 57  ? -72.906 13.858  44.033  1.0 83.98 ? 57  GLN A CA  1 Q9D920 UNP 57  Q 
+ATOM 411  C C   . GLN A 1 57  ? -73.111 12.633  43.129  1.0 83.98 ? 57  GLN A C   1 Q9D920 UNP 57  Q 
+ATOM 412  C CB  . GLN A 1 57  ? -73.999 13.911  45.110  1.0 83.98 ? 57  GLN A CB  1 Q9D920 UNP 57  Q 
+ATOM 413  O O   . GLN A 1 57  ? -72.663 11.544  43.483  1.0 83.98 ? 57  GLN A O   1 Q9D920 UNP 57  Q 
+ATOM 414  C CG  . GLN A 1 57  ? -73.639 14.860  46.262  1.0 83.98 ? 57  GLN A CG  1 Q9D920 UNP 57  Q 
+ATOM 415  C CD  . GLN A 1 57  ? -74.763 15.008  47.282  1.0 83.98 ? 57  GLN A CD  1 Q9D920 UNP 57  Q 
+ATOM 416  N NE2 . GLN A 1 57  ? -74.574 15.823  48.297  1.0 83.98 ? 57  GLN A NE2 1 Q9D920 UNP 57  Q 
+ATOM 417  O OE1 . GLN A 1 57  ? -75.816 14.402  47.231  1.0 83.98 ? 57  GLN A OE1 1 Q9D920 UNP 57  Q 
+ATOM 418  N N   . GLU A 1 58  ? -73.742 12.799  41.964  1.0 88.02 ? 58  GLU A N   1 Q9D920 UNP 58  E 
+ATOM 419  C CA  . GLU A 1 58  ? -73.900 11.742  40.954  1.0 88.02 ? 58  GLU A CA  1 Q9D920 UNP 58  E 
+ATOM 420  C C   . GLU A 1 58  ? -72.607 11.449  40.171  1.0 88.02 ? 58  GLU A C   1 Q9D920 UNP 58  E 
+ATOM 421  C CB  . GLU A 1 58  ? -75.029 12.116  39.978  1.0 88.02 ? 58  GLU A CB  1 Q9D920 UNP 58  E 
+ATOM 422  O O   . GLU A 1 58  ? -72.508 10.401  39.529  1.0 88.02 ? 58  GLU A O   1 Q9D920 UNP 58  E 
+ATOM 423  C CG  . GLU A 1 58  ? -76.426 12.059  40.617  1.0 88.02 ? 58  GLU A CG  1 Q9D920 UNP 58  E 
+ATOM 424  C CD  . GLU A 1 58  ? -77.549 12.533  39.676  1.0 88.02 ? 58  GLU A CD  1 Q9D920 UNP 58  E 
+ATOM 425  O OE1 . GLU A 1 58  ? -78.727 12.399  40.079  1.0 88.02 ? 58  GLU A OE1 1 Q9D920 UNP 58  E 
+ATOM 426  O OE2 . GLU A 1 58  ? -77.248 13.031  38.564  1.0 88.02 ? 58  GLU A OE2 1 Q9D920 UNP 58  E 
+ATOM 427  N N   . ILE A 1 59  ? -71.598 12.332  40.218  1.0 85.02 ? 59  ILE A N   1 Q9D920 UNP 59  I 
+ATOM 428  C CA  . ILE A 1 59  ? -70.320 12.115  39.526  1.0 85.02 ? 59  ILE A CA  1 Q9D920 UNP 59  I 
+ATOM 429  C C   . ILE A 1 59  ? -69.570 10.955  40.200  1.0 85.02 ? 59  ILE A C   1 Q9D920 UNP 59  I 
+ATOM 430  C CB  . ILE A 1 59  ? -69.451 13.393  39.467  1.0 85.02 ? 59  ILE A CB  1 Q9D920 UNP 59  I 
+ATOM 431  O O   . ILE A 1 59  ? -69.218 11.057  41.381  1.0 85.02 ? 59  ILE A O   1 Q9D920 UNP 59  I 
+ATOM 432  C CG1 . ILE A 1 59  ? -70.205 14.510  38.715  1.0 85.02 ? 59  ILE A CG1 1 Q9D920 UNP 59  I 
+ATOM 433  C CG2 . ILE A 1 59  ? -68.104 13.104  38.768  1.0 85.02 ? 59  ILE A CG2 1 Q9D920 UNP 59  I 
+ATOM 434  C CD1 . ILE A 1 59  ? -69.477 15.858  38.674  1.0 85.02 ? 59  ILE A CD1 1 Q9D920 UNP 59  I 
+ATOM 435  N N   . PRO A 1 60  ? -69.242 9.873   39.466  1.0 85.13 ? 60  PRO A N   1 Q9D920 UNP 60  P 
+ATOM 436  C CA  . PRO A 1 60  ? -68.419 8.797   39.996  1.0 85.13 ? 60  PRO A CA  1 Q9D920 UNP 60  P 
+ATOM 437  C C   . PRO A 1 60  ? -67.080 9.351   40.483  1.0 85.13 ? 60  PRO A C   1 Q9D920 UNP 60  P 
+ATOM 438  C CB  . PRO A 1 60  ? -68.248 7.786   38.857  1.0 85.13 ? 60  PRO A CB  1 Q9D920 UNP 60  P 
+ATOM 439  O O   . PRO A 1 60  ? -66.309 9.936   39.721  1.0 85.13 ? 60  PRO A O   1 Q9D920 UNP 60  P 
+ATOM 440  C CG  . PRO A 1 60  ? -69.452 8.061   37.958  1.0 85.13 ? 60  PRO A CG  1 Q9D920 UNP 60  P 
+ATOM 441  C CD  . PRO A 1 60  ? -69.652 9.565   38.106  1.0 85.13 ? 60  PRO A CD  1 Q9D920 UNP 60  P 
+ATOM 442  N N   . THR A 1 61  ? -66.795 9.172   41.769  1.0 81.09 ? 61  THR A N   1 Q9D920 UNP 61  T 
+ATOM 443  C CA  . THR A 1 61  ? -65.503 9.564   42.325  1.0 81.09 ? 61  THR A CA  1 Q9D920 UNP 61  T 
+ATOM 444  C C   . THR A 1 61  ? -64.453 8.534   41.923  1.0 81.09 ? 61  THR A C   1 Q9D920 UNP 61  T 
+ATOM 445  C CB  . THR A 1 61  ? -65.549 9.786   43.844  1.0 81.09 ? 61  THR A CB  1 Q9D920 UNP 61  T 
+ATOM 446  O O   . THR A 1 61  ? -64.616 7.332   42.132  1.0 81.09 ? 61  THR A O   1 Q9D920 UNP 61  T 
+ATOM 447  C CG2 . THR A 1 61  ? -66.437 10.973  44.213  1.0 81.09 ? 61  THR A CG2 1 Q9D920 UNP 61  T 
+ATOM 448  O OG1 . THR A 1 61  ? -66.057 8.674   44.539  1.0 81.09 ? 61  THR A OG1 1 Q9D920 UNP 61  T 
+ATOM 449  N N   . PHE A 1 62  ? -63.351 8.997   41.337  1.0 77.00 ? 62  PHE A N   1 Q9D920 UNP 62  F 
+ATOM 450  C CA  . PHE A 1 62  ? -62.187 8.153   41.093  1.0 77.00 ? 62  PHE A CA  1 Q9D920 UNP 62  F 
+ATOM 451  C C   . PHE A 1 62  ? -61.236 8.272   42.278  1.0 77.00 ? 62  PHE A C   1 Q9D920 UNP 62  F 
+ATOM 452  C CB  . PHE A 1 62  ? -61.521 8.506   39.760  1.0 77.00 ? 62  PHE A CB  1 Q9D920 UNP 62  F 
+ATOM 453  O O   . PHE A 1 62  ? -60.927 9.372   42.739  1.0 77.00 ? 62  PHE A O   1 Q9D920 UNP 62  F 
+ATOM 454  C CG  . PHE A 1 62  ? -62.430 8.276   38.568  1.0 77.00 ? 62  PHE A CG  1 Q9D920 UNP 62  F 
+ATOM 455  C CD1 . PHE A 1 62  ? -62.541 6.993   37.997  1.0 77.00 ? 62  PHE A CD1 1 Q9D920 UNP 62  F 
+ATOM 456  C CD2 . PHE A 1 62  ? -63.204 9.335   38.059  1.0 77.00 ? 62  PHE A CD2 1 Q9D920 UNP 62  F 
+ATOM 457  C CE1 . PHE A 1 62  ? -63.418 6.775   36.918  1.0 77.00 ? 62  PHE A CE1 1 Q9D920 UNP 62  F 
+ATOM 458  C CE2 . PHE A 1 62  ? -64.082 9.116   36.984  1.0 77.00 ? 62  PHE A CE2 1 Q9D920 UNP 62  F 
+ATOM 459  C CZ  . PHE A 1 62  ? -64.188 7.837   36.412  1.0 77.00 ? 62  PHE A CZ  1 Q9D920 UNP 62  F 
+ATOM 460  N N   . GLN A 1 63  ? -60.752 7.136   42.776  1.0 73.74 ? 63  GLN A N   1 Q9D920 UNP 63  Q 
+ATOM 461  C CA  . GLN A 1 63  ? -59.659 7.150   43.740  1.0 73.74 ? 63  GLN A CA  1 Q9D920 UNP 63  Q 
+ATOM 462  C C   . GLN A 1 63  ? -58.357 7.504   43.009  1.0 73.74 ? 63  GLN A C   1 Q9D920 UNP 63  Q 
+ATOM 463  C CB  . GLN A 1 63  ? -59.556 5.810   44.484  1.0 73.74 ? 63  GLN A CB  1 Q9D920 UNP 63  Q 
+ATOM 464  O O   . GLN A 1 63  ? -58.114 6.963   41.927  1.0 73.74 ? 63  GLN A O   1 Q9D920 UNP 63  Q 
+ATOM 465  C CG  . GLN A 1 63  ? -60.781 5.583   45.384  1.0 73.74 ? 63  GLN A CG  1 Q9D920 UNP 63  Q 
+ATOM 466  C CD  . GLN A 1 63  ? -60.603 4.436   46.376  1.0 73.74 ? 63  GLN A CD  1 Q9D920 UNP 63  Q 
+ATOM 467  N NE2 . GLN A 1 63  ? -61.240 4.517   47.523  1.0 73.74 ? 63  GLN A NE2 1 Q9D920 UNP 63  Q 
+ATOM 468  O OE1 . GLN A 1 63  ? -59.874 3.470   46.182  1.0 73.74 ? 63  GLN A OE1 1 Q9D920 UNP 63  Q 
+ATOM 469  N N   . PRO A 1 64  ? -57.504 8.382   43.566  1.0 71.98 ? 64  PRO A N   1 Q9D920 UNP 64  P 
+ATOM 470  C CA  . PRO A 1 64  ? -56.210 8.657   42.960  1.0 71.98 ? 64  PRO A CA  1 Q9D920 UNP 64  P 
+ATOM 471  C C   . PRO A 1 64  ? -55.389 7.367   42.876  1.0 71.98 ? 64  PRO A C   1 Q9D920 UNP 64  P 
+ATOM 472  C CB  . PRO A 1 64  ? -55.558 9.718   43.849  1.0 71.98 ? 64  PRO A CB  1 Q9D920 UNP 64  P 
+ATOM 473  O O   . PRO A 1 64  ? -55.357 6.592   43.835  1.0 71.98 ? 64  PRO A O   1 Q9D920 UNP 64  P 
+ATOM 474  C CG  . PRO A 1 64  ? -56.222 9.517   45.212  1.0 71.98 ? 64  PRO A CG  1 Q9D920 UNP 64  P 
+ATOM 475  C CD  . PRO A 1 64  ? -57.634 9.065   44.844  1.0 71.98 ? 64  PRO A CD  1 Q9D920 UNP 64  P 
+ATOM 476  N N   . LEU A 1 65  ? -54.705 7.166   41.742  1.0 70.68 ? 65  LEU A N   1 Q9D920 UNP 65  L 
+ATOM 477  C CA  . LEU A 1 65  ? -53.818 6.013   41.515  1.0 70.68 ? 65  LEU A CA  1 Q9D920 UNP 65  L 
+ATOM 478  C C   . LEU A 1 65  ? -52.783 5.888   42.641  1.0 70.68 ? 65  LEU A C   1 Q9D920 UNP 65  L 
+ATOM 479  C CB  . LEU A 1 65  ? -53.097 6.184   40.161  1.0 70.68 ? 65  LEU A CB  1 Q9D920 UNP 65  L 
+ATOM 480  O O   . LEU A 1 65  ? -52.493 4.801   43.129  1.0 70.68 ? 65  LEU A O   1 Q9D920 UNP 65  L 
+ATOM 481  C CG  . LEU A 1 65  ? -54.006 6.113   38.919  1.0 70.68 ? 65  LEU A CG  1 Q9D920 UNP 65  L 
+ATOM 482  C CD1 . LEU A 1 65  ? -53.216 6.527   37.677  1.0 70.68 ? 65  LEU A CD1 1 Q9D920 UNP 65  L 
+ATOM 483  C CD2 . LEU A 1 65  ? -54.556 4.705   38.694  1.0 70.68 ? 65  LEU A CD2 1 Q9D920 UNP 65  L 
+ATOM 484  N N   . LEU A 1 66  ? -52.282 7.033   43.105  1.0 65.83 ? 66  LEU A N   1 Q9D920 UNP 66  L 
+ATOM 485  C CA  . LEU A 1 66  ? -51.362 7.141   44.225  1.0 65.83 ? 66  LEU A CA  1 Q9D920 UNP 66  L 
+ATOM 486  C C   . LEU A 1 66  ? -52.126 7.613   45.465  1.0 65.83 ? 66  LEU A C   1 Q9D920 UNP 66  L 
+ATOM 487  C CB  . LEU A 1 66  ? -50.194 8.053   43.819  1.0 65.83 ? 66  LEU A CB  1 Q9D920 UNP 66  L 
+ATOM 488  O O   . LEU A 1 66  ? -52.256 8.810   45.737  1.0 65.83 ? 66  LEU A O   1 Q9D920 UNP 66  L 
+ATOM 489  C CG  . LEU A 1 66  ? -49.363 7.499   42.642  1.0 65.83 ? 66  LEU A CG  1 Q9D920 UNP 66  L 
+ATOM 490  C CD1 . LEU A 1 66  ? -48.373 8.548   42.143  1.0 65.83 ? 66  LEU A CD1 1 Q9D920 UNP 66  L 
+ATOM 491  C CD2 . LEU A 1 66  ? -48.575 6.248   43.035  1.0 65.83 ? 66  LEU A CD2 1 Q9D920 UNP 66  L 
+ATOM 492  N N   . LYS A 1 67  ? -52.654 6.648   46.221  1.0 64.04 ? 67  LYS A N   1 Q9D920 UNP 67  K 
+ATOM 493  C CA  . LYS A 1 67  ? -53.266 6.901   47.531  1.0 64.04 ? 67  LYS A CA  1 Q9D920 UNP 67  K 
+ATOM 494  C C   . LYS A 1 67  ? -52.199 7.481   48.470  1.0 64.04 ? 67  LYS A C   1 Q9D920 UNP 67  K 
+ATOM 495  C CB  . LYS A 1 67  ? -53.893 5.609   48.089  1.0 64.04 ? 67  LYS A CB  1 Q9D920 UNP 67  K 
+ATOM 496  O O   . LYS A 1 67  ? -51.154 6.869   48.658  1.0 64.04 ? 67  LYS A O   1 Q9D920 UNP 67  K 
+ATOM 497  C CG  . LYS A 1 67  ? -55.019 5.081   47.183  1.0 64.04 ? 67  LYS A CG  1 Q9D920 UNP 67  K 
+ATOM 498  C CD  . LYS A 1 67  ? -55.704 3.831   47.756  1.0 64.04 ? 67  LYS A CD  1 Q9D920 UNP 67  K 
+ATOM 499  C CE  . LYS A 1 67  ? -56.792 3.406   46.761  1.0 64.04 ? 67  LYS A CE  1 Q9D920 UNP 67  K 
+ATOM 500  N NZ  . LYS A 1 67  ? -57.578 2.233   47.208  1.0 64.04 ? 67  LYS A NZ  1 Q9D920 UNP 67  K 
+ATOM 501  N N   . GLY A 1 68  ? -52.457 8.663   49.036  1.0 62.02 ? 68  GLY A N   1 Q9D920 UNP 68  G 
+ATOM 502  C CA  . GLY A 1 68  ? -51.578 9.315   50.019  1.0 62.02 ? 68  GLY A CA  1 Q9D920 UNP 68  G 
+ATOM 503  C C   . GLY A 1 68  ? -50.809 10.554  49.540  1.0 62.02 ? 68  GLY A C   1 Q9D920 UNP 68  G 
+ATOM 504  O O   . GLY A 1 68  ? -50.195 11.216  50.369  1.0 62.02 ? 68  GLY A O   1 Q9D920 UNP 68  G 
+ATOM 505  N N   . LEU A 1 69  ? -50.858 10.915  48.250  1.0 61.91 ? 69  LEU A N   1 Q9D920 UNP 69  L 
+ATOM 506  C CA  . LEU A 1 69  ? -50.215 12.147  47.749  1.0 61.91 ? 69  LEU A CA  1 Q9D920 UNP 69  L 
+ATOM 507  C C   . LEU A 1 69  ? -51.125 13.383  47.770  1.0 61.91 ? 69  LEU A C   1 Q9D920 UNP 69  L 
+ATOM 508  C CB  . LEU A 1 69  ? -49.665 11.907  46.333  1.0 61.91 ? 69  LEU A CB  1 Q9D920 UNP 69  L 
+ATOM 509  O O   . LEU A 1 69  ? -50.641 14.510  47.705  1.0 61.91 ? 69  LEU A O   1 Q9D920 UNP 69  L 
+ATOM 510  C CG  . LEU A 1 69  ? -48.434 10.987  46.281  1.0 61.91 ? 69  LEU A CG  1 Q9D920 UNP 69  L 
+ATOM 511  C CD1 . LEU A 1 69  ? -48.013 10.809  44.827  1.0 61.91 ? 69  LEU A CD1 1 Q9D920 UNP 69  L 
+ATOM 512  C CD2 . LEU A 1 69  ? -47.228 11.561  47.030  1.0 61.91 ? 69  LEU A CD2 1 Q9D920 UNP 69  L 
+ATOM 513  N N   . LEU A 1 70  ? -52.440 13.187  47.862  1.0 56.83 ? 70  LEU A N   1 Q9D920 UNP 70  L 
+ATOM 514  C CA  . LEU A 1 70  ? -53.420 14.265  47.839  1.0 56.83 ? 70  LEU A CA  1 Q9D920 UNP 70  L 
+ATOM 515  C C   . LEU A 1 70  ? -54.005 14.455  49.240  1.0 56.83 ? 70  LEU A C   1 Q9D920 UNP 70  L 
+ATOM 516  C CB  . LEU A 1 70  ? -54.473 13.973  46.754  1.0 56.83 ? 70  LEU A CB  1 Q9D920 UNP 70  L 
+ATOM 517  O O   . LEU A 1 70  ? -54.565 13.530  49.823  1.0 56.83 ? 70  LEU A O   1 Q9D920 UNP 70  L 
+ATOM 518  C CG  . LEU A 1 70  ? -53.910 14.127  45.324  1.0 56.83 ? 70  LEU A CG  1 Q9D920 UNP 70  L 
+ATOM 519  C CD1 . LEU A 1 70  ? -54.770 13.346  44.337  1.0 56.83 ? 70  LEU A CD1 1 Q9D920 UNP 70  L 
+ATOM 520  C CD2 . LEU A 1 70  ? -53.870 15.589  44.876  1.0 56.83 ? 70  LEU A CD2 1 Q9D920 UNP 70  L 
+ATOM 521  N N   . SER A 1 71  ? -53.910 15.691  49.732  1.0 53.57 ? 71  SER A N   1 Q9D920 UNP 71  S 
+ATOM 522  C CA  . SER A 1 71  ? -54.563 16.246  50.928  1.0 53.57 ? 71  SER A CA  1 Q9D920 UNP 71  S 
+ATOM 523  C C   . SER A 1 71  ? -54.141 15.685  52.291  1.0 53.57 ? 71  SER A C   1 Q9D920 UNP 71  S 
+ATOM 524  C CB  . SER A 1 71  ? -56.099 16.294  50.773  1.0 53.57 ? 71  SER A CB  1 Q9D920 UNP 71  S 
+ATOM 525  O O   . SER A 1 71  ? -54.733 14.732  52.773  1.0 53.57 ? 71  SER A O   1 Q9D920 UNP 71  S 
+ATOM 526  O OG  . SER A 1 71  ? -56.657 15.155  50.150  1.0 53.57 ? 71  SER A OG  1 Q9D920 UNP 71  S 
+ATOM 527  N N   . GLY A 1 72  ? -53.188 16.370  52.945  1.0 57.08 ? 72  GLY A N   1 Q9D920 UNP 72  G 
+ATOM 528  C CA  . GLY A 1 72  ? -53.259 16.873  54.337  1.0 57.08 ? 72  GLY A CA  1 Q9D920 UNP 72  G 
+ATOM 529  C C   . GLY A 1 72  ? -53.611 15.939  55.505  1.0 57.08 ? 72  GLY A C   1 Q9D920 UNP 72  G 
+ATOM 530  O O   . GLY A 1 72  ? -53.655 16.402  56.642  1.0 57.08 ? 72  GLY A O   1 Q9D920 UNP 72  G 
+ATOM 531  N N   . GLN A 1 73  ? -53.862 14.655  55.274  1.0 55.34 ? 73  GLN A N   1 Q9D920 UNP 73  Q 
+ATOM 532  C CA  . GLN A 1 73  ? -54.198 13.685  56.300  1.0 55.34 ? 73  GLN A CA  1 Q9D920 UNP 73  Q 
+ATOM 533  C C   . GLN A 1 73  ? -52.905 13.060  56.811  1.0 55.34 ? 73  GLN A C   1 Q9D920 UNP 73  Q 
+ATOM 534  C CB  . GLN A 1 73  ? -55.200 12.649  55.767  1.0 55.34 ? 73  GLN A CB  1 Q9D920 UNP 73  Q 
+ATOM 535  O O   . GLN A 1 73  ? -52.305 12.198  56.180  1.0 55.34 ? 73  GLN A O   1 Q9D920 UNP 73  Q 
+ATOM 536  C CG  . GLN A 1 73  ? -56.577 13.281  55.494  1.0 55.34 ? 73  GLN A CG  1 Q9D920 UNP 73  Q 
+ATOM 537  C CD  . GLN A 1 73  ? -57.661 12.257  55.170  1.0 55.34 ? 73  GLN A CD  1 Q9D920 UNP 73  Q 
+ATOM 538  N NE2 . GLN A 1 73  ? -58.858 12.699  54.851  1.0 55.34 ? 73  GLN A NE2 1 Q9D920 UNP 73  Q 
+ATOM 539  O OE1 . GLN A 1 73  ? -57.478 11.053  55.217  1.0 55.34 ? 73  GLN A OE1 1 Q9D920 UNP 73  Q 
+ATOM 540  N N   . THR A 1 74  ? -52.495 13.489  57.998  1.0 51.06 ? 74  THR A N   1 Q9D920 UNP 74  T 
+ATOM 541  C CA  . THR A 1 74  ? -51.379 12.943  58.783  1.0 51.06 ? 74  THR A CA  1 Q9D920 UNP 74  T 
+ATOM 542  C C   . THR A 1 74  ? -51.664 11.548  59.356  1.0 51.06 ? 74  THR A C   1 Q9D920 UNP 74  T 
+ATOM 543  C CB  . THR A 1 74  ? -51.036 13.919  59.919  1.0 51.06 ? 74  THR A CB  1 Q9D920 UNP 74  T 
+ATOM 544  O O   . THR A 1 74  ? -50.976 11.101  60.271  1.0 51.06 ? 74  THR A O   1 Q9D920 UNP 74  T 
+ATOM 545  C CG2 . THR A 1 74  ? -50.423 15.215  59.389  1.0 51.06 ? 74  THR A CG2 1 Q9D920 UNP 74  T 
+ATOM 546  O OG1 . THR A 1 74  ? -52.217 14.273  60.608  1.0 51.06 ? 74  THR A OG1 1 Q9D920 UNP 74  T 
+ATOM 547  N N   . SER A 1 75  ? -52.665 10.834  58.836  1.0 51.44 ? 75  SER A N   1 Q9D920 UNP 75  S 
+ATOM 548  C CA  . SER A 1 75  ? -52.948 9.465   59.249  1.0 51.44 ? 75  SER A CA  1 Q9D920 UNP 75  S 
+ATOM 549  C C   . SER A 1 75  ? -52.281 8.503   58.267  1.0 51.44 ? 75  SER A C   1 Q9D920 UNP 75  S 
+ATOM 550  C CB  . SER A 1 75  ? -54.451 9.218   59.343  1.0 51.44 ? 75  SER A CB  1 Q9D920 UNP 75  S 
+ATOM 551  O O   . SER A 1 75  ? -52.531 8.614   57.062  1.0 51.44 ? 75  SER A O   1 Q9D920 UNP 75  S 
+ATOM 552  O OG  . SER A 1 75  ? -54.674 8.064   60.128  1.0 51.44 ? 75  SER A OG  1 Q9D920 UNP 75  S 
+ATOM 553  N N   . PRO A 1 76  ? -51.440 7.562   58.735  1.0 55.39 ? 76  PRO A N   1 Q9D920 UNP 76  P 
+ATOM 554  C CA  . PRO A 1 76  ? -50.860 6.542   57.882  1.0 55.39 ? 76  PRO A CA  1 Q9D920 UNP 76  P 
+ATOM 555  C C   . PRO A 1 76  ? -51.995 5.615   57.455  1.0 55.39 ? 76  PRO A C   1 Q9D920 UNP 76  P 
+ATOM 556  C CB  . PRO A 1 76  ? -49.783 5.860   58.734  1.0 55.39 ? 76  PRO A CB  1 Q9D920 UNP 76  P 
+ATOM 557  O O   . PRO A 1 76  ? -52.294 4.613   58.105  1.0 55.39 ? 76  PRO A O   1 Q9D920 UNP 76  P 
+ATOM 558  C CG  . PRO A 1 76  ? -50.317 6.000   60.159  1.0 55.39 ? 76  PRO A CG  1 Q9D920 UNP 76  P 
+ATOM 559  C CD  . PRO A 1 76  ? -51.099 7.313   60.128  1.0 55.39 ? 76  PRO A CD  1 Q9D920 UNP 76  P 
+ATOM 560  N N   . THR A 1 77  ? -52.683 5.955   56.368  1.0 54.38 ? 77  THR A N   1 Q9D920 UNP 77  T 
+ATOM 561  C CA  . THR A 1 77  ? -53.526 4.967   55.711  1.0 54.38 ? 77  THR A CA  1 Q9D920 UNP 77  T 
+ATOM 562  C C   . THR A 1 77  ? -52.587 3.838   55.303  1.0 54.38 ? 77  THR A C   1 Q9D920 UNP 77  T 
+ATOM 563  C CB  . THR A 1 77  ? -54.351 5.530   54.539  1.0 54.38 ? 77  THR A CB  1 Q9D920 UNP 77  T 
+ATOM 564  O O   . THR A 1 77  ? -51.585 4.066   54.629  1.0 54.38 ? 77  THR A O   1 Q9D920 UNP 77  T 
+ATOM 565  C CG2 . THR A 1 77  ? -55.491 6.412   55.044  1.0 54.38 ? 77  THR A CG2 1 Q9D920 UNP 77  T 
+ATOM 566  O OG1 . THR A 1 77  ? -53.594 6.309   53.646  1.0 54.38 ? 77  THR A OG1 1 Q9D920 UNP 77  T 
+ATOM 567  N N   . ASN A 1 78  ? -52.887 2.614   55.749  1.0 51.96 ? 78  ASN A N   1 Q9D920 UNP 78  N 
+ATOM 568  C CA  . ASN A 1 78  ? -52.227 1.365   55.353  1.0 51.96 ? 78  ASN A CA  1 Q9D920 UNP 78  N 
+ATOM 569  C C   . ASN A 1 78  ? -52.432 1.062   53.851  1.0 51.96 ? 78  ASN A C   1 Q9D920 UNP 78  N 
+ATOM 570  C CB  . ASN A 1 78  ? -52.725 0.216   56.260  1.0 51.96 ? 78  ASN A CB  1 Q9D920 UNP 78  N 
+ATOM 571  O O   . ASN A 1 78  ? -52.617 -0.086  53.446  1.0 51.96 ? 78  ASN A O   1 Q9D920 UNP 78  N 
+ATOM 572  C CG  . ASN A 1 78  ? -52.005 0.142   57.590  1.0 51.96 ? 78  ASN A CG  1 Q9D920 UNP 78  N 
+ATOM 573  N ND2 . ASN A 1 78  ? -52.704 0.277   58.693  1.0 51.96 ? 78  ASN A ND2 1 Q9D920 UNP 78  N 
+ATOM 574  O OD1 . ASN A 1 78  ? -50.811 -0.078  57.652  1.0 51.96 ? 78  ASN A OD1 1 Q9D920 UNP 78  N 
+ATOM 575  N N   . ALA A 1 79  ? -52.419 2.088   53.000  1.0 53.19 ? 79  ALA A N   1 Q9D920 UNP 79  A 
+ATOM 576  C CA  . ALA A 1 79  ? -52.158 1.951   51.593  1.0 53.19 ? 79  ALA A CA  1 Q9D920 UNP 79  A 
+ATOM 577  C C   . ALA A 1 79  ? -50.720 1.445   51.493  1.0 53.19 ? 79  ALA A C   1 Q9D920 UNP 79  A 
+ATOM 578  C CB  . ALA A 1 79  ? -52.390 3.305   50.907  1.0 53.19 ? 79  ALA A CB  1 Q9D920 UNP 79  A 
+ATOM 579  O O   . ALA A 1 79  ? -49.758 2.214   51.495  1.0 53.19 ? 79  ALA A O   1 Q9D920 UNP 79  A 
+ATOM 580  N N   . LYS A 1 80  ? -50.570 0.118   51.438  1.0 56.56 ? 80  LYS A N   1 Q9D920 UNP 80  K 
+ATOM 581  C CA  . LYS A 1 80  ? -49.446 -0.486  50.735  1.0 56.56 ? 80  LYS A CA  1 Q9D920 UNP 80  K 
+ATOM 582  C C   . LYS A 1 80  ? -49.466 0.175   49.357  1.0 56.56 ? 80  LYS A C   1 Q9D920 UNP 80  K 
+ATOM 583  C CB  . LYS A 1 80  ? -49.631 -2.015  50.619  1.0 56.56 ? 80  LYS A CB  1 Q9D920 UNP 80  K 
+ATOM 584  O O   . LYS A 1 80  ? -50.234 -0.255  48.502  1.0 56.56 ? 80  LYS A O   1 Q9D920 UNP 80  K 
+ATOM 585  C CG  . LYS A 1 80  ? -49.437 -2.786  51.936  1.0 56.56 ? 80  LYS A CG  1 Q9D920 UNP 80  K 
+ATOM 586  C CD  . LYS A 1 80  ? -49.710 -4.284  51.717  1.0 56.56 ? 80  LYS A CD  1 Q9D920 UNP 80  K 
+ATOM 587  C CE  . LYS A 1 80  ? -49.491 -5.090  53.005  1.0 56.56 ? 80  LYS A CE  1 Q9D920 UNP 80  K 
+ATOM 588  N NZ  . LYS A 1 80  ? -49.801 -6.531  52.804  1.0 56.56 ? 80  LYS A NZ  1 Q9D920 UNP 80  K 
+ATOM 589  N N   . LEU A 1 81  ? -48.704 1.263   49.172  1.0 57.38 ? 81  LEU A N   1 Q9D920 UNP 81  L 
+ATOM 590  C CA  . LEU A 1 81  ? -48.278 1.681   47.842  1.0 57.38 ? 81  LEU A CA  1 Q9D920 UNP 81  L 
+ATOM 591  C C   . LEU A 1 81  ? -47.878 0.382   47.159  1.0 57.38 ? 81  LEU A C   1 Q9D920 UNP 81  L 
+ATOM 592  C CB  . LEU A 1 81  ? -47.080 2.651   47.915  1.0 57.38 ? 81  LEU A CB  1 Q9D920 UNP 81  L 
+ATOM 593  O O   . LEU A 1 81  ? -47.184 -0.421  47.795  1.0 57.38 ? 81  LEU A O   1 Q9D920 UNP 81  L 
+ATOM 594  C CG  . LEU A 1 81  ? -47.483 4.124   48.147  1.0 57.38 ? 81  LEU A CG  1 Q9D920 UNP 81  L 
+ATOM 595  C CD1 . LEU A 1 81  ? -46.881 4.673   49.442  1.0 57.38 ? 81  LEU A CD1 1 Q9D920 UNP 81  L 
+ATOM 596  C CD2 . LEU A 1 81  ? -47.005 5.003   46.989  1.0 57.38 ? 81  LEU A CD2 1 Q9D920 UNP 81  L 
+ATOM 597  N N   . GLU A 1 82  ? -48.387 0.138   45.954  1.0 63.61 ? 82  GLU A N   1 Q9D920 UNP 82  E 
+ATOM 598  C CA  . GLU A 1 82  ? -47.929 -0.964  45.118  1.0 63.61 ? 82  GLU A CA  1 Q9D920 UNP 82  E 
+ATOM 599  C C   . GLU A 1 82  ? -46.431 -0.748  44.918  1.0 63.61 ? 82  GLU A C   1 Q9D920 UNP 82  E 
+ATOM 600  C CB  . GLU A 1 82  ? -48.698 -1.005  43.790  1.0 63.61 ? 82  GLU A CB  1 Q9D920 UNP 82  E 
+ATOM 601  O O   . GLU A 1 82  ? -45.977 -0.037  44.025  1.0 63.61 ? 82  GLU A O   1 Q9D920 UNP 82  E 
+ATOM 602  C CG  . GLU A 1 82  ? -50.127 -1.542  43.972  1.0 63.61 ? 82  GLU A CG  1 Q9D920 UNP 82  E 
+ATOM 603  C CD  . GLU A 1 82  ? -50.918 -1.618  42.655  1.0 63.61 ? 82  GLU A CD  1 Q9D920 UNP 82  E 
+ATOM 604  O OE1 . GLU A 1 82  ? -52.002 -2.241  42.689  1.0 63.61 ? 82  GLU A OE1 1 Q9D920 UNP 82  E 
+ATOM 605  O OE2 . GLU A 1 82  ? -50.459 -1.033  41.649  1.0 63.61 ? 82  GLU A OE2 1 Q9D920 UNP 82  E 
+ATOM 606  N N   . LYS A 1 83  ? -45.647 -1.251  45.873  1.0 71.26 ? 83  LYS A N   1 Q9D920 UNP 83  K 
+ATOM 607  C CA  . LYS A 1 83  ? -44.205 -1.224  45.812  1.0 71.26 ? 83  LYS A CA  1 Q9D920 UNP 83  K 
+ATOM 608  C C   . LYS A 1 83  ? -43.906 -2.089  44.612  1.0 71.26 ? 83  LYS A C   1 Q9D920 UNP 83  K 
+ATOM 609  C CB  . LYS A 1 83  ? -43.559 -1.765  47.097  1.0 71.26 ? 83  LYS A CB  1 Q9D920 UNP 83  K 
+ATOM 610  O O   . LYS A 1 83  ? -44.379 -3.224  44.553  1.0 71.26 ? 83  LYS A O   1 Q9D920 UNP 83  K 
+ATOM 611  C CG  . LYS A 1 83  ? -43.708 -0.794  48.280  1.0 71.26 ? 83  LYS A CG  1 Q9D920 UNP 83  K 
+ATOM 612  C CD  . LYS A 1 83  ? -42.931 -1.298  49.503  1.0 71.26 ? 83  LYS A CD  1 Q9D920 UNP 83  K 
+ATOM 613  C CE  . LYS A 1 83  ? -43.088 -0.313  50.668  1.0 71.26 ? 83  LYS A CE  1 Q9D920 UNP 83  K 
+ATOM 614  N NZ  . LYS A 1 83  ? -42.280 -0.728  51.842  1.0 71.26 ? 83  LYS A NZ  1 Q9D920 UNP 83  K 
+ATOM 615  N N   . LEU A 1 84  ? -43.159 -1.526  43.669  1.0 77.45 ? 84  LEU A N   1 Q9D920 UNP 84  L 
+ATOM 616  C CA  . LEU A 1 84  ? -42.566 -2.307  42.601  1.0 77.45 ? 84  LEU A CA  1 Q9D920 UNP 84  L 
+ATOM 617  C C   . LEU A 1 84  ? -41.968 -3.558  43.239  1.0 77.45 ? 84  LEU A C   1 Q9D920 UNP 84  L 
+ATOM 618  C CB  . LEU A 1 84  ? -41.483 -1.481  41.893  1.0 77.45 ? 84  LEU A CB  1 Q9D920 UNP 84  L 
+ATOM 619  O O   . LEU A 1 84  ? -41.182 -3.457  44.186  1.0 77.45 ? 84  LEU A O   1 Q9D920 UNP 84  L 
+ATOM 620  C CG  . LEU A 1 84  ? -42.030 -0.315  41.055  1.0 77.45 ? 84  LEU A CG  1 Q9D920 UNP 84  L 
+ATOM 621  C CD1 . LEU A 1 84  ? -40.870 0.575   40.609  1.0 77.45 ? 84  LEU A CD1 1 Q9D920 UNP 84  L 
+ATOM 622  C CD2 . LEU A 1 84  ? -42.764 -0.813  39.809  1.0 77.45 ? 84  LEU A CD2 1 Q9D920 UNP 84  L 
+ATOM 623  N N   . ASP A 1 85  ? -42.417 -4.719  42.775  1.0 87.23 ? 85  ASP A N   1 Q9D920 UNP 85  D 
+ATOM 624  C CA  . ASP A 1 85  ? -41.926 -5.989  43.276  1.0 87.23 ? 85  ASP A CA  1 Q9D920 UNP 85  D 
+ATOM 625  C C   . ASP A 1 85  ? -40.415 -6.028  43.024  1.0 87.23 ? 85  ASP A C   1 Q9D920 UNP 85  D 
+ATOM 626  C CB  . ASP A 1 85  ? -42.693 -7.131  42.598  1.0 87.23 ? 85  ASP A CB  1 Q9D920 UNP 85  D 
+ATOM 627  O O   . ASP A 1 85  ? -39.959 -6.010  41.876  1.0 87.23 ? 85  ASP A O   1 Q9D920 UNP 85  D 
+ATOM 628  C CG  . ASP A 1 85  ? -42.210 -8.523  43.020  1.0 87.23 ? 85  ASP A CG  1 Q9D920 UNP 85  D 
+ATOM 629  O OD1 . ASP A 1 85  ? -41.217 -8.600  43.782  1.0 87.23 ? 85  ASP A OD1 1 Q9D920 UNP 85  D 
+ATOM 630  O OD2 . ASP A 1 85  ? -42.805 -9.503  42.526  1.0 87.23 ? 85  ASP A OD2 1 Q9D920 UNP 85  D 
+ATOM 631  N N   . SER A 1 86  ? -39.625 -6.033  44.101  1.0 91.15 ? 86  SER A N   1 Q9D920 UNP 86  S 
+ATOM 632  C CA  . SER A 1 86  ? -38.166 -5.988  44.014  1.0 91.15 ? 86  SER A CA  1 Q9D920 UNP 86  S 
+ATOM 633  C C   . SER A 1 86  ? -37.613 -7.172  43.226  1.0 91.15 ? 86  SER A C   1 Q9D920 UNP 86  S 
+ATOM 634  C CB  . SER A 1 86  ? -37.548 -5.946  45.415  1.0 91.15 ? 86  SER A CB  1 Q9D920 UNP 86  S 
+ATOM 635  O O   . SER A 1 86  ? -36.570 -7.042  42.588  1.0 91.15 ? 86  SER A O   1 Q9D920 UNP 86  S 
+ATOM 636  O OG  . SER A 1 86  ? -37.973 -7.037  46.214  1.0 91.15 ? 86  SER A OG  1 Q9D920 UNP 86  S 
+ATOM 637  N N   . GLN A 1 87  ? -38.323 -8.306  43.227  1.0 94.72 ? 87  GLN A N   1 Q9D920 UNP 87  Q 
+ATOM 638  C CA  . GLN A 1 87  ? -37.963 -9.470  42.428  1.0 94.72 ? 87  GLN A CA  1 Q9D920 UNP 87  Q 
+ATOM 639  C C   . GLN A 1 87  ? -38.143 -9.198  40.927  1.0 94.72 ? 87  GLN A C   1 Q9D920 UNP 87  Q 
+ATOM 640  C CB  . GLN A 1 87  ? -38.809 -10.659 42.903  1.0 94.72 ? 87  GLN A CB  1 Q9D920 UNP 87  Q 
+ATOM 641  O O   . GLN A 1 87  ? -37.263 -9.541  40.139  1.0 94.72 ? 87  GLN A O   1 Q9D920 UNP 87  Q 
+ATOM 642  C CG  . GLN A 1 87  ? -38.353 -11.975 42.265  1.0 94.72 ? 87  GLN A CG  1 Q9D920 UNP 87  Q 
+ATOM 643  C CD  . GLN A 1 87  ? -39.170 -13.168 42.746  1.0 94.72 ? 87  GLN A CD  1 Q9D920 UNP 87  Q 
+ATOM 644  N NE2 . GLN A 1 87  ? -39.378 -14.157 41.905  1.0 94.72 ? 87  GLN A NE2 1 Q9D920 UNP 87  Q 
+ATOM 645  O OE1 . GLN A 1 87  ? -39.610 -13.264 43.877  1.0 94.72 ? 87  GLN A OE1 1 Q9D920 UNP 87  Q 
+ATOM 646  N N   . GLN A 1 88  ? -39.232 -8.531  40.528  1.0 94.52 ? 88  GLN A N   1 Q9D920 UNP 88  Q 
+ATOM 647  C CA  . GLN A 1 88  ? -39.482 -8.160  39.127  1.0 94.52 ? 88  GLN A CA  1 Q9D920 UNP 88  Q 
+ATOM 648  C C   . GLN A 1 88  ? -38.489 -7.104  38.638  1.0 94.52 ? 88  GLN A C   1 Q9D920 UNP 88  Q 
+ATOM 649  C CB  . GLN A 1 88  ? -40.914 -7.628  38.951  1.0 94.52 ? 88  GLN A CB  1 Q9D920 UNP 88  Q 
+ATOM 650  O O   . GLN A 1 88  ? -37.976 -7.202  37.523  1.0 94.52 ? 88  GLN A O   1 Q9D920 UNP 88  Q 
+ATOM 651  C CG  . GLN A 1 88  ? -41.990 -8.663  39.296  1.0 94.52 ? 88  GLN A CG  1 Q9D920 UNP 88  Q 
+ATOM 652  C CD  . GLN A 1 88  ? -41.987 -9.887  38.394  1.0 94.52 ? 88  GLN A CD  1 Q9D920 UNP 88  Q 
+ATOM 653  N NE2 . GLN A 1 88  ? -42.469 -11.004 38.890  1.0 94.52 ? 88  GLN A NE2 1 Q9D920 UNP 88  Q 
+ATOM 654  O OE1 . GLN A 1 88  ? -41.569 -9.864  37.249  1.0 94.52 ? 88  GLN A OE1 1 Q9D920 UNP 88  Q 
+ATOM 655  N N   . VAL A 1 89  ? -38.170 -6.121  39.485  1.0 95.27 ? 89  VAL A N   1 Q9D920 UNP 89  V 
+ATOM 656  C CA  . VAL A 1 89  ? -37.151 -5.104  39.181  1.0 95.27 ? 89  VAL A CA  1 Q9D920 UNP 89  V 
+ATOM 657  C C   . VAL A 1 89  ? -35.781 -5.757  38.993  1.0 95.27 ? 89  VAL A C   1 Q9D920 UNP 89  V 
+ATOM 658  C CB  . VAL A 1 89  ? -37.104 -4.022  40.275  1.0 95.27 ? 89  VAL A CB  1 Q9D920 UNP 89  V 
+ATOM 659  O O   . VAL A 1 89  ? -35.107 -5.481  38.004  1.0 95.27 ? 89  VAL A O   1 Q9D920 UNP 89  V 
+ATOM 660  C CG1 . VAL A 1 89  ? -35.989 -2.997  40.027  1.0 95.27 ? 89  VAL A CG1 1 Q9D920 UNP 89  V 
+ATOM 661  C CG2 . VAL A 1 89  ? -38.426 -3.247  40.347  1.0 95.27 ? 89  VAL A CG2 1 Q9D920 UNP 89  V 
+ATOM 662  N N   . LEU A 1 90  ? -35.389 -6.677  39.882  1.0 96.91 ? 90  LEU A N   1 Q9D920 UNP 90  L 
+ATOM 663  C CA  . LEU A 1 90  ? -34.139 -7.426  39.741  1.0 96.91 ? 90  LEU A CA  1 Q9D920 UNP 90  L 
+ATOM 664  C C   . LEU A 1 90  ? -34.115 -8.250  38.447  1.0 96.91 ? 90  LEU A C   1 Q9D920 UNP 90  L 
+ATOM 665  C CB  . LEU A 1 90  ? -33.944 -8.314  40.982  1.0 96.91 ? 90  LEU A CB  1 Q9D920 UNP 90  L 
+ATOM 666  O O   . LEU A 1 90  ? -33.122 -8.221  37.723  1.0 96.91 ? 90  LEU A O   1 Q9D920 UNP 90  L 
+ATOM 667  C CG  . LEU A 1 90  ? -32.682 -9.196  40.933  1.0 96.91 ? 90  LEU A CG  1 Q9D920 UNP 90  L 
+ATOM 668  C CD1 . LEU A 1 90  ? -31.397 -8.367  40.879  1.0 96.91 ? 90  LEU A CD1 1 Q9D920 UNP 90  L 
+ATOM 669  C CD2 . LEU A 1 90  ? -32.635 -10.087 42.173  1.0 96.91 ? 90  LEU A CD2 1 Q9D920 UNP 90  L 
+ATOM 670  N N   . GLN A 1 91  ? -35.204 -8.951  38.123  1.0 97.37 ? 91  GLN A N   1 Q9D920 UNP 91  Q 
+ATOM 671  C CA  . GLN A 1 91  ? -35.301 -9.729  36.887  1.0 97.37 ? 91  GLN A CA  1 Q9D920 UNP 91  Q 
+ATOM 672  C C   . GLN A 1 91  ? -35.177 -8.840  35.642  1.0 97.37 ? 91  GLN A C   1 Q9D920 UNP 91  Q 
+ATOM 673  C CB  . GLN A 1 91  ? -36.619 -10.515 36.894  1.0 97.37 ? 91  GLN A CB  1 Q9D920 UNP 91  Q 
+ATOM 674  O O   . GLN A 1 91  ? -34.507 -9.223  34.681  1.0 97.37 ? 91  GLN A O   1 Q9D920 UNP 91  Q 
+ATOM 675  C CG  . GLN A 1 91  ? -36.700 -11.501 35.718  1.0 97.37 ? 91  GLN A CG  1 Q9D920 UNP 91  Q 
+ATOM 676  C CD  . GLN A 1 91  ? -37.956 -12.366 35.747  1.0 97.37 ? 91  GLN A CD  1 Q9D920 UNP 91  Q 
+ATOM 677  N NE2 . GLN A 1 91  ? -38.119 -13.260 34.795  1.0 97.37 ? 91  GLN A NE2 1 Q9D920 UNP 91  Q 
+ATOM 678  O OE1 . GLN A 1 91  ? -38.810 -12.283 36.609  1.0 97.37 ? 91  GLN A OE1 1 Q9D920 UNP 91  Q 
+ATOM 679  N N   . LEU A 1 92  ? -35.771 -7.642  35.660  1.0 97.56 ? 92  LEU A N   1 Q9D920 UNP 92  L 
+ATOM 680  C CA  . LEU A 1 92  ? -35.604 -6.652  34.597  1.0 97.56 ? 92  LEU A CA  1 Q9D920 UNP 92  L 
+ATOM 681  C C   . LEU A 1 92  ? -34.141 -6.207  34.471  1.0 97.56 ? 92  LEU A C   1 Q9D920 UNP 92  L 
+ATOM 682  C CB  . LEU A 1 92  ? -36.549 -5.466  34.858  1.0 97.56 ? 92  LEU A CB  1 Q9D920 UNP 92  L 
+ATOM 683  O O   . LEU A 1 92  ? -33.613 -6.196  33.359  1.0 97.56 ? 92  LEU A O   1 Q9D920 UNP 92  L 
+ATOM 684  C CG  . LEU A 1 92  ? -36.458 -4.345  33.805  1.0 97.56 ? 92  LEU A CG  1 Q9D920 UNP 92  L 
+ATOM 685  C CD1 . LEU A 1 92  ? -36.880 -4.829  32.415  1.0 97.56 ? 92  LEU A CD1 1 Q9D920 UNP 92  L 
+ATOM 686  C CD2 . LEU A 1 92  ? -37.364 -3.186  34.213  1.0 97.56 ? 92  LEU A CD2 1 Q9D920 UNP 92  L 
+ATOM 687  N N   . CYS A 1 93  ? -33.469 -5.902  35.585  1.0 98.22 ? 93  CYS A N   1 Q9D920 UNP 93  C 
+ATOM 688  C CA  . CYS A 1 93  ? -32.050 -5.536  35.587  1.0 98.22 ? 93  CYS A CA  1 Q9D920 UNP 93  C 
+ATOM 689  C C   . CYS A 1 93  ? -31.162 -6.654  35.023  1.0 98.22 ? 93  CYS A C   1 Q9D920 UNP 93  C 
+ATOM 690  C CB  . CYS A 1 93  ? -31.611 -5.169  37.011  1.0 98.22 ? 93  CYS A CB  1 Q9D920 UNP 93  C 
+ATOM 691  O O   . CYS A 1 93  ? -30.288 -6.370  34.209  1.0 98.22 ? 93  CYS A O   1 Q9D920 UNP 93  C 
+ATOM 692  S SG  . CYS A 1 93  ? -32.394 -3.621  37.548  1.0 98.22 ? 93  CYS A SG  1 Q9D920 UNP 93  C 
+ATOM 693  N N   . LEU A 1 94  ? -31.411 -7.914  35.393  1.0 98.49 ? 94  LEU A N   1 Q9D920 UNP 94  L 
+ATOM 694  C CA  . LEU A 1 94  ? -30.656 -9.064  34.881  1.0 98.49 ? 94  LEU A CA  1 Q9D920 UNP 94  L 
+ATOM 695  C C   . LEU A 1 94  ? -30.868 -9.270  33.375  1.0 98.49 ? 94  LEU A C   1 Q9D920 UNP 94  L 
+ATOM 696  C CB  . LEU A 1 94  ? -31.050 -10.329 35.664  1.0 98.49 ? 94  LEU A CB  1 Q9D920 UNP 94  L 
+ATOM 697  O O   . LEU A 1 94  ? -29.905 -9.490  32.645  1.0 98.49 ? 94  LEU A O   1 Q9D920 UNP 94  L 
+ATOM 698  C CG  . LEU A 1 94  ? -30.567 -10.357 37.126  1.0 98.49 ? 94  LEU A CG  1 Q9D920 UNP 94  L 
+ATOM 699  C CD1 . LEU A 1 94  ? -31.160 -11.582 37.826  1.0 98.49 ? 94  LEU A CD1 1 Q9D920 UNP 94  L 
+ATOM 700  C CD2 . LEU A 1 94  ? -29.044 -10.428 37.239  1.0 98.49 ? 94  LEU A CD2 1 Q9D920 UNP 94  L 
+ATOM 701  N N   . ARG A 1 95  ? -32.108 -9.134  32.883  1.0 98.52 ? 95  ARG A N   1 Q9D920 UNP 95  R 
+ATOM 702  C CA  . ARG A 1 95  ? -32.397 -9.181  31.437  1.0 98.52 ? 95  ARG A CA  1 Q9D920 UNP 95  R 
+ATOM 703  C C   . ARG A 1 95  ? -31.730 -8.036  30.682  1.0 98.52 ? 95  ARG A C   1 Q9D920 UNP 95  R 
+ATOM 704  C CB  . ARG A 1 95  ? -33.908 -9.128  31.193  1.0 98.52 ? 95  ARG A CB  1 Q9D920 UNP 95  R 
+ATOM 705  O O   . ARG A 1 95  ? -31.255 -8.233  29.570  1.0 98.52 ? 95  ARG A O   1 Q9D920 UNP 95  R 
+ATOM 706  C CG  . ARG A 1 95  ? -34.601 -10.447 31.559  1.0 98.52 ? 95  ARG A CG  1 Q9D920 UNP 95  R 
+ATOM 707  C CD  . ARG A 1 95  ? -36.101 -10.372 31.257  1.0 98.52 ? 95  ARG A CD  1 Q9D920 UNP 95  R 
+ATOM 708  N NE  . ARG A 1 95  ? -36.347 -10.310 29.802  1.0 98.52 ? 95  ARG A NE  1 Q9D920 UNP 95  R 
+ATOM 709  N NH1 . ARG A 1 95  ? -38.638 -10.372 29.861  1.0 98.52 ? 95  ARG A NH1 1 Q9D920 UNP 95  R 
+ATOM 710  N NH2 . ARG A 1 95  ? -37.580 -10.290 27.894  1.0 98.52 ? 95  ARG A NH2 1 Q9D920 UNP 95  R 
+ATOM 711  C CZ  . ARG A 1 95  ? -37.517 -10.323 29.195  1.0 98.52 ? 95  ARG A CZ  1 Q9D920 UNP 95  R 
+ATOM 712  N N   . TYR A 1 96  ? -31.709 -6.845  31.273  1.0 98.56 ? 96  TYR A N   1 Q9D920 UNP 96  Y 
+ATOM 713  C CA  . TYR A 1 96  ? -31.057 -5.689  30.672  1.0 98.56 ? 96  TYR A CA  1 Q9D920 UNP 96  Y 
+ATOM 714  C C   . TYR A 1 96  ? -29.532 -5.851  30.635  1.0 98.56 ? 96  TYR A C   1 Q9D920 UNP 96  Y 
+ATOM 715  C CB  . TYR A 1 96  ? -31.489 -4.426  31.421  1.0 98.56 ? 96  TYR A CB  1 Q9D920 UNP 96  Y 
+ATOM 716  O O   . TYR A 1 96  ? -28.914 -5.546  29.619  1.0 98.56 ? 96  TYR A O   1 Q9D920 UNP 96  Y 
+ATOM 717  C CG  . TYR A 1 96  ? -30.992 -3.153  30.772  1.0 98.56 ? 96  TYR A CG  1 Q9D920 UNP 96  Y 
+ATOM 718  C CD1 . TYR A 1 96  ? -30.102 -2.306  31.459  1.0 98.56 ? 96  TYR A CD1 1 Q9D920 UNP 96  Y 
+ATOM 719  C CD2 . TYR A 1 96  ? -31.416 -2.826  29.469  1.0 98.56 ? 96  TYR A CD2 1 Q9D920 UNP 96  Y 
+ATOM 720  C CE1 . TYR A 1 96  ? -29.641 -1.126  30.846  1.0 98.56 ? 96  TYR A CE1 1 Q9D920 UNP 96  Y 
+ATOM 721  C CE2 . TYR A 1 96  ? -30.941 -1.658  28.846  1.0 98.56 ? 96  TYR A CE2 1 Q9D920 UNP 96  Y 
+ATOM 722  O OH  . TYR A 1 96  ? -29.593 0.315   28.922  1.0 98.56 ? 96  TYR A OH  1 Q9D920 UNP 96  Y 
+ATOM 723  C CZ  . TYR A 1 96  ? -30.053 -0.808  29.532  1.0 98.56 ? 96  TYR A CZ  1 Q9D920 UNP 96  Y 
+ATOM 724  N N   . GLN A 1 97  ? -28.931 -6.397  31.696  1.0 98.49 ? 97  GLN A N   1 Q9D920 UNP 97  Q 
+ATOM 725  C CA  . GLN A 1 97  ? -27.509 -6.739  31.738  1.0 98.49 ? 97  GLN A CA  1 Q9D920 UNP 97  Q 
+ATOM 726  C C   . GLN A 1 97  ? -27.135 -7.747  30.642  1.0 98.49 ? 97  GLN A C   1 Q9D920 UNP 97  Q 
+ATOM 727  C CB  . GLN A 1 97  ? -27.170 -7.284  33.135  1.0 98.49 ? 97  GLN A CB  1 Q9D920 UNP 97  Q 
+ATOM 728  O O   . GLN A 1 97  ? -26.175 -7.512  29.912  1.0 98.49 ? 97  GLN A O   1 Q9D920 UNP 97  Q 
+ATOM 729  C CG  . GLN A 1 97  ? -25.693 -7.689  33.268  1.0 98.49 ? 97  GLN A CG  1 Q9D920 UNP 97  Q 
+ATOM 730  C CD  . GLN A 1 97  ? -25.371 -8.339  34.608  1.0 98.49 ? 97  GLN A CD  1 Q9D920 UNP 97  Q 
+ATOM 731  N NE2 . GLN A 1 97  ? -24.199 -8.922  34.742  1.0 98.49 ? 97  GLN A NE2 1 Q9D920 UNP 97  Q 
+ATOM 732  O OE1 . GLN A 1 97  ? -26.140 -8.343  35.555  1.0 98.49 ? 97  GLN A OE1 1 Q9D920 UNP 97  Q 
+ATOM 733  N N   . ASP A 1 98  ? -27.896 -8.836  30.511  1.0 98.64 ? 98  ASP A N   1 Q9D920 UNP 98  D 
+ATOM 734  C CA  . ASP A 1 98  ? -27.691 -9.851  29.469  1.0 98.64 ? 98  ASP A CA  1 Q9D920 UNP 98  D 
+ATOM 735  C C   . ASP A 1 98  ? -27.824 -9.251  28.059  1.0 98.64 ? 98  ASP A C   1 Q9D920 UNP 98  D 
+ATOM 736  C CB  . ASP A 1 98  ? -28.700 -10.983 29.704  1.0 98.64 ? 98  ASP A CB  1 Q9D920 UNP 98  D 
+ATOM 737  O O   . ASP A 1 98  ? -26.969 -9.458  27.199  1.0 98.64 ? 98  ASP A O   1 Q9D920 UNP 98  D 
+ATOM 738  C CG  . ASP A 1 98  ? -28.586 -12.090 28.657  1.0 98.64 ? 98  ASP A CG  1 Q9D920 UNP 98  D 
+ATOM 739  O OD1 . ASP A 1 98  ? -27.483 -12.656 28.516  1.0 98.64 ? 98  ASP A OD1 1 Q9D920 UNP 98  D 
+ATOM 740  O OD2 . ASP A 1 98  ? -29.614 -12.365 28.001  1.0 98.64 ? 98  ASP A OD2 1 Q9D920 UNP 98  D 
+ATOM 741  N N   . HIS A 1 99  ? -28.831 -8.403  27.840  1.0 98.69 ? 99  HIS A N   1 Q9D920 UNP 99  H 
+ATOM 742  C CA  . HIS A 1 99  ? -29.007 -7.716  26.563  1.0 98.69 ? 99  HIS A CA  1 Q9D920 UNP 99  H 
+ATOM 743  C C   . HIS A 1 99  ? -27.832 -6.788  26.216  1.0 98.69 ? 99  HIS A C   1 Q9D920 UNP 99  H 
+ATOM 744  C CB  . HIS A 1 99  ? -30.328 -6.941  26.590  1.0 98.69 ? 99  HIS A CB  1 Q9D920 UNP 99  H 
+ATOM 745  O O   . HIS A 1 99  ? -27.330 -6.823  25.092  1.0 98.69 ? 99  HIS A O   1 Q9D920 UNP 99  H 
+ATOM 746  C CG  . HIS A 1 99  ? -30.600 -6.237  25.288  1.0 98.69 ? 99  HIS A CG  1 Q9D920 UNP 99  H 
+ATOM 747  C CD2 . HIS A 1 99  ? -30.798 -4.895  25.107  1.0 98.69 ? 99  HIS A CD2 1 Q9D920 UNP 99  H 
+ATOM 748  N ND1 . HIS A 1 99  ? -30.611 -6.822  24.043  1.0 98.69 ? 99  HIS A ND1 1 Q9D920 UNP 99  H 
+ATOM 749  C CE1 . HIS A 1 99  ? -30.816 -5.855  23.134  1.0 98.69 ? 99  HIS A CE1 1 Q9D920 UNP 99  H 
+ATOM 750  N NE2 . HIS A 1 99  ? -30.953 -4.663  23.737  1.0 98.69 ? 99  HIS A NE2 1 Q9D920 UNP 99  H 
+ATOM 751  N N   . LEU A 1 100 ? -27.359 -5.976  27.170  1.0 98.74 ? 100 LEU A N   1 Q9D920 UNP 100 L 
+ATOM 752  C CA  . LEU A 1 100 ? -26.192 -5.113  26.957  1.0 98.74 ? 100 LEU A CA  1 Q9D920 UNP 100 L 
+ATOM 753  C C   . LEU A 1 100 ? -24.922 -5.926  26.693  1.0 98.74 ? 100 LEU A C   1 Q9D920 UNP 100 L 
+ATOM 754  C CB  . LEU A 1 100 ? -25.975 -4.199  28.172  1.0 98.74 ? 100 LEU A CB  1 Q9D920 UNP 100 L 
+ATOM 755  O O   . LEU A 1 100 ? -24.094 -5.507  25.883  1.0 98.74 ? 100 LEU A O   1 Q9D920 UNP 100 L 
+ATOM 756  C CG  . LEU A 1 100 ? -26.997 -3.062  28.336  1.0 98.74 ? 100 LEU A CG  1 Q9D920 UNP 100 L 
+ATOM 757  C CD1 . LEU A 1 100 ? -26.667 -2.319  29.631  1.0 98.74 ? 100 LEU A CD1 1 Q9D920 UNP 100 L 
+ATOM 758  C CD2 . LEU A 1 100 ? -26.953 -2.060  27.180  1.0 98.74 ? 100 LEU A CD2 1 Q9D920 UNP 100 L 
+ATOM 759  N N   . HIS A 1 101 ? -24.779 -7.085  27.339  1.0 98.66 ? 101 HIS A N   1 Q9D920 UNP 101 H 
+ATOM 760  C CA  . HIS A 1 101 ? -23.668 -7.994  27.092  1.0 98.66 ? 101 HIS A CA  1 Q9D920 UNP 101 H 
+ATOM 761  C C   . HIS A 1 101 ? -23.686 -8.529  25.654  1.0 98.66 ? 101 HIS A C   1 Q9D920 UNP 101 H 
+ATOM 762  C CB  . HIS A 1 101 ? -23.689 -9.116  28.134  1.0 98.66 ? 101 HIS A CB  1 Q9D920 UNP 101 H 
+ATOM 763  O O   . HIS A 1 101 ? -22.691 -8.380  24.949  1.0 98.66 ? 101 HIS A O   1 Q9D920 UNP 101 H 
+ATOM 764  C CG  . HIS A 1 101 ? -22.486 -10.012 28.047  1.0 98.66 ? 101 HIS A CG  1 Q9D920 UNP 101 H 
+ATOM 765  C CD2 . HIS A 1 101 ? -22.493 -11.369 27.876  1.0 98.66 ? 101 HIS A CD2 1 Q9D920 UNP 101 H 
+ATOM 766  N ND1 . HIS A 1 101 ? -21.170 -9.615  28.122  1.0 98.66 ? 101 HIS A ND1 1 Q9D920 UNP 101 H 
+ATOM 767  C CE1 . HIS A 1 101 ? -20.402 -10.710 27.997  1.0 98.66 ? 101 HIS A CE1 1 Q9D920 UNP 101 H 
+ATOM 768  N NE2 . HIS A 1 101 ? -21.165 -11.802 27.892  1.0 98.66 ? 101 HIS A NE2 1 Q9D920 UNP 101 H 
+ATOM 769  N N   . GLN A 1 102 ? -24.830 -9.028  25.174  1.0 98.59 ? 102 GLN A N   1 Q9D920 UNP 102 Q 
+ATOM 770  C CA  . GLN A 1 102 ? -24.990 -9.492  23.787  1.0 98.59 ? 102 GLN A CA  1 Q9D920 UNP 102 Q 
+ATOM 771  C C   . GLN A 1 102 ? -24.714 -8.381  22.762  1.0 98.59 ? 102 GLN A C   1 Q9D920 UNP 102 Q 
+ATOM 772  C CB  . GLN A 1 102 ? -26.420 -10.011 23.585  1.0 98.59 ? 102 GLN A CB  1 Q9D920 UNP 102 Q 
+ATOM 773  O O   . GLN A 1 102 ? -24.039 -8.607  21.757  1.0 98.59 ? 102 GLN A O   1 Q9D920 UNP 102 Q 
+ATOM 774  C CG  . GLN A 1 102 ? -26.692 -11.315 24.344  1.0 98.59 ? 102 GLN A CG  1 Q9D920 UNP 102 Q 
+ATOM 775  C CD  . GLN A 1 102 ? -28.166 -11.702 24.310  1.0 98.59 ? 102 GLN A CD  1 Q9D920 UNP 102 Q 
+ATOM 776  N NE2 . GLN A 1 102 ? -28.644 -12.379 25.326  1.0 98.59 ? 102 GLN A NE2 1 Q9D920 UNP 102 Q 
+ATOM 777  O OE1 . GLN A 1 102 ? -28.915 -11.391 23.390  1.0 98.59 ? 102 GLN A OE1 1 Q9D920 UNP 102 Q 
+ATOM 778  N N   . CYS A 1 103 ? -25.190 -7.159  23.022  1.0 98.66 ? 103 CYS A N   1 Q9D920 UNP 103 C 
+ATOM 779  C CA  . CYS A 1 103 ? -24.892 -6.001  22.177  1.0 98.66 ? 103 CYS A CA  1 Q9D920 UNP 103 C 
+ATOM 780  C C   . CYS A 1 103 ? -23.385 -5.700  22.133  1.0 98.66 ? 103 CYS A C   1 Q9D920 UNP 103 C 
+ATOM 781  C CB  . CYS A 1 103 ? -25.681 -4.790  22.694  1.0 98.66 ? 103 CYS A CB  1 Q9D920 UNP 103 C 
+ATOM 782  O O   . CYS A 1 103 ? -22.845 -5.433  21.060  1.0 98.66 ? 103 CYS A O   1 Q9D920 UNP 103 C 
+ATOM 783  S SG  . CYS A 1 103 ? -27.441 -4.991  22.292  1.0 98.66 ? 103 CYS A SG  1 Q9D920 UNP 103 C 
+ATOM 784  N N   . ALA A 1 104 ? -22.694 -5.764  23.276  1.0 98.73 ? 104 ALA A N   1 Q9D920 UNP 104 A 
+ATOM 785  C CA  . ALA A 1 104 ? -21.251 -5.551  23.340  1.0 98.73 ? 104 ALA A CA  1 Q9D920 UNP 104 A 
+ATOM 786  C C   . ALA A 1 104 ? -20.472 -6.635  22.576  1.0 98.73 ? 104 ALA A C   1 Q9D920 UNP 104 A 
+ATOM 787  C CB  . ALA A 1 104 ? -20.825 -5.472  24.811  1.0 98.73 ? 104 ALA A CB  1 Q9D920 UNP 104 A 
+ATOM 788  O O   . ALA A 1 104 ? -19.530 -6.308  21.852  1.0 98.73 ? 104 ALA A O   1 Q9D920 UNP 104 A 
+ATOM 789  N N   . GLU A 1 105 ? -20.882 -7.902  22.683  1.0 98.58 ? 105 GLU A N   1 Q9D920 UNP 105 E 
+ATOM 790  C CA  . GLU A 1 105 ? -20.276 -9.007  21.932  1.0 98.58 ? 105 GLU A CA  1 Q9D920 UNP 105 E 
+ATOM 791  C C   . GLU A 1 105 ? -20.463 -8.851  20.418  1.0 98.58 ? 105 GLU A C   1 Q9D920 UNP 105 E 
+ATOM 792  C CB  . GLU A 1 105 ? -20.857 -10.351 22.388  1.0 98.58 ? 105 GLU A CB  1 Q9D920 UNP 105 E 
+ATOM 793  O O   . GLU A 1 105 ? -19.500 -9.007  19.665  1.0 98.58 ? 105 GLU A O   1 Q9D920 UNP 105 E 
+ATOM 794  C CG  . GLU A 1 105 ? -20.390 -10.757 23.793  1.0 98.58 ? 105 GLU A CG  1 Q9D920 UNP 105 E 
+ATOM 795  C CD  . GLU A 1 105 ? -20.769 -12.209 24.118  1.0 98.58 ? 105 GLU A CD  1 Q9D920 UNP 105 E 
+ATOM 796  O OE1 . GLU A 1 105 ? -19.944 -12.869 24.789  1.0 98.58 ? 105 GLU A OE1 1 Q9D920 UNP 105 E 
+ATOM 797  O OE2 . GLU A 1 105 ? -21.836 -12.664 23.643  1.0 98.58 ? 105 GLU A OE2 1 Q9D920 UNP 105 E 
+ATOM 798  N N   . ALA A 1 106 ? -21.665 -8.477  19.965  1.0 98.41 ? 106 ALA A N   1 Q9D920 UNP 106 A 
+ATOM 799  C CA  . ALA A 1 106 ? -21.942 -8.231  18.549  1.0 98.41 ? 106 ALA A CA  1 Q9D920 UNP 106 A 
+ATOM 800  C C   . ALA A 1 106 ? -21.086 -7.082  17.988  1.0 98.41 ? 106 ALA A C   1 Q9D920 UNP 106 A 
+ATOM 801  C CB  . ALA A 1 106 ? -23.442 -7.955  18.387  1.0 98.41 ? 106 ALA A CB  1 Q9D920 UNP 106 A 
+ATOM 802  O O   . ALA A 1 106 ? -20.442 -7.233  16.949  1.0 98.41 ? 106 ALA A O   1 Q9D920 UNP 106 A 
+ATOM 803  N N   . VAL A 1 107 ? -20.996 -5.961  18.715  1.0 98.79 ? 107 VAL A N   1 Q9D920 UNP 107 V 
+ATOM 804  C CA  . VAL A 1 107 ? -20.145 -4.824  18.324  1.0 98.79 ? 107 VAL A CA  1 Q9D920 UNP 107 V 
+ATOM 805  C C   . VAL A 1 107 ? -18.670 -5.229  18.286  1.0 98.79 ? 107 VAL A C   1 Q9D920 UNP 107 V 
+ATOM 806  C CB  . VAL A 1 107 ? -20.364 -3.624  19.266  1.0 98.79 ? 107 VAL A CB  1 Q9D920 UNP 107 V 
+ATOM 807  O O   . VAL A 1 107 ? -17.966 -4.883  17.337  1.0 98.79 ? 107 VAL A O   1 Q9D920 UNP 107 V 
+ATOM 808  C CG1 . VAL A 1 107 ? -19.352 -2.494  19.030  1.0 98.79 ? 107 VAL A CG1 1 Q9D920 UNP 107 V 
+ATOM 809  C CG2 . VAL A 1 107 ? -21.759 -3.021  19.058  1.0 98.79 ? 107 VAL A CG2 1 Q9D920 UNP 107 V 
+ATOM 810  N N   . ALA A 1 108 ? -18.189 -5.981  19.278  1.0 98.56 ? 108 ALA A N   1 Q9D920 UNP 108 A 
+ATOM 811  C CA  . ALA A 1 108 ? -16.809 -6.459  19.300  1.0 98.56 ? 108 ALA A CA  1 Q9D920 UNP 108 A 
+ATOM 812  C C   . ALA A 1 108 ? -16.513 -7.412  18.128  1.0 98.56 ? 108 ALA A C   1 Q9D920 UNP 108 A 
+ATOM 813  C CB  . ALA A 1 108 ? -16.547 -7.132  20.651  1.0 98.56 ? 108 ALA A CB  1 Q9D920 UNP 108 A 
+ATOM 814  O O   . ALA A 1 108 ? -15.437 -7.343  17.526  1.0 98.56 ? 108 ALA A O   1 Q9D920 UNP 108 A 
+ATOM 815  N N   . PHE A 1 109 ? -17.457 -8.285  17.770  1.0 98.50 ? 109 PHE A N   1 Q9D920 UNP 109 F 
+ATOM 816  C CA  . PHE A 1 109 ? -17.338 -9.163  16.607  1.0 98.50 ? 109 PHE A CA  1 Q9D920 UNP 109 F 
+ATOM 817  C C   . PHE A 1 109 ? -17.227 -8.358  15.304  1.0 98.50 ? 109 PHE A C   1 Q9D920 UNP 109 F 
+ATOM 818  C CB  . PHE A 1 109 ? -18.527 -10.128 16.579  1.0 98.50 ? 109 PHE A CB  1 Q9D920 UNP 109 F 
+ATOM 819  O O   . PHE A 1 109 ? -16.285 -8.566  14.530  1.0 98.50 ? 109 PHE A O   1 Q9D920 UNP 109 F 
+ATOM 820  C CG  . PHE A 1 109 ? -18.476 -11.092 15.414  1.0 98.50 ? 109 PHE A CG  1 Q9D920 UNP 109 F 
+ATOM 821  C CD1 . PHE A 1 109 ? -19.123 -10.775 14.205  1.0 98.50 ? 109 PHE A CD1 1 Q9D920 UNP 109 F 
+ATOM 822  C CD2 . PHE A 1 109 ? -17.759 -12.298 15.532  1.0 98.50 ? 109 PHE A CD2 1 Q9D920 UNP 109 F 
+ATOM 823  C CE1 . PHE A 1 109 ? -19.056 -11.664 13.119  1.0 98.50 ? 109 PHE A CE1 1 Q9D920 UNP 109 F 
+ATOM 824  C CE2 . PHE A 1 109 ? -17.693 -13.187 14.445  1.0 98.50 ? 109 PHE A CE2 1 Q9D920 UNP 109 F 
+ATOM 825  C CZ  . PHE A 1 109 ? -18.343 -12.871 13.238  1.0 98.50 ? 109 PHE A CZ  1 Q9D920 UNP 109 F 
+ATOM 826  N N   . ASP A 1 110 ? -18.120 -7.389  15.100  1.0 98.59 ? 110 ASP A N   1 Q9D920 UNP 110 D 
+ATOM 827  C CA  . ASP A 1 110 ? -18.130 -6.540  13.907  1.0 98.59 ? 110 ASP A CA  1 Q9D920 UNP 110 D 
+ATOM 828  C C   . ASP A 1 110 ? -16.870 -5.676  13.803  1.0 98.59 ? 110 ASP A C   1 Q9D920 UNP 110 D 
+ATOM 829  C CB  . ASP A 1 110 ? -19.384 -5.653  13.907  1.0 98.59 ? 110 ASP A CB  1 Q9D920 UNP 110 D 
+ATOM 830  O O   . ASP A 1 110 ? -16.263 -5.586  12.732  1.0 98.59 ? 110 ASP A O   1 Q9D920 UNP 110 D 
+ATOM 831  C CG  . ASP A 1 110 ? -20.664 -6.399  13.516  1.0 98.59 ? 110 ASP A CG  1 Q9D920 UNP 110 D 
+ATOM 832  O OD1 . ASP A 1 110 ? -20.551 -7.505  12.934  1.0 98.59 ? 110 ASP A OD1 1 Q9D920 UNP 110 D 
+ATOM 833  O OD2 . ASP A 1 110 ? -21.743 -5.801  13.715  1.0 98.59 ? 110 ASP A OD2 1 Q9D920 UNP 110 D 
+ATOM 834  N N   . GLN A 1 111 ? -16.409 -5.095  14.914  1.0 98.57 ? 111 GLN A N   1 Q9D920 UNP 111 Q 
+ATOM 835  C CA  . GLN A 1 111 ? -15.157 -4.336  14.952  1.0 98.57 ? 111 GLN A CA  1 Q9D920 UNP 111 Q 
+ATOM 836  C C   . GLN A 1 111 ? -13.958 -5.208  14.565  1.0 98.57 ? 111 GLN A C   1 Q9D920 UNP 111 Q 
+ATOM 837  C CB  . GLN A 1 111 ? -14.947 -3.735  16.347  1.0 98.57 ? 111 GLN A CB  1 Q9D920 UNP 111 Q 
+ATOM 838  O O   . GLN A 1 111 ? -13.140 -4.799  13.739  1.0 98.57 ? 111 GLN A O   1 Q9D920 UNP 111 Q 
+ATOM 839  C CG  . GLN A 1 111 ? -15.847 -2.516  16.594  1.0 98.57 ? 111 GLN A CG  1 Q9D920 UNP 111 Q 
+ATOM 840  C CD  . GLN A 1 111 ? -15.668 -1.933  17.992  1.0 98.57 ? 111 GLN A CD  1 Q9D920 UNP 111 Q 
+ATOM 841  N NE2 . GLN A 1 111 ? -16.415 -0.909  18.341  1.0 98.57 ? 111 GLN A NE2 1 Q9D920 UNP 111 Q 
+ATOM 842  O OE1 . GLN A 1 111 ? -14.847 -2.352  18.790  1.0 98.57 ? 111 GLN A OE1 1 Q9D920 UNP 111 Q 
+ATOM 843  N N   . ASN A 1 112 ? -13.872 -6.436  15.083  1.0 98.40 ? 112 ASN A N   1 Q9D920 UNP 112 N 
+ATOM 844  C CA  . ASN A 1 112 ? -12.811 -7.370  14.706  1.0 98.40 ? 112 ASN A CA  1 Q9D920 UNP 112 N 
+ATOM 845  C C   . ASN A 1 112 ? -12.873 -7.754  13.217  1.0 98.40 ? 112 ASN A C   1 Q9D920 UNP 112 N 
+ATOM 846  C CB  . ASN A 1 112 ? -12.900 -8.611  15.605  1.0 98.40 ? 112 ASN A CB  1 Q9D920 UNP 112 N 
+ATOM 847  O O   . ASN A 1 112 ? -11.830 -7.888  12.570  1.0 98.40 ? 112 ASN A O   1 Q9D920 UNP 112 N 
+ATOM 848  C CG  . ASN A 1 112 ? -12.311 -8.368  16.981  1.0 98.40 ? 112 ASN A CG  1 Q9D920 UNP 112 N 
+ATOM 849  N ND2 . ASN A 1 112 ? -13.000 -8.739  18.029  1.0 98.40 ? 112 ASN A ND2 1 Q9D920 UNP 112 N 
+ATOM 850  O OD1 . ASN A 1 112 ? -11.201 -7.886  17.121  1.0 98.40 ? 112 ASN A OD1 1 Q9D920 UNP 112 N 
+ATOM 851  N N   . ALA A 1 113 ? -14.075 -7.912  12.654  1.0 98.49 ? 113 ALA A N   1 Q9D920 UNP 113 A 
+ATOM 852  C CA  . ALA A 1 113 ? -14.259 -8.169  11.227  1.0 98.49 ? 113 ALA A CA  1 Q9D920 UNP 113 A 
+ATOM 853  C C   . ALA A 1 113 ? -13.839 -6.963  10.365  1.0 98.49 ? 113 ALA A C   1 Q9D920 UNP 113 A 
+ATOM 854  C CB  . ALA A 1 113 ? -15.718 -8.572  10.984  1.0 98.49 ? 113 ALA A CB  1 Q9D920 UNP 113 A 
+ATOM 855  O O   . ALA A 1 113 ? -13.143 -7.139  9.362   1.0 98.49 ? 113 ALA A O   1 Q9D920 UNP 113 A 
+ATOM 856  N N   . LEU A 1 114 ? -14.200 -5.741  10.769  1.0 98.65 ? 114 LEU A N   1 Q9D920 UNP 114 L 
+ATOM 857  C CA  . LEU A 1 114 ? -13.791 -4.505  10.094  1.0 98.65 ? 114 LEU A CA  1 Q9D920 UNP 114 L 
+ATOM 858  C C   . LEU A 1 114 ? -12.270 -4.326  10.109  1.0 98.65 ? 114 LEU A C   1 Q9D920 UNP 114 L 
+ATOM 859  C CB  . LEU A 1 114 ? -14.489 -3.298  10.746  1.0 98.65 ? 114 LEU A CB  1 Q9D920 UNP 114 L 
+ATOM 860  O O   . LEU A 1 114 ? -11.684 -4.056  9.063   1.0 98.65 ? 114 LEU A O   1 Q9D920 UNP 114 L 
+ATOM 861  C CG  . LEU A 1 114 ? -15.987 -3.166  10.417  1.0 98.65 ? 114 LEU A CG  1 Q9D920 UNP 114 L 
+ATOM 862  C CD1 . LEU A 1 114 ? -16.602 -2.060  11.273  1.0 98.65 ? 114 LEU A CD1 1 Q9D920 UNP 114 L 
+ATOM 863  C CD2 . LEU A 1 114 ? -16.219 -2.816  8.942   1.0 98.65 ? 114 LEU A CD2 1 Q9D920 UNP 114 L 
+ATOM 864  N N   . VAL A 1 115 ? -11.615 -4.554  11.251  1.0 98.64 ? 115 VAL A N   1 Q9D920 UNP 115 V 
+ATOM 865  C CA  . VAL A 1 115 ? -10.149 -4.469  11.373  1.0 98.64 ? 115 VAL A CA  1 Q9D920 UNP 115 V 
+ATOM 866  C C   . VAL A 1 115 ? -9.445  -5.434  10.415  1.0 98.64 ? 115 VAL A C   1 Q9D920 UNP 115 V 
+ATOM 867  C CB  . VAL A 1 115 ? -9.716  -4.720  12.833  1.0 98.64 ? 115 VAL A CB  1 Q9D920 UNP 115 V 
+ATOM 868  O O   . VAL A 1 115 ? -8.442  -5.064  9.806   1.0 98.64 ? 115 VAL A O   1 Q9D920 UNP 115 V 
+ATOM 869  C CG1 . VAL A 1 115 ? -8.199  -4.910  12.987  1.0 98.64 ? 115 VAL A CG1 1 Q9D920 UNP 115 V 
+ATOM 870  C CG2 . VAL A 1 115 ? -10.110 -3.536  13.723  1.0 98.64 ? 115 VAL A CG2 1 Q9D920 UNP 115 V 
+ATOM 871  N N   . LYS A 1 116 ? -9.961  -6.658  10.240  1.0 98.38 ? 116 LYS A N   1 Q9D920 UNP 116 K 
+ATOM 872  C CA  . LYS A 1 116 ? -9.403  -7.619  9.271   1.0 98.38 ? 116 LYS A CA  1 Q9D920 UNP 116 K 
+ATOM 873  C C   . LYS A 1 116 ? -9.517  -7.109  7.832   1.0 98.38 ? 116 LYS A C   1 Q9D920 UNP 116 K 
+ATOM 874  C CB  . LYS A 1 116 ? -10.076 -8.990  9.415   1.0 98.38 ? 116 LYS A CB  1 Q9D920 UNP 116 K 
+ATOM 875  O O   . LYS A 1 116 ? -8.521  -7.122  7.117   1.0 98.38 ? 116 LYS A O   1 Q9D920 UNP 116 K 
+ATOM 876  C CG  . LYS A 1 116 ? -9.642  -9.717  10.696  1.0 98.38 ? 116 LYS A CG  1 Q9D920 UNP 116 K 
+ATOM 877  C CD  . LYS A 1 116 ? -10.440 -11.016 10.852  1.0 98.38 ? 116 LYS A CD  1 Q9D920 UNP 116 K 
+ATOM 878  C CE  . LYS A 1 116 ? -10.082 -11.707 12.171  1.0 98.38 ? 116 LYS A CE  1 Q9D920 UNP 116 K 
+ATOM 879  N NZ  . LYS A 1 116 ? -10.866 -12.954 12.353  1.0 98.38 ? 116 LYS A NZ  1 Q9D920 UNP 116 K 
+ATOM 880  N N   . ARG A 1 117 ? -10.685 -6.590  7.437   1.0 98.60 ? 117 ARG A N   1 Q9D920 UNP 117 R 
+ATOM 881  C CA  . ARG A 1 117 ? -10.897 -6.038  6.085   1.0 98.60 ? 117 ARG A CA  1 Q9D920 UNP 117 R 
+ATOM 882  C C   . ARG A 1 117 ? -10.027 -4.814  5.801   1.0 98.60 ? 117 ARG A C   1 Q9D920 UNP 117 R 
+ATOM 883  C CB  . ARG A 1 117 ? -12.366 -5.665  5.873   1.0 98.60 ? 117 ARG A CB  1 Q9D920 UNP 117 R 
+ATOM 884  O O   . ARG A 1 117 ? -9.536  -4.673  4.688   1.0 98.60 ? 117 ARG A O   1 Q9D920 UNP 117 R 
+ATOM 885  C CG  . ARG A 1 117 ? -13.292 -6.885  5.831   1.0 98.60 ? 117 ARG A CG  1 Q9D920 UNP 117 R 
+ATOM 886  C CD  . ARG A 1 117 ? -14.707 -6.405  5.491   1.0 98.60 ? 117 ARG A CD  1 Q9D920 UNP 117 R 
+ATOM 887  N NE  . ARG A 1 117 ? -15.716 -7.451  5.743   1.0 98.60 ? 117 ARG A NE  1 Q9D920 UNP 117 R 
+ATOM 888  N NH1 . ARG A 1 117 ? -17.258 -6.156  6.866   1.0 98.60 ? 117 ARG A NH1 1 Q9D920 UNP 117 R 
+ATOM 889  N NH2 . ARG A 1 117 ? -17.639 -8.329  6.594   1.0 98.60 ? 117 ARG A NH2 1 Q9D920 UNP 117 R 
+ATOM 890  C CZ  . ARG A 1 117 ? -16.858 -7.305  6.394   1.0 98.60 ? 117 ARG A CZ  1 Q9D920 UNP 117 R 
+ATOM 891  N N   . ILE A 1 118 ? -9.820  -3.945  6.794   1.0 98.73 ? 118 ILE A N   1 Q9D920 UNP 118 I 
+ATOM 892  C CA  . ILE A 1 118 ? -8.915  -2.792  6.662   1.0 98.73 ? 118 ILE A CA  1 Q9D920 UNP 118 I 
+ATOM 893  C C   . ILE A 1 118 ? -7.493  -3.279  6.365   1.0 98.73 ? 118 ILE A C   1 Q9D920 UNP 118 I 
+ATOM 894  C CB  . ILE A 1 118 ? -8.992  -1.884  7.910   1.0 98.73 ? 118 ILE A CB  1 Q9D920 UNP 118 I 
+ATOM 895  O O   . ILE A 1 118 ? -6.900  -2.837  5.389   1.0 98.73 ? 118 ILE A O   1 Q9D920 UNP 118 I 
+ATOM 896  C CG1 . ILE A 1 118 ? -10.365 -1.171  7.951   1.0 98.73 ? 118 ILE A CG1 1 Q9D920 UNP 118 I 
+ATOM 897  C CG2 . ILE A 1 118 ? -7.861  -0.839  7.913   1.0 98.73 ? 118 ILE A CG2 1 Q9D920 UNP 118 I 
+ATOM 898  C CD1 . ILE A 1 118 ? -10.676 -0.492  9.291   1.0 98.73 ? 118 ILE A CD1 1 Q9D920 UNP 118 I 
+ATOM 899  N N   . LYS A 1 119 ? -6.990  -4.271  7.113   1.0 98.60 ? 119 LYS A N   1 Q9D920 UNP 119 K 
+ATOM 900  C CA  . LYS A 1 119 ? -5.655  -4.849  6.871   1.0 98.60 ? 119 LYS A CA  1 Q9D920 UNP 119 K 
+ATOM 901  C C   . LYS A 1 119 ? -5.513  -5.475  5.479   1.0 98.60 ? 119 LYS A C   1 Q9D920 UNP 119 K 
+ATOM 902  C CB  . LYS A 1 119 ? -5.333  -5.890  7.950   1.0 98.60 ? 119 LYS A CB  1 Q9D920 UNP 119 K 
+ATOM 903  O O   . LYS A 1 119 ? -4.471  -5.333  4.848   1.0 98.60 ? 119 LYS A O   1 Q9D920 UNP 119 K 
+ATOM 904  C CG  . LYS A 1 119 ? -5.082  -5.249  9.319   1.0 98.60 ? 119 LYS A CG  1 Q9D920 UNP 119 K 
+ATOM 905  C CD  . LYS A 1 119 ? -4.855  -6.336  10.374  1.0 98.60 ? 119 LYS A CD  1 Q9D920 UNP 119 K 
+ATOM 906  C CE  . LYS A 1 119 ? -4.579  -5.669  11.723  1.0 98.60 ? 119 LYS A CE  1 Q9D920 UNP 119 K 
+ATOM 907  N NZ  . LYS A 1 119 ? -4.266  -6.669  12.772  1.0 98.60 ? 119 LYS A NZ  1 Q9D920 UNP 119 K 
+ATOM 908  N N   . GLU A 1 120 ? -6.543  -6.165  4.988   1.0 98.43 ? 120 GLU A N   1 Q9D920 UNP 120 E 
+ATOM 909  C CA  . GLU A 1 120 ? -6.560  -6.719  3.623   1.0 98.43 ? 120 GLU A CA  1 Q9D920 UNP 120 E 
+ATOM 910  C C   . GLU A 1 120 ? -6.529  -5.617  2.550   1.0 98.43 ? 120 GLU A C   1 Q9D920 UNP 120 E 
+ATOM 911  C CB  . GLU A 1 120 ? -7.818  -7.582  3.433   1.0 98.43 ? 120 GLU A CB  1 Q9D920 UNP 120 E 
+ATOM 912  O O   . GLU A 1 120 ? -5.839  -5.746  1.532   1.0 98.43 ? 120 GLU A O   1 Q9D920 UNP 120 E 
+ATOM 913  C CG  . GLU A 1 120 ? -7.764  -8.909  4.208   1.0 98.43 ? 120 GLU A CG  1 Q9D920 UNP 120 E 
+ATOM 914  C CD  . GLU A 1 120 ? -9.101  -9.675  4.202   1.0 98.43 ? 120 GLU A CD  1 Q9D920 UNP 120 E 
+ATOM 915  O OE1 . GLU A 1 120 ? -9.161  -10.720 4.892   1.0 98.43 ? 120 GLU A OE1 1 Q9D920 UNP 120 E 
+ATOM 916  O OE2 . GLU A 1 120 ? -10.074 -9.209  3.563   1.0 98.43 ? 120 GLU A OE2 1 Q9D920 UNP 120 E 
+ATOM 917  N N   . MET A 1 121 ? -7.246  -4.515  2.787   1.0 98.66 ? 121 MET A N   1 Q9D920 UNP 121 M 
+ATOM 918  C CA  . MET A 1 121 ? -7.231  -3.347  1.909   1.0 98.66 ? 121 MET A CA  1 Q9D920 UNP 121 M 
+ATOM 919  C C   . MET A 1 121 ? -5.860  -2.664  1.912   1.0 98.66 ? 121 MET A C   1 Q9D920 UNP 121 M 
+ATOM 920  C CB  . MET A 1 121 ? -8.341  -2.371  2.324   1.0 98.66 ? 121 MET A CB  1 Q9D920 UNP 121 M 
+ATOM 921  O O   . MET A 1 121 ? -5.342  -2.364  0.838   1.0 98.66 ? 121 MET A O   1 Q9D920 UNP 121 M 
+ATOM 922  C CG  . MET A 1 121 ? -8.531  -1.242  1.302   1.0 98.66 ? 121 MET A CG  1 Q9D920 UNP 121 M 
+ATOM 923  S SD  . MET A 1 121 ? -9.071  -1.750  -0.359  1.0 98.66 ? 121 MET A SD  1 Q9D920 UNP 121 M 
+ATOM 924  C CE  . MET A 1 121 ? -10.711 -2.423  0.015   1.0 98.66 ? 121 MET A CE  1 Q9D920 UNP 121 M 
+ATOM 925  N N   . ASP A 1 122 ? -5.241  -2.485  3.082   1.0 98.63 ? 122 ASP A N   1 Q9D920 UNP 122 D 
+ATOM 926  C CA  . ASP A 1 122 ? -3.909  -1.882  3.217   1.0 98.63 ? 122 ASP A CA  1 Q9D920 UNP 122 D 
+ATOM 927  C C   . ASP A 1 122 ? -2.859  -2.665  2.412   1.0 98.63 ? 122 ASP A C   1 Q9D920 UNP 122 D 
+ATOM 928  C CB  . ASP A 1 122 ? -3.504  -1.809  4.701   1.0 98.63 ? 122 ASP A CB  1 Q9D920 UNP 122 D 
+ATOM 929  O O   . ASP A 1 122 ? -2.116  -2.080  1.622   1.0 98.63 ? 122 ASP A O   1 Q9D920 UNP 122 D 
+ATOM 930  C CG  . ASP A 1 122 ? -4.305  -0.797  5.532   1.0 98.63 ? 122 ASP A CG  1 Q9D920 UNP 122 D 
+ATOM 931  O OD1 . ASP A 1 122 ? -4.821  0.181   4.944   1.0 98.63 ? 122 ASP A OD1 1 Q9D920 UNP 122 D 
+ATOM 932  O OD2 . ASP A 1 122 ? -4.367  -1.001  6.768   1.0 98.63 ? 122 ASP A OD2 1 Q9D920 UNP 122 D 
+ATOM 933  N N   . LEU A 1 123 ? -2.867  -4.001  2.513   1.0 98.53 ? 123 LEU A N   1 Q9D920 UNP 123 L 
+ATOM 934  C CA  . LEU A 1 123 ? -1.995  -4.882  1.721   1.0 98.53 ? 123 LEU A CA  1 Q9D920 UNP 123 L 
+ATOM 935  C C   . LEU A 1 123 ? -2.239  -4.748  0.208   1.0 98.53 ? 123 LEU A C   1 Q9D920 UNP 123 L 
+ATOM 936  C CB  . LEU A 1 123 ? -2.244  -6.339  2.154   1.0 98.53 ? 123 LEU A CB  1 Q9D920 UNP 123 L 
+ATOM 937  O O   . LEU A 1 123 ? -1.300  -4.773  -0.597  1.0 98.53 ? 123 LEU A O   1 Q9D920 UNP 123 L 
+ATOM 938  C CG  . LEU A 1 123 ? -1.661  -6.701  3.530   1.0 98.53 ? 123 LEU A CG  1 Q9D920 UNP 123 L 
+ATOM 939  C CD1 . LEU A 1 123 ? -2.251  -8.033  4.001   1.0 98.53 ? 123 LEU A CD1 1 Q9D920 UNP 123 L 
+ATOM 940  C CD2 . LEU A 1 123 ? -0.139  -6.852  3.474   1.0 98.53 ? 123 LEU A CD2 1 Q9D920 UNP 123 L 
+ATOM 941  N N   . SER A 1 124 ? -3.501  -4.598  -0.198  1.0 98.48 ? 124 SER A N   1 Q9D920 UNP 124 S 
+ATOM 942  C CA  . SER A 1 124 ? -3.877  -4.417  -1.605  1.0 98.48 ? 124 SER A CA  1 Q9D920 UNP 124 S 
+ATOM 943  C C   . SER A 1 124 ? -3.390  -3.070  -2.148  1.0 98.48 ? 124 SER A C   1 Q9D920 UNP 124 S 
+ATOM 944  C CB  . SER A 1 124 ? -5.396  -4.528  -1.772  1.0 98.48 ? 124 SER A CB  1 Q9D920 UNP 124 S 
+ATOM 945  O O   . SER A 1 124 ? -2.868  -3.001  -3.266  1.0 98.48 ? 124 SER A O   1 Q9D920 UNP 124 S 
+ATOM 946  O OG  . SER A 1 124 ? -5.853  -5.795  -1.338  1.0 98.48 ? 124 SER A OG  1 Q9D920 UNP 124 S 
+ATOM 947  N N   . VAL A 1 125 ? -3.509  -2.007  -1.348  1.0 98.71 ? 125 VAL A N   1 Q9D920 UNP 125 V 
+ATOM 948  C CA  . VAL A 1 125 ? -3.011  -0.663  -1.675  1.0 98.71 ? 125 VAL A CA  1 Q9D920 UNP 125 V 
+ATOM 949  C C   . VAL A 1 125 ? -1.488  -0.662  -1.782  1.0 98.71 ? 125 VAL A C   1 Q9D920 UNP 125 V 
+ATOM 950  C CB  . VAL A 1 125 ? -3.503  0.368   -0.638  1.0 98.71 ? 125 VAL A CB  1 Q9D920 UNP 125 V 
+ATOM 951  O O   . VAL A 1 125 ? -0.957  -0.135  -2.760  1.0 98.71 ? 125 VAL A O   1 Q9D920 UNP 125 V 
+ATOM 952  C CG1 . VAL A 1 125 ? -2.836  1.740   -0.811  1.0 98.71 ? 125 VAL A CG1 1 Q9D920 UNP 125 V 
+ATOM 953  C CG2 . VAL A 1 125 ? -5.017  0.586   -0.774  1.0 98.71 ? 125 VAL A CG2 1 Q9D920 UNP 125 V 
+ATOM 954  N N   . GLU A 1 126 ? -0.781  -1.293  -0.842  1.0 98.62 ? 126 GLU A N   1 Q9D920 UNP 126 E 
+ATOM 955  C CA  . GLU A 1 126 ? 0.681   -1.417  -0.879  1.0 98.62 ? 126 GLU A CA  1 Q9D920 UNP 126 E 
+ATOM 956  C C   . GLU A 1 126 ? 1.152   -2.161  -2.137  1.0 98.62 ? 126 GLU A C   1 Q9D920 UNP 126 E 
+ATOM 957  C CB  . GLU A 1 126 ? 1.150   -2.125  0.401   1.0 98.62 ? 126 GLU A CB  1 Q9D920 UNP 126 E 
+ATOM 958  O O   . GLU A 1 126 ? 2.049   -1.707  -2.852  1.0 98.62 ? 126 GLU A O   1 Q9D920 UNP 126 E 
+ATOM 959  C CG  . GLU A 1 126 ? 2.682   -2.209  0.473   1.0 98.62 ? 126 GLU A CG  1 Q9D920 UNP 126 E 
+ATOM 960  C CD  . GLU A 1 126 ? 3.195   -2.765  1.810   1.0 98.62 ? 126 GLU A CD  1 Q9D920 UNP 126 E 
+ATOM 961  O OE1 . GLU A 1 126 ? 4.371   -2.471  2.126   1.0 98.62 ? 126 GLU A OE1 1 Q9D920 UNP 126 E 
+ATOM 962  O OE2 . GLU A 1 126 ? 2.439   -3.500  2.485   1.0 98.62 ? 126 GLU A OE2 1 Q9D920 UNP 126 E 
+ATOM 963  N N   . THR A 1 127 ? 0.479   -3.261  -2.476  1.0 98.63 ? 127 THR A N   1 Q9D920 UNP 127 T 
+ATOM 964  C CA  . THR A 1 127 ? 0.759   -4.030  -3.694  1.0 98.63 ? 127 THR A CA  1 Q9D920 UNP 127 T 
+ATOM 965  C C   . THR A 1 127 ? 0.562   -3.179  -4.953  1.0 98.63 ? 127 THR A C   1 Q9D920 UNP 127 T 
+ATOM 966  C CB  . THR A 1 127 ? -0.133  -5.278  -3.733  1.0 98.63 ? 127 THR A CB  1 Q9D920 UNP 127 T 
+ATOM 967  O O   . THR A 1 127 ? 1.437   -3.137  -5.825  1.0 98.63 ? 127 THR A O   1 Q9D920 UNP 127 T 
+ATOM 968  C CG2 . THR A 1 127 ? 0.094   -6.111  -4.990  1.0 98.63 ? 127 THR A CG2 1 Q9D920 UNP 127 T 
+ATOM 969  O OG1 . THR A 1 127 ? 0.148   -6.111  -2.637  1.0 98.63 ? 127 THR A OG1 1 Q9D920 UNP 127 T 
+ATOM 970  N N   . LEU A 1 128 ? -0.561  -2.458  -5.054  1.0 98.59 ? 128 LEU A N   1 Q9D920 UNP 128 L 
+ATOM 971  C CA  . LEU A 1 128 ? -0.841  -1.568  -6.184  1.0 98.59 ? 128 LEU A CA  1 Q9D920 UNP 128 L 
+ATOM 972  C C   . LEU A 1 128 ? 0.188   -0.433  -6.280  1.0 98.59 ? 128 LEU A C   1 Q9D920 UNP 128 L 
+ATOM 973  C CB  . LEU A 1 128 ? -2.274  -1.024  -6.047  1.0 98.59 ? 128 LEU A CB  1 Q9D920 UNP 128 L 
+ATOM 974  O O   . LEU A 1 128 ? 0.638   -0.101  -7.380  1.0 98.59 ? 128 LEU A O   1 Q9D920 UNP 128 L 
+ATOM 975  C CG  . LEU A 1 128 ? -2.723  -0.128  -7.218  1.0 98.59 ? 128 LEU A CG  1 Q9D920 UNP 128 L 
+ATOM 976  C CD1 . LEU A 1 128 ? -2.767  -0.890  -8.547  1.0 98.59 ? 128 LEU A CD1 1 Q9D920 UNP 128 L 
+ATOM 977  C CD2 . LEU A 1 128 ? -4.117  0.430   -6.939  1.0 98.59 ? 128 LEU A CD2 1 Q9D920 UNP 128 L 
+ATOM 978  N N   . PHE A 1 129 ? 0.596   0.128   -5.142  1.0 98.62 ? 129 PHE A N   1 Q9D920 UNP 129 F 
+ATOM 979  C CA  . PHE A 1 129 ? 1.617   1.167   -5.075  1.0 98.62 ? 129 PHE A CA  1 Q9D920 UNP 129 F 
+ATOM 980  C C   . PHE A 1 129 ? 2.966   0.669   -5.609  1.0 98.62 ? 129 PHE A C   1 Q9D920 UNP 129 F 
+ATOM 981  C CB  . PHE A 1 129 ? 1.726   1.673   -3.633  1.0 98.62 ? 129 PHE A CB  1 Q9D920 UNP 129 F 
+ATOM 982  O O   . PHE A 1 129 ? 3.568   1.328   -6.460  1.0 98.62 ? 129 PHE A O   1 Q9D920 UNP 129 F 
+ATOM 983  C CG  . PHE A 1 129 ? 2.742   2.780   -3.477  1.0 98.62 ? 129 PHE A CG  1 Q9D920 UNP 129 F 
+ATOM 984  C CD1 . PHE A 1 129 ? 4.024   2.502   -2.966  1.0 98.62 ? 129 PHE A CD1 1 Q9D920 UNP 129 F 
+ATOM 985  C CD2 . PHE A 1 129 ? 2.410   4.091   -3.866  1.0 98.62 ? 129 PHE A CD2 1 Q9D920 UNP 129 F 
+ATOM 986  C CE1 . PHE A 1 129 ? 4.968   3.537   -2.837  1.0 98.62 ? 129 PHE A CE1 1 Q9D920 UNP 129 F 
+ATOM 987  C CE2 . PHE A 1 129 ? 3.354   5.123   -3.740  1.0 98.62 ? 129 PHE A CE2 1 Q9D920 UNP 129 F 
+ATOM 988  C CZ  . PHE A 1 129 ? 4.633   4.847   -3.224  1.0 98.62 ? 129 PHE A CZ  1 Q9D920 UNP 129 F 
+ATOM 989  N N   . CYS A 1 130 ? 3.399   -0.529  -5.208  1.0 98.54 ? 130 CYS A N   1 Q9D920 UNP 130 C 
+ATOM 990  C CA  . CYS A 1 130 ? 4.602   -1.172  -5.741  1.0 98.54 ? 130 CYS A CA  1 Q9D920 UNP 130 C 
+ATOM 991  C C   . CYS A 1 130 ? 4.531   -1.356  -7.269  1.0 98.54 ? 130 CYS A C   1 Q9D920 UNP 130 C 
+ATOM 992  C CB  . CYS A 1 130 ? 4.800   -2.510  -5.015  1.0 98.54 ? 130 CYS A CB  1 Q9D920 UNP 130 C 
+ATOM 993  O O   . CYS A 1 130 ? 5.475   -0.995  -7.979  1.0 98.54 ? 130 CYS A O   1 Q9D920 UNP 130 C 
+ATOM 994  S SG  . CYS A 1 130 ? 5.406   -2.178  -3.338  1.0 98.54 ? 130 CYS A SG  1 Q9D920 UNP 130 C 
+ATOM 995  N N   . PHE A 1 131 ? 3.400   -1.832  -7.805  1.0 98.52 ? 131 PHE A N   1 Q9D920 UNP 131 F 
+ATOM 996  C CA  . PHE A 1 131 ? 3.205   -1.946  -9.257  1.0 98.52 ? 131 PHE A CA  1 Q9D920 UNP 131 F 
+ATOM 997  C C   . PHE A 1 131 ? 3.294   -0.595  -9.978  1.0 98.52 ? 131 PHE A C   1 Q9D920 UNP 131 F 
+ATOM 998  C CB  . PHE A 1 131 ? 1.848   -2.597  -9.567  1.0 98.52 ? 131 PHE A CB  1 Q9D920 UNP 131 F 
+ATOM 999  O O   . PHE A 1 131 ? 3.911   -0.499  -11.045 1.0 98.52 ? 131 PHE A O   1 Q9D920 UNP 131 F 
+ATOM 1000 C CG  . PHE A 1 131 ? 1.815   -4.102  -9.401  1.0 98.52 ? 131 PHE A CG  1 Q9D920 UNP 131 F 
+ATOM 1001 C CD1 . PHE A 1 131 ? 2.659   -4.909  -10.188 1.0 98.52 ? 131 PHE A CD1 1 Q9D920 UNP 131 F 
+ATOM 1002 C CD2 . PHE A 1 131 ? 0.914   -4.705  -8.505  1.0 98.52 ? 131 PHE A CD2 1 Q9D920 UNP 131 F 
+ATOM 1003 C CE1 . PHE A 1 131 ? 2.620   -6.308  -10.061 1.0 98.52 ? 131 PHE A CE1 1 Q9D920 UNP 131 F 
+ATOM 1004 C CE2 . PHE A 1 131 ? 0.867   -6.106  -8.391  1.0 98.52 ? 131 PHE A CE2 1 Q9D920 UNP 131 F 
+ATOM 1005 C CZ  . PHE A 1 131 ? 1.725   -6.906  -9.160  1.0 98.52 ? 131 PHE A CZ  1 Q9D920 UNP 131 F 
+ATOM 1006 N N   . MET A 1 132 ? 2.692   0.455   -9.414  1.0 98.52 ? 132 MET A N   1 Q9D920 UNP 132 M 
+ATOM 1007 C CA  . MET A 1 132 ? 2.748   1.800   -9.993  1.0 98.52 ? 132 MET A CA  1 Q9D920 UNP 132 M 
+ATOM 1008 C C   . MET A 1 132 ? 4.162   2.382   -9.949  1.0 98.52 ? 132 MET A C   1 Q9D920 UNP 132 M 
+ATOM 1009 C CB  . MET A 1 132 ? 1.749   2.736   -9.296  1.0 98.52 ? 132 MET A CB  1 Q9D920 UNP 132 M 
+ATOM 1010 O O   . MET A 1 132 ? 4.595   2.981   -10.935 1.0 98.52 ? 132 MET A O   1 Q9D920 UNP 132 M 
+ATOM 1011 C CG  . MET A 1 132 ? 0.284   2.407   -9.610  1.0 98.52 ? 132 MET A CG  1 Q9D920 UNP 132 M 
+ATOM 1012 S SD  . MET A 1 132 ? -0.156  2.356   -11.377 1.0 98.52 ? 132 MET A SD  1 Q9D920 UNP 132 M 
+ATOM 1013 C CE  . MET A 1 132 ? -0.249  0.559   -11.602 1.0 98.52 ? 132 MET A CE  1 Q9D920 UNP 132 M 
+ATOM 1014 N N   . GLN A 1 133 ? 4.914   2.145   -8.872  1.0 98.67 ? 133 GLN A N   1 Q9D920 UNP 133 Q 
+ATOM 1015 C CA  . GLN A 1 133 ? 6.304   2.583   -8.758  1.0 98.67 ? 133 GLN A CA  1 Q9D920 UNP 133 Q 
+ATOM 1016 C C   . GLN A 1 133 ? 7.199   1.903   -9.808  1.0 98.67 ? 133 GLN A C   1 Q9D920 UNP 133 Q 
+ATOM 1017 C CB  . GLN A 1 133 ? 6.801   2.304   -7.332  1.0 98.67 ? 133 GLN A CB  1 Q9D920 UNP 133 Q 
+ATOM 1018 O O   . GLN A 1 133 ? 7.995   2.566   -10.476 1.0 98.67 ? 133 GLN A O   1 Q9D920 UNP 133 Q 
+ATOM 1019 C CG  . GLN A 1 133 ? 8.096   3.075   -7.055  1.0 98.67 ? 133 GLN A CG  1 Q9D920 UNP 133 Q 
+ATOM 1020 C CD  . GLN A 1 133 ? 8.756   2.639   -5.757  1.0 98.67 ? 133 GLN A CD  1 Q9D920 UNP 133 Q 
+ATOM 1021 N NE2 . GLN A 1 133 ? 8.304   3.126   -4.623  1.0 98.67 ? 133 GLN A NE2 1 Q9D920 UNP 133 Q 
+ATOM 1022 O OE1 . GLN A 1 133 ? 9.709   1.869   -5.764  1.0 98.67 ? 133 GLN A OE1 1 Q9D920 UNP 133 Q 
+ATOM 1023 N N   . GLU A 1 134 ? 7.038   0.596   -10.024 1.0 98.52 ? 134 GLU A N   1 Q9D920 UNP 134 E 
+ATOM 1024 C CA  . GLU A 1 134 ? 7.775   -0.124  -11.069 1.0 98.52 ? 134 GLU A CA  1 Q9D920 UNP 134 E 
+ATOM 1025 C C   . GLU A 1 134 ? 7.410   0.367   -12.475 1.0 98.52 ? 134 GLU A C   1 Q9D920 UNP 134 E 
+ATOM 1026 C CB  . GLU A 1 134 ? 7.526   -1.636  -10.934 1.0 98.52 ? 134 GLU A CB  1 Q9D920 UNP 134 E 
+ATOM 1027 O O   . GLU A 1 134 ? 8.284   0.556   -13.329 1.0 98.52 ? 134 GLU A O   1 Q9D920 UNP 134 E 
+ATOM 1028 C CG  . GLU A 1 134 ? 8.281   -2.244  -9.740  1.0 98.52 ? 134 GLU A CG  1 Q9D920 UNP 134 E 
+ATOM 1029 C CD  . GLU A 1 134 ? 9.789   -1.971  -9.847  1.0 98.52 ? 134 GLU A CD  1 Q9D920 UNP 134 E 
+ATOM 1030 O OE1 . GLU A 1 134 ? 10.352  -1.302  -8.943  1.0 98.52 ? 134 GLU A OE1 1 Q9D920 UNP 134 E 
+ATOM 1031 O OE2 . GLU A 1 134 ? 10.359  -2.308  -10.912 1.0 98.52 ? 134 GLU A OE2 1 Q9D920 UNP 134 E 
+ATOM 1032 N N   . ARG A 1 135 ? 6.126   0.653   -12.720 1.0 98.54 ? 135 ARG A N   1 Q9D920 UNP 135 R 
+ATOM 1033 C CA  . ARG A 1 135 ? 5.668   1.254   -13.980 1.0 98.54 ? 135 ARG A CA  1 Q9D920 UNP 135 R 
+ATOM 1034 C C   . ARG A 1 135 ? 6.278   2.641   -14.202 1.0 98.54 ? 135 ARG A C   1 Q9D920 UNP 135 R 
+ATOM 1035 C CB  . ARG A 1 135 ? 4.134   1.278   -13.982 1.0 98.54 ? 135 ARG A CB  1 Q9D920 UNP 135 R 
+ATOM 1036 O O   . ARG A 1 135 ? 6.756   2.917   -15.302 1.0 98.54 ? 135 ARG A O   1 Q9D920 UNP 135 R 
+ATOM 1037 C CG  . ARG A 1 135 ? 3.571   1.772   -15.318 1.0 98.54 ? 135 ARG A CG  1 Q9D920 UNP 135 R 
+ATOM 1038 C CD  . ARG A 1 135 ? 2.042   1.691   -15.309 1.0 98.54 ? 135 ARG A CD  1 Q9D920 UNP 135 R 
+ATOM 1039 N NE  . ARG A 1 135 ? 1.483   2.108   -16.606 1.0 98.54 ? 135 ARG A NE  1 Q9D920 UNP 135 R 
+ATOM 1040 N NH1 . ARG A 1 135 ? -0.742  1.865   -16.102 1.0 98.54 ? 135 ARG A NH1 1 Q9D920 UNP 135 R 
+ATOM 1041 N NH2 . ARG A 1 135 ? -0.128  2.645   -18.103 1.0 98.54 ? 135 ARG A NH2 1 Q9D920 UNP 135 R 
+ATOM 1042 C CZ  . ARG A 1 135 ? 0.209   2.201   -16.927 1.0 98.54 ? 135 ARG A CZ  1 Q9D920 UNP 135 R 
+ATOM 1043 N N   . GLN A 1 136 ? 6.318   3.479   -13.168 1.0 98.63 ? 136 GLN A N   1 Q9D920 UNP 136 Q 
+ATOM 1044 C CA  . GLN A 1 136 ? 6.941   4.802   -13.216 1.0 98.63 ? 136 GLN A CA  1 Q9D920 UNP 136 Q 
+ATOM 1045 C C   . GLN A 1 136 ? 8.433   4.707   -13.566 1.0 98.63 ? 136 GLN A C   1 Q9D920 UNP 136 Q 
+ATOM 1046 C CB  . GLN A 1 136 ? 6.725   5.499   -11.865 1.0 98.63 ? 136 GLN A CB  1 Q9D920 UNP 136 Q 
+ATOM 1047 O O   . GLN A 1 136 ? 8.885   5.403   -14.476 1.0 98.63 ? 136 GLN A O   1 Q9D920 UNP 136 Q 
+ATOM 1048 C CG  . GLN A 1 136 ? 7.255   6.942   -11.846 1.0 98.63 ? 136 GLN A CG  1 Q9D920 UNP 136 Q 
+ATOM 1049 C CD  . GLN A 1 136 ? 7.178   7.573   -10.459 1.0 98.63 ? 136 GLN A CD  1 Q9D920 UNP 136 Q 
+ATOM 1050 N NE2 . GLN A 1 136 ? 7.484   8.846   -10.335 1.0 98.63 ? 136 GLN A NE2 1 Q9D920 UNP 136 Q 
+ATOM 1051 O OE1 . GLN A 1 136 ? 6.868   6.944   -9.464  1.0 98.63 ? 136 GLN A OE1 1 Q9D920 UNP 136 Q 
+ATOM 1052 N N   . LYS A 1 137 ? 9.188   3.804   -12.919 1.0 98.58 ? 137 LYS A N   1 Q9D920 UNP 137 K 
+ATOM 1053 C CA  . LYS A 1 137 ? 10.614  3.571   -13.226 1.0 98.58 ? 137 LYS A CA  1 Q9D920 UNP 137 K 
+ATOM 1054 C C   . LYS A 1 137 ? 10.829  3.162   -14.687 1.0 98.58 ? 137 LYS A C   1 Q9D920 UNP 137 K 
+ATOM 1055 C CB  . LYS A 1 137 ? 11.191  2.486   -12.301 1.0 98.58 ? 137 LYS A CB  1 Q9D920 UNP 137 K 
+ATOM 1056 O O   . LYS A 1 137 ? 11.766  3.637   -15.326 1.0 98.58 ? 137 LYS A O   1 Q9D920 UNP 137 K 
+ATOM 1057 C CG  . LYS A 1 137 ? 11.367  2.929   -10.839 1.0 98.58 ? 137 LYS A CG  1 Q9D920 UNP 137 K 
+ATOM 1058 C CD  . LYS A 1 137 ? 11.786  1.724   -9.980  1.0 98.58 ? 137 LYS A CD  1 Q9D920 UNP 137 K 
+ATOM 1059 C CE  . LYS A 1 137 ? 11.708  2.042   -8.483  1.0 98.58 ? 137 LYS A CE  1 Q9D920 UNP 137 K 
+ATOM 1060 N NZ  . LYS A 1 137 ? 11.646  0.801   -7.668  1.0 98.58 ? 137 LYS A NZ  1 Q9D920 UNP 137 K 
+ATOM 1061 N N   . ARG A 1 138 ? 9.968   2.297   -15.241 1.0 98.46 ? 138 ARG A N   1 Q9D920 UNP 138 R 
+ATOM 1062 C CA  . ARG A 1 138 ? 10.039  1.894   -16.660 1.0 98.46 ? 138 ARG A CA  1 Q9D920 UNP 138 R 
+ATOM 1063 C C   . ARG A 1 138 ? 9.793   3.073   -17.600 1.0 98.46 ? 138 ARG A C   1 Q9D920 UNP 138 R 
+ATOM 1064 C CB  . ARG A 1 138 ? 9.044   0.763   -16.957 1.0 98.46 ? 138 ARG A CB  1 Q9D920 UNP 138 R 
+ATOM 1065 O O   . ARG A 1 138 ? 10.527  3.230   -18.570 1.0 98.46 ? 138 ARG A O   1 Q9D920 UNP 138 R 
+ATOM 1066 C CG  . ARG A 1 138 ? 9.454   -0.563  -16.304 1.0 98.46 ? 138 ARG A CG  1 Q9D920 UNP 138 R 
+ATOM 1067 C CD  . ARG A 1 138 ? 8.376   -1.622  -16.558 1.0 98.46 ? 138 ARG A CD  1 Q9D920 UNP 138 R 
+ATOM 1068 N NE  . ARG A 1 138 ? 8.605   -2.831  -15.747 1.0 98.46 ? 138 ARG A NE  1 Q9D920 UNP 138 R 
+ATOM 1069 N NH1 . ARG A 1 138 ? 6.960   -4.140  -16.673 1.0 98.46 ? 138 ARG A NH1 1 Q9D920 UNP 138 R 
+ATOM 1070 N NH2 . ARG A 1 138 ? 8.189   -4.934  -14.989 1.0 98.46 ? 138 ARG A NH2 1 Q9D920 UNP 138 R 
+ATOM 1071 C CZ  . ARG A 1 138 ? 7.922   -3.958  -15.809 1.0 98.46 ? 138 ARG A CZ  1 Q9D920 UNP 138 R 
+ATOM 1072 N N   . TYR A 1 139 ? 8.805   3.915   -17.306 1.0 98.39 ? 139 TYR A N   1 Q9D920 UNP 139 Y 
+ATOM 1073 C CA  . TYR A 1 139 ? 8.511   5.090   -18.129 1.0 98.39 ? 139 TYR A CA  1 Q9D920 UNP 139 Y 
+ATOM 1074 C C   . TYR A 1 139 ? 9.599   6.164   -18.057 1.0 98.39 ? 139 TYR A C   1 Q9D920 UNP 139 Y 
+ATOM 1075 C CB  . TYR A 1 139 ? 7.129   5.646   -17.769 1.0 98.39 ? 139 TYR A CB  1 Q9D920 UNP 139 Y 
+ATOM 1076 O O   . TYR A 1 139 ? 9.900   6.760   -19.088 1.0 98.39 ? 139 TYR A O   1 Q9D920 UNP 139 Y 
+ATOM 1077 C CG  . TYR A 1 139 ? 5.932   4.774   -18.124 1.0 98.39 ? 139 TYR A CG  1 Q9D920 UNP 139 Y 
+ATOM 1078 C CD1 . TYR A 1 139 ? 6.012   3.772   -19.115 1.0 98.39 ? 139 TYR A CD1 1 Q9D920 UNP 139 Y 
+ATOM 1079 C CD2 . TYR A 1 139 ? 4.695   5.034   -17.505 1.0 98.39 ? 139 TYR A CD2 1 Q9D920 UNP 139 Y 
+ATOM 1080 C CE1 . TYR A 1 139 ? 4.866   3.067   -19.516 1.0 98.39 ? 139 TYR A CE1 1 Q9D920 UNP 139 Y 
+ATOM 1081 C CE2 . TYR A 1 139 ? 3.542   4.326   -17.894 1.0 98.39 ? 139 TYR A CE2 1 Q9D920 UNP 139 Y 
+ATOM 1082 O OH  . TYR A 1 139 ? 2.525   2.666   -19.306 1.0 98.39 ? 139 TYR A OH  1 Q9D920 UNP 139 Y 
+ATOM 1083 C CZ  . TYR A 1 139 ? 3.629   3.352   -18.911 1.0 98.39 ? 139 TYR A CZ  1 Q9D920 UNP 139 Y 
+ATOM 1084 N N   . ALA A 1 140 ? 10.253  6.349   -16.906 1.0 98.58 ? 140 ALA A N   1 Q9D920 UNP 140 A 
+ATOM 1085 C CA  . ALA A 1 140 ? 11.435  7.207   -16.805 1.0 98.58 ? 140 ALA A CA  1 Q9D920 UNP 140 A 
+ATOM 1086 C C   . ALA A 1 140 ? 12.559  6.730   -17.746 1.0 98.58 ? 140 ALA A C   1 Q9D920 UNP 140 A 
+ATOM 1087 C CB  . ALA A 1 140 ? 11.884  7.256   -15.341 1.0 98.58 ? 140 ALA A CB  1 Q9D920 UNP 140 A 
+ATOM 1088 O O   . ALA A 1 140 ? 13.070  7.514   -18.542 1.0 98.58 ? 140 ALA A O   1 Q9D920 UNP 140 A 
+ATOM 1089 N N   . LYS A 1 141 ? 12.851  5.420   -17.760 1.0 98.51 ? 141 LYS A N   1 Q9D920 UNP 141 K 
+ATOM 1090 C CA  . LYS A 1 141 ? 13.831  4.830   -18.692 1.0 98.51 ? 141 LYS A CA  1 Q9D920 UNP 141 K 
+ATOM 1091 C C   . LYS A 1 141 ? 13.444  5.021   -20.163 1.0 98.51 ? 141 LYS A C   1 Q9D920 UNP 141 K 
+ATOM 1092 C CB  . LYS A 1 141 ? 14.023  3.337   -18.395 1.0 98.51 ? 141 LYS A CB  1 Q9D920 UNP 141 K 
+ATOM 1093 O O   . LYS A 1 141 ? 14.310  5.277   -20.994 1.0 98.51 ? 141 LYS A O   1 Q9D920 UNP 141 K 
+ATOM 1094 C CG  . LYS A 1 141 ? 14.741  3.090   -17.064 1.0 98.51 ? 141 LYS A CG  1 Q9D920 UNP 141 K 
+ATOM 1095 C CD  . LYS A 1 141 ? 14.905  1.585   -16.822 1.0 98.51 ? 141 LYS A CD  1 Q9D920 UNP 141 K 
+ATOM 1096 C CE  . LYS A 1 141 ? 15.634  1.365   -15.494 1.0 98.51 ? 141 LYS A CE  1 Q9D920 UNP 141 K 
+ATOM 1097 N NZ  . LYS A 1 141 ? 15.887  -0.074  -15.231 1.0 98.51 ? 141 LYS A NZ  1 Q9D920 UNP 141 K 
+ATOM 1098 N N   . TYR A 1 142 ? 12.161  4.901   -20.513 1.0 98.35 ? 142 TYR A N   1 Q9D920 UNP 142 Y 
+ATOM 1099 C CA  . TYR A 1 142 ? 11.710  5.163   -21.887 1.0 98.35 ? 142 TYR A CA  1 Q9D920 UNP 142 Y 
+ATOM 1100 C C   . TYR A 1 142 ? 11.855  6.637   -22.278 1.0 98.35 ? 142 TYR A C   1 Q9D920 UNP 142 Y 
+ATOM 1101 C CB  . TYR A 1 142 ? 10.262  4.698   -22.085 1.0 98.35 ? 142 TYR A CB  1 Q9D920 UNP 142 Y 
+ATOM 1102 O O   . TYR A 1 142 ? 12.239  6.922   -23.411 1.0 98.35 ? 142 TYR A O   1 Q9D920 UNP 142 Y 
+ATOM 1103 C CG  . TYR A 1 142 ? 9.992   3.209   -21.939 1.0 98.35 ? 142 TYR A CG  1 Q9D920 UNP 142 Y 
+ATOM 1104 C CD1 . TYR A 1 142 ? 11.012  2.248   -22.112 1.0 98.35 ? 142 TYR A CD1 1 Q9D920 UNP 142 Y 
+ATOM 1105 C CD2 . TYR A 1 142 ? 8.674   2.785   -21.686 1.0 98.35 ? 142 TYR A CD2 1 Q9D920 UNP 142 Y 
+ATOM 1106 C CE1 . TYR A 1 142 ? 10.720  0.878   -21.988 1.0 98.35 ? 142 TYR A CE1 1 Q9D920 UNP 142 Y 
+ATOM 1107 C CE2 . TYR A 1 142 ? 8.374   1.414   -21.572 1.0 98.35 ? 142 TYR A CE2 1 Q9D920 UNP 142 Y 
+ATOM 1108 O OH  . TYR A 1 142 ? 9.125   -0.867  -21.621 1.0 98.35 ? 142 TYR A OH  1 Q9D920 UNP 142 Y 
+ATOM 1109 C CZ  . TYR A 1 142 ? 9.404   0.459   -21.717 1.0 98.35 ? 142 TYR A CZ  1 Q9D920 UNP 142 Y 
+ATOM 1110 N N   . ALA A 1 143 ? 11.606  7.568   -21.355 1.0 98.49 ? 143 ALA A N   1 Q9D920 UNP 143 A 
+ATOM 1111 C CA  . ALA A 1 143 ? 11.815  8.992   -21.601 1.0 98.49 ? 143 ALA A CA  1 Q9D920 UNP 143 A 
+ATOM 1112 C C   . ALA A 1 143 ? 13.295  9.303   -21.897 1.0 98.49 ? 143 ALA A C   1 Q9D920 UNP 143 A 
+ATOM 1113 C CB  . ALA A 1 143 ? 11.283  9.782   -20.399 1.0 98.49 ? 143 ALA A CB  1 Q9D920 UNP 143 A 
+ATOM 1114 O O   . ALA A 1 143 ? 13.589  9.990   -22.875 1.0 98.49 ? 143 ALA A O   1 Q9D920 UNP 143 A 
+ATOM 1115 N N   . GLU A 1 144 ? 14.221  8.720   -21.128 1.0 98.38 ? 144 GLU A N   1 Q9D920 UNP 144 E 
+ATOM 1116 C CA  . GLU A 1 144 ? 15.669  8.823   -21.374 1.0 98.38 ? 144 GLU A CA  1 Q9D920 UNP 144 E 
+ATOM 1117 C C   . GLU A 1 144 ? 16.063  8.261   -22.752 1.0 98.38 ? 144 GLU A C   1 Q9D920 UNP 144 E 
+ATOM 1118 C CB  . GLU A 1 144 ? 16.436  8.048   -20.291 1.0 98.38 ? 144 GLU A CB  1 Q9D920 UNP 144 E 
+ATOM 1119 O O   . GLU A 1 144 ? 16.833  8.877   -23.491 1.0 98.38 ? 144 GLU A O   1 Q9D920 UNP 144 E 
+ATOM 1120 C CG  . GLU A 1 144 ? 16.370  8.684   -18.893 1.0 98.38 ? 144 GLU A CG  1 Q9D920 UNP 144 E 
+ATOM 1121 C CD  . GLU A 1 144 ? 16.973  7.780   -17.800 1.0 98.38 ? 144 GLU A CD  1 Q9D920 UNP 144 E 
+ATOM 1122 O OE1 . GLU A 1 144 ? 16.896  8.178   -16.617 1.0 98.38 ? 144 GLU A OE1 1 Q9D920 UNP 144 E 
+ATOM 1123 O OE2 . GLU A 1 144 ? 17.466  6.672   -18.127 1.0 98.38 ? 144 GLU A OE2 1 Q9D920 UNP 144 E 
+ATOM 1124 N N   . GLN A 1 145 ? 15.507  7.109   -23.144 1.0 98.49 ? 145 GLN A N   1 Q9D920 UNP 145 Q 
+ATOM 1125 C CA  . GLN A 1 145 ? 15.761  6.521   -24.464 1.0 98.49 ? 145 GLN A CA  1 Q9D920 UNP 145 Q 
+ATOM 1126 C C   . GLN A 1 145 ? 15.266  7.422   -25.602 1.0 98.49 ? 145 GLN A C   1 Q9D920 UNP 145 Q 
+ATOM 1127 C CB  . GLN A 1 145 ? 15.105  5.139   -24.569 1.0 98.49 ? 145 GLN A CB  1 Q9D920 UNP 145 Q 
+ATOM 1128 O O   . GLN A 1 145 ? 15.987  7.621   -26.581 1.0 98.49 ? 145 GLN A O   1 Q9D920 UNP 145 Q 
+ATOM 1129 C CG  . GLN A 1 145 ? 15.844  4.081   -23.741 1.0 98.49 ? 145 GLN A CG  1 Q9D920 UNP 145 Q 
+ATOM 1130 C CD  . GLN A 1 145 ? 15.143  2.728   -23.755 1.0 98.49 ? 145 GLN A CD  1 Q9D920 UNP 145 Q 
+ATOM 1131 N NE2 . GLN A 1 145 ? 15.617  1.776   -22.981 1.0 98.49 ? 145 GLN A NE2 1 Q9D920 UNP 145 Q 
+ATOM 1132 O OE1 . GLN A 1 145 ? 14.176  2.475   -24.451 1.0 98.49 ? 145 GLN A OE1 1 Q9D920 UNP 145 Q 
+ATOM 1133 N N   . ILE A 1 146 ? 14.070  8.001   -25.472 1.0 98.15 ? 146 ILE A N   1 Q9D920 UNP 146 I 
+ATOM 1134 C CA  . ILE A 1 146 ? 13.521  8.946   -26.456 1.0 98.15 ? 146 ILE A CA  1 Q9D920 UNP 146 I 
+ATOM 1135 C C   . ILE A 1 146 ? 14.401  10.198  -26.551 1.0 98.15 ? 146 ILE A C   1 Q9D920 UNP 146 I 
+ATOM 1136 C CB  . ILE A 1 146 ? 12.055  9.288   -26.103 1.0 98.15 ? 146 ILE A CB  1 Q9D920 UNP 146 I 
+ATOM 1137 O O   . ILE A 1 146 ? 14.675  10.670  -27.657 1.0 98.15 ? 146 ILE A O   1 Q9D920 UNP 146 I 
+ATOM 1138 C CG1 . ILE A 1 146 ? 11.155  8.054   -26.347 1.0 98.15 ? 146 ILE A CG1 1 Q9D920 UNP 146 I 
+ATOM 1139 C CG2 . ILE A 1 146 ? 11.541  10.487  -26.926 1.0 98.15 ? 146 ILE A CG2 1 Q9D920 UNP 146 I 
+ATOM 1140 C CD1 . ILE A 1 146 ? 9.754   8.180   -25.735 1.0 98.15 ? 146 ILE A CD1 1 Q9D920 UNP 146 I 
+ATOM 1141 N N   . GLN A 1 147 ? 14.896  10.714  -25.423 1.0 98.41 ? 147 GLN A N   1 Q9D920 UNP 147 Q 
+ATOM 1142 C CA  . GLN A 1 147 ? 15.827  11.843  -25.418 1.0 98.41 ? 147 GLN A CA  1 Q9D920 UNP 147 Q 
+ATOM 1143 C C   . GLN A 1 147 ? 17.105  11.517  -26.204 1.0 98.41 ? 147 GLN A C   1 Q9D920 UNP 147 Q 
+ATOM 1144 C CB  . GLN A 1 147 ? 16.124  12.254  -23.971 1.0 98.41 ? 147 GLN A CB  1 Q9D920 UNP 147 Q 
+ATOM 1145 O O   . GLN A 1 147 ? 17.499  12.294  -27.075 1.0 98.41 ? 147 GLN A O   1 Q9D920 UNP 147 Q 
+ATOM 1146 C CG  . GLN A 1 147 ? 17.048  13.478  -23.928 1.0 98.41 ? 147 GLN A CG  1 Q9D920 UNP 147 Q 
+ATOM 1147 C CD  . GLN A 1 147 ? 17.341  13.962  -22.517 1.0 98.41 ? 147 GLN A CD  1 Q9D920 UNP 147 Q 
+ATOM 1148 N NE2 . GLN A 1 147 ? 18.335  14.806  -22.370 1.0 98.41 ? 147 GLN A NE2 1 Q9D920 UNP 147 Q 
+ATOM 1149 O OE1 . GLN A 1 147 ? 16.696  13.609  -21.543 1.0 98.41 ? 147 GLN A OE1 1 Q9D920 UNP 147 Q 
+ATOM 1150 N N   . LYS A 1 148 ? 17.691  10.333  -25.993 1.0 98.26 ? 148 LYS A N   1 Q9D920 UNP 148 K 
+ATOM 1151 C CA  . LYS A 1 148 ? 18.863  9.877   -26.755 1.0 98.26 ? 148 LYS A CA  1 Q9D920 UNP 148 K 
+ATOM 1152 C C   . LYS A 1 148 ? 18.581  9.769   -28.260 1.0 98.26 ? 148 LYS A C   1 Q9D920 UNP 148 K 
+ATOM 1153 C CB  . LYS A 1 148 ? 19.338  8.546   -26.161 1.0 98.26 ? 148 LYS A CB  1 Q9D920 UNP 148 K 
+ATOM 1154 O O   . LYS A 1 148 ? 19.417  10.155  -29.073 1.0 98.26 ? 148 LYS A O   1 Q9D920 UNP 148 K 
+ATOM 1155 C CG  . LYS A 1 148 ? 20.677  8.110   -26.768 1.0 98.26 ? 148 LYS A CG  1 Q9D920 UNP 148 K 
+ATOM 1156 C CD  . LYS A 1 148 ? 21.165  6.819   -26.108 1.0 98.26 ? 148 LYS A CD  1 Q9D920 UNP 148 K 
+ATOM 1157 C CE  . LYS A 1 148 ? 22.521  6.437   -26.707 1.0 98.26 ? 148 LYS A CE  1 Q9D920 UNP 148 K 
+ATOM 1158 N NZ  . LYS A 1 148 ? 23.064  5.213   -26.071 1.0 98.26 ? 148 LYS A NZ  1 Q9D920 UNP 148 K 
+ATOM 1159 N N   . VAL A 1 149 ? 17.399  9.288   -28.653 1.0 98.40 ? 149 VAL A N   1 Q9D920 UNP 149 V 
+ATOM 1160 C CA  . VAL A 1 149 ? 16.981  9.243   -30.070 1.0 98.40 ? 149 VAL A CA  1 Q9D920 UNP 149 V 
+ATOM 1161 C C   . VAL A 1 149 ? 16.866  10.651  -30.664 1.0 98.40 ? 149 VAL A C   1 Q9D920 UNP 149 V 
+ATOM 1162 C CB  . VAL A 1 149 ? 15.658  8.466   -30.230 1.0 98.40 ? 149 VAL A CB  1 Q9D920 UNP 149 V 
+ATOM 1163 O O   . VAL A 1 149 ? 17.280  10.875  -31.806 1.0 98.40 ? 149 VAL A O   1 Q9D920 UNP 149 V 
+ATOM 1164 C CG1 . VAL A 1 149 ? 15.079  8.565   -31.648 1.0 98.40 ? 149 VAL A CG1 1 Q9D920 UNP 149 V 
+ATOM 1165 C CG2 . VAL A 1 149 ? 15.872  6.975   -29.935 1.0 98.40 ? 149 VAL A CG2 1 Q9D920 UNP 149 V 
+ATOM 1166 N N   . ASN A 1 150 ? 16.356  11.619  -29.899 1.0 98.12 ? 150 ASN A N   1 Q9D920 UNP 150 N 
+ATOM 1167 C CA  . ASN A 1 150 ? 16.283  13.016  -30.331 1.0 98.12 ? 150 ASN A CA  1 Q9D920 UNP 150 N 
+ATOM 1168 C C   . ASN A 1 150 ? 17.679  13.629  -30.521 1.0 98.12 ? 150 ASN A C   1 Q9D920 UNP 150 N 
+ATOM 1169 C CB  . ASN A 1 150 ? 15.444  13.821  -29.325 1.0 98.12 ? 150 ASN A CB  1 Q9D920 UNP 150 N 
+ATOM 1170 O O   . ASN A 1 150 ? 17.915  14.311  -31.520 1.0 98.12 ? 150 ASN A O   1 Q9D920 UNP 150 N 
+ATOM 1171 C CG  . ASN A 1 150 ? 13.963  13.506  -29.400 1.0 98.12 ? 150 ASN A CG  1 Q9D920 UNP 150 N 
+ATOM 1172 N ND2 . ASN A 1 150 ? 13.241  13.695  -28.320 1.0 98.12 ? 150 ASN A ND2 1 Q9D920 UNP 150 N 
+ATOM 1173 O OD1 . ASN A 1 150 ? 13.423  13.142  -30.429 1.0 98.12 ? 150 ASN A OD1 1 Q9D920 UNP 150 N 
+ATOM 1174 N N   . GLU A 1 151 ? 18.621  13.340  -29.620 1.0 98.24 ? 151 GLU A N   1 Q9D920 UNP 151 E 
+ATOM 1175 C CA  . GLU A 1 151 ? 20.024  13.755  -29.748 1.0 98.24 ? 151 GLU A CA  1 Q9D920 UNP 151 E 
+ATOM 1176 C C   . GLU A 1 151 ? 20.678  13.152  -30.998 1.0 98.24 ? 151 GLU A C   1 Q9D920 UNP 151 E 
+ATOM 1177 C CB  . GLU A 1 151 ? 20.810  13.334  -28.499 1.0 98.24 ? 151 GLU A CB  1 Q9D920 UNP 151 E 
+ATOM 1178 O O   . GLU A 1 151 ? 21.275  13.875  -31.799 1.0 98.24 ? 151 GLU A O   1 Q9D920 UNP 151 E 
+ATOM 1179 C CG  . GLU A 1 151 ? 20.423  14.147  -27.254 1.0 98.24 ? 151 GLU A CG  1 Q9D920 UNP 151 E 
+ATOM 1180 C CD  . GLU A 1 151 ? 21.006  13.569  -25.953 1.0 98.24 ? 151 GLU A CD  1 Q9D920 UNP 151 E 
+ATOM 1181 O OE1 . GLU A 1 151 ? 20.581  14.062  -24.881 1.0 98.24 ? 151 GLU A OE1 1 Q9D920 UNP 151 E 
+ATOM 1182 O OE2 . GLU A 1 151 ? 21.849  12.644  -26.036 1.0 98.24 ? 151 GLU A OE2 1 Q9D920 UNP 151 E 
+ATOM 1183 N N   . MET A 1 152 ? 20.499  11.846  -31.226 1.0 98.29 ? 152 MET A N   1 Q9D920 UNP 152 M 
+ATOM 1184 C CA  . MET A 1 152 ? 20.983  11.172  -32.437 1.0 98.29 ? 152 MET A CA  1 Q9D920 UNP 152 M 
+ATOM 1185 C C   . MET A 1 152 ? 20.384  11.791  -33.705 1.0 98.29 ? 152 MET A C   1 Q9D920 UNP 152 M 
+ATOM 1186 C CB  . MET A 1 152 ? 20.650  9.674   -32.378 1.0 98.29 ? 152 MET A CB  1 Q9D920 UNP 152 M 
+ATOM 1187 O O   . MET A 1 152 ? 21.104  12.051  -34.668 1.0 98.29 ? 152 MET A O   1 Q9D920 UNP 152 M 
+ATOM 1188 C CG  . MET A 1 152 ? 21.496  8.928   -31.342 1.0 98.29 ? 152 MET A CG  1 Q9D920 UNP 152 M 
+ATOM 1189 S SD  . MET A 1 152 ? 21.054  7.180   -31.118 1.0 98.29 ? 152 MET A SD  1 Q9D920 UNP 152 M 
+ATOM 1190 C CE  . MET A 1 152 ? 21.511  6.510   -32.742 1.0 98.29 ? 152 MET A CE  1 Q9D920 UNP 152 M 
+ATOM 1191 N N   . SER A 1 153 ? 19.087  12.099  -33.694 1.0 98.06 ? 153 SER A N   1 Q9D920 UNP 153 S 
+ATOM 1192 C CA  . SER A 1 153 ? 18.406  12.757  -34.815 1.0 98.06 ? 153 SER A CA  1 Q9D920 UNP 153 S 
+ATOM 1193 C C   . SER A 1 153 ? 18.969  14.156  -35.090 1.0 98.06 ? 153 SER A C   1 Q9D920 UNP 153 S 
+ATOM 1194 C CB  . SER A 1 153 ? 16.904  12.855  -34.538 1.0 98.06 ? 153 SER A CB  1 Q9D920 UNP 153 S 
+ATOM 1195 O O   . SER A 1 153 ? 19.130  14.542  -36.249 1.0 98.06 ? 153 SER A O   1 Q9D920 UNP 153 S 
+ATOM 1196 O OG  . SER A 1 153 ? 16.343  11.569  -34.371 1.0 98.06 ? 153 SER A OG  1 Q9D920 UNP 153 S 
+ATOM 1197 N N   . ALA A 1 154 ? 19.315  14.916  -34.047 1.0 98.18 ? 154 ALA A N   1 Q9D920 UNP 154 A 
+ATOM 1198 C CA  . ALA A 1 154 ? 19.951  16.225  -34.189 1.0 98.18 ? 154 ALA A CA  1 Q9D920 UNP 154 A 
+ATOM 1199 C C   . ALA A 1 154 ? 21.370  16.122  -34.779 1.0 98.18 ? 154 ALA A C   1 Q9D920 UNP 154 A 
+ATOM 1200 C CB  . ALA A 1 154 ? 19.950  16.920  -32.823 1.0 98.18 ? 154 ALA A CB  1 Q9D920 UNP 154 A 
+ATOM 1201 O O   . ALA A 1 154 ? 21.738  16.933  -35.633 1.0 98.18 ? 154 ALA A O   1 Q9D920 UNP 154 A 
+ATOM 1202 N N   . ILE A 1 155 ? 22.146  15.109  -34.377 1.0 98.10 ? 155 ILE A N   1 Q9D920 UNP 155 I 
+ATOM 1203 C CA  . ILE A 1 155 ? 23.473  14.829  -34.948 1.0 98.10 ? 155 ILE A CA  1 Q9D920 UNP 155 I 
+ATOM 1204 C C   . ILE A 1 155 ? 23.352  14.461  -36.429 1.0 98.10 ? 155 ILE A C   1 Q9D920 UNP 155 I 
+ATOM 1205 C CB  . ILE A 1 155 ? 24.200  13.727  -34.143 1.0 98.10 ? 155 ILE A CB  1 Q9D920 UNP 155 I 
+ATOM 1206 O O   . ILE A 1 155 ? 24.060  15.039  -37.251 1.0 98.10 ? 155 ILE A O   1 Q9D920 UNP 155 I 
+ATOM 1207 C CG1 . ILE A 1 155 ? 24.528  14.229  -32.719 1.0 98.10 ? 155 ILE A CG1 1 Q9D920 UNP 155 I 
+ATOM 1208 C CG2 . ILE A 1 155 ? 25.496  13.290  -34.855 1.0 98.10 ? 155 ILE A CG2 1 Q9D920 UNP 155 I 
+ATOM 1209 C CD1 . ILE A 1 155 ? 24.944  13.110  -31.755 1.0 98.10 ? 155 ILE A CD1 1 Q9D920 UNP 155 I 
+ATOM 1210 N N   . LEU A 1 156 ? 22.427  13.564  -36.786 1.0 97.69 ? 156 LEU A N   1 Q9D920 UNP 156 L 
+ATOM 1211 C CA  . LEU A 1 156 ? 22.197  13.168  -38.180 1.0 97.69 ? 156 LEU A CA  1 Q9D920 UNP 156 L 
+ATOM 1212 C C   . LEU A 1 156 ? 21.815  14.365  -39.058 1.0 97.69 ? 156 LEU A C   1 Q9D920 UNP 156 L 
+ATOM 1213 C CB  . LEU A 1 156 ? 21.110  12.081  -38.241 1.0 97.69 ? 156 LEU A CB  1 Q9D920 UNP 156 L 
+ATOM 1214 O O   . LEU A 1 156 ? 22.353  14.509  -40.153 1.0 97.69 ? 156 LEU A O   1 Q9D920 UNP 156 L 
+ATOM 1215 C CG  . LEU A 1 156 ? 21.562  10.695  -37.749 1.0 97.69 ? 156 LEU A CG  1 Q9D920 UNP 156 L 
+ATOM 1216 C CD1 . LEU A 1 156 ? 20.352  9.761   -37.700 1.0 97.69 ? 156 LEU A CD1 1 Q9D920 UNP 156 L 
+ATOM 1217 C CD2 . LEU A 1 156 ? 22.615  10.068  -38.665 1.0 97.69 ? 156 LEU A CD2 1 Q9D920 UNP 156 L 
+ATOM 1218 N N   . ARG A 1 157 ? 20.965  15.276  -38.565 1.0 97.45 ? 157 ARG A N   1 Q9D920 UNP 157 R 
+ATOM 1219 C CA  . ARG A 1 157 ? 20.650  16.526  -39.281 1.0 97.45 ? 157 ARG A CA  1 Q9D920 UNP 157 R 
+ATOM 1220 C C   . ARG A 1 157 ? 21.881  17.407  -39.481 1.0 97.45 ? 157 ARG A C   1 Q9D920 UNP 157 R 
+ATOM 1221 C CB  . ARG A 1 157 ? 19.564  17.319  -38.548 1.0 97.45 ? 157 ARG A CB  1 Q9D920 UNP 157 R 
+ATOM 1222 O O   . ARG A 1 157 ? 22.053  17.955  -40.563 1.0 97.45 ? 157 ARG A O   1 Q9D920 UNP 157 R 
+ATOM 1223 C CG  . ARG A 1 157 ? 18.175  16.690  -38.701 1.0 97.45 ? 157 ARG A CG  1 Q9D920 UNP 157 R 
+ATOM 1224 C CD  . ARG A 1 157 ? 17.166  17.543  -37.928 1.0 97.45 ? 157 ARG A CD  1 Q9D920 UNP 157 R 
+ATOM 1225 N NE  . ARG A 1 157 ? 15.863  16.868  -37.802 1.0 97.45 ? 157 ARG A NE  1 Q9D920 UNP 157 R 
+ATOM 1226 N NH1 . ARG A 1 157 ? 15.058  18.131  -36.062 1.0 97.45 ? 157 ARG A NH1 1 Q9D920 UNP 157 R 
+ATOM 1227 N NH2 . ARG A 1 157 ? 13.854  16.418  -36.828 1.0 97.45 ? 157 ARG A NH2 1 Q9D920 UNP 157 R 
+ATOM 1228 C CZ  . ARG A 1 157 ? 14.935  17.142  -36.904 1.0 97.45 ? 157 ARG A CZ  1 Q9D920 UNP 157 R 
+ATOM 1229 N N   . ARG A 1 158 ? 22.754  17.531  -38.474 1.0 97.83 ? 158 ARG A N   1 Q9D920 UNP 158 R 
+ATOM 1230 C CA  . ARG A 1 158 ? 24.008  18.296  -38.599 1.0 97.83 ? 158 ARG A CA  1 Q9D920 UNP 158 R 
+ATOM 1231 C C   . ARG A 1 158 ? 24.950  17.672  -39.630 1.0 97.83 ? 158 ARG A C   1 Q9D920 UNP 158 R 
+ATOM 1232 C CB  . ARG A 1 158 ? 24.682  18.415  -37.226 1.0 97.83 ? 158 ARG A CB  1 Q9D920 UNP 158 R 
+ATOM 1233 O O   . ARG A 1 158 ? 25.552  18.405  -40.405 1.0 97.83 ? 158 ARG A O   1 Q9D920 UNP 158 R 
+ATOM 1234 C CG  . ARG A 1 158 ? 25.901  19.353  -37.266 1.0 97.83 ? 158 ARG A CG  1 Q9D920 UNP 158 R 
+ATOM 1235 C CD  . ARG A 1 158 ? 26.646  19.370  -35.927 1.0 97.83 ? 158 ARG A CD  1 Q9D920 UNP 158 R 
+ATOM 1236 N NE  . ARG A 1 158 ? 25.822  19.934  -34.840 1.0 97.83 ? 158 ARG A NE  1 Q9D920 UNP 158 R 
+ATOM 1237 N NH1 . ARG A 1 158 ? 26.885  18.912  -33.079 1.0 97.83 ? 158 ARG A NH1 1 Q9D920 UNP 158 R 
+ATOM 1238 N NH2 . ARG A 1 158 ? 25.160  20.268  -32.687 1.0 97.83 ? 158 ARG A NH2 1 Q9D920 UNP 158 R 
+ATOM 1239 C CZ  . ARG A 1 158 ? 25.959  19.702  -33.547 1.0 97.83 ? 158 ARG A CZ  1 Q9D920 UNP 158 R 
+ATOM 1240 N N   . ILE A 1 159 ? 25.060  16.342  -39.643 1.0 96.80 ? 159 ILE A N   1 Q9D920 UNP 159 I 
+ATOM 1241 C CA  . ILE A 1 159 ? 25.845  15.607  -40.641 1.0 96.80 ? 159 ILE A CA  1 Q9D920 UNP 159 I 
+ATOM 1242 C C   . ILE A 1 159 ? 25.281  15.875  -42.039 1.0 96.80 ? 159 ILE A C   1 Q9D920 UNP 159 I 
+ATOM 1243 C CB  . ILE A 1 159 ? 25.906  14.101  -40.295 1.0 96.80 ? 159 ILE A CB  1 Q9D920 UNP 159 I 
+ATOM 1244 O O   . ILE A 1 159 ? 26.042  16.287  -42.908 1.0 96.80 ? 159 ILE A O   1 Q9D920 UNP 159 I 
+ATOM 1245 C CG1 . ILE A 1 159 ? 26.754  13.881  -39.022 1.0 96.80 ? 159 ILE A CG1 1 Q9D920 UNP 159 I 
+ATOM 1246 C CG2 . ILE A 1 159 ? 26.482  13.285  -41.464 1.0 96.80 ? 159 ILE A CG2 1 Q9D920 UNP 159 I 
+ATOM 1247 C CD1 . ILE A 1 159 ? 26.640  12.465  -38.441 1.0 96.80 ? 159 ILE A CD1 1 Q9D920 UNP 159 I 
+ATOM 1248 N N   . GLN A 1 160 ? 23.961  15.743  -42.229 1.0 95.01 ? 160 GLN A N   1 Q9D920 UNP 160 Q 
+ATOM 1249 C CA  . GLN A 1 160 ? 23.299  16.044  -43.503 1.0 95.01 ? 160 GLN A CA  1 Q9D920 UNP 160 Q 
+ATOM 1250 C C   . GLN A 1 160 ? 23.588  17.475  -43.969 1.0 95.01 ? 160 GLN A C   1 Q9D920 UNP 160 Q 
+ATOM 1251 C CB  . GLN A 1 160 ? 21.787  15.789  -43.387 1.0 95.01 ? 160 GLN A CB  1 Q9D920 UNP 160 Q 
+ATOM 1252 O O   . GLN A 1 160 ? 24.031  17.663  -45.093 1.0 95.01 ? 160 GLN A O   1 Q9D920 UNP 160 Q 
+ATOM 1253 C CG  . GLN A 1 160 ? 21.071  15.934  -44.742 1.0 95.01 ? 160 GLN A CG  1 Q9D920 UNP 160 Q 
+ATOM 1254 C CD  . GLN A 1 160 ? 21.565  14.922  -45.771 1.0 95.01 ? 160 GLN A CD  1 Q9D920 UNP 160 Q 
+ATOM 1255 N NE2 . GLN A 1 160 ? 21.989  15.338  -46.942 1.0 95.01 ? 160 GLN A NE2 1 Q9D920 UNP 160 Q 
+ATOM 1256 O OE1 . GLN A 1 160 ? 21.590  13.727  -45.512 1.0 95.01 ? 160 GLN A OE1 1 Q9D920 UNP 160 Q 
+ATOM 1257 N N   . MET A 1 161 ? 23.451  18.472  -43.087 1.0 95.79 ? 161 MET A N   1 Q9D920 UNP 161 M 
+ATOM 1258 C CA  . MET A 1 161 ? 23.800  19.861  -43.412 1.0 95.79 ? 161 MET A CA  1 Q9D920 UNP 161 M 
+ATOM 1259 C C   . MET A 1 161 ? 25.273  20.021  -43.810 1.0 95.79 ? 161 MET A C   1 Q9D920 UNP 161 M 
+ATOM 1260 C CB  . MET A 1 161 ? 23.522  20.770  -42.210 1.0 95.79 ? 161 MET A CB  1 Q9D920 UNP 161 M 
+ATOM 1261 O O   . MET A 1 161 ? 25.581  20.780  -44.725 1.0 95.79 ? 161 MET A O   1 Q9D920 UNP 161 M 
+ATOM 1262 C CG  . MET A 1 161 ? 22.031  20.985  -41.935 1.0 95.79 ? 161 MET A CG  1 Q9D920 UNP 161 M 
+ATOM 1263 S SD  . MET A 1 161 ? 21.699  21.979  -40.450 1.0 95.79 ? 161 MET A SD  1 Q9D920 UNP 161 M 
+ATOM 1264 C CE  . MET A 1 161 ? 22.376  23.578  -40.979 1.0 95.79 ? 161 MET A CE  1 Q9D920 UNP 161 M 
+ATOM 1265 N N   . GLY A 1 162 ? 26.191  19.322  -43.135 1.0 95.78 ? 162 GLY A N   1 Q9D920 UNP 162 G 
+ATOM 1266 C CA  . GLY A 1 162 ? 27.612  19.338  -43.485 1.0 95.78 ? 162 GLY A CA  1 Q9D920 UNP 162 G 
+ATOM 1267 C C   . GLY A 1 162 ? 27.885  18.712  -44.853 1.0 95.78 ? 162 GLY A C   1 Q9D920 UNP 162 G 
+ATOM 1268 O O   . GLY A 1 162 ? 28.703  19.231  -45.610 1.0 95.78 ? 162 GLY A O   1 Q9D920 UNP 162 G 
+ATOM 1269 N N   . ILE A 1 163 ? 27.164  17.648  -45.209 1.0 93.60 ? 163 ILE A N   1 Q9D920 UNP 163 I 
+ATOM 1270 C CA  . ILE A 1 163 ? 27.232  17.025  -46.538 1.0 93.60 ? 163 ILE A CA  1 Q9D920 UNP 163 I 
+ATOM 1271 C C   . ILE A 1 163 ? 26.689  17.990  -47.594 1.0 93.60 ? 163 ILE A C   1 Q9D920 UNP 163 I 
+ATOM 1272 C CB  . ILE A 1 163 ? 26.467  15.688  -46.534 1.0 93.60 ? 163 ILE A CB  1 Q9D920 UNP 163 I 
+ATOM 1273 O O   . ILE A 1 163 ? 27.381  18.254  -48.574 1.0 93.60 ? 163 ILE A O   1 Q9D920 UNP 163 I 
+ATOM 1274 C CG1 . ILE A 1 163 ? 27.172  14.671  -45.611 1.0 93.60 ? 163 ILE A CG1 1 Q9D920 UNP 163 I 
+ATOM 1275 C CG2 . ILE A 1 163 ? 26.331  15.100  -47.950 1.0 93.60 ? 163 ILE A CG2 1 Q9D920 UNP 163 I 
+ATOM 1276 C CD1 . ILE A 1 163 ? 26.166  13.699  -44.998 1.0 93.60 ? 163 ILE A CD1 1 Q9D920 UNP 163 I 
+ATOM 1277 N N   . ASP A 1 164 ? 25.516  18.580  -47.357 1.0 93.84 ? 164 ASP A N   1 Q9D920 UNP 164 D 
+ATOM 1278 C CA  . ASP A 1 164 ? 24.869  19.527  -48.273 1.0 93.84 ? 164 ASP A CA  1 Q9D920 UNP 164 D 
+ATOM 1279 C C   . ASP A 1 164 ? 25.749  20.764  -48.551 1.0 93.84 ? 164 ASP A C   1 Q9D920 UNP 164 D 
+ATOM 1280 C CB  . ASP A 1 164 ? 23.510  19.967  -47.694 1.0 93.84 ? 164 ASP A CB  1 Q9D920 UNP 164 D 
+ATOM 1281 O O   . ASP A 1 164 ? 25.687  21.341  -49.634 1.0 93.84 ? 164 ASP A O   1 Q9D920 UNP 164 D 
+ATOM 1282 C CG  . ASP A 1 164 ? 22.458  18.854  -47.554 1.0 93.84 ? 164 ASP A CG  1 Q9D920 UNP 164 D 
+ATOM 1283 O OD1 . ASP A 1 164 ? 22.579  17.796  -48.214 1.0 93.84 ? 164 ASP A OD1 1 Q9D920 UNP 164 D 
+ATOM 1284 O OD2 . ASP A 1 164 ? 21.509  19.058  -46.764 1.0 93.84 ? 164 ASP A OD2 1 Q9D920 UNP 164 D 
+ATOM 1285 N N   . GLN A 1 165 ? 26.604  21.161  -47.599 1.0 95.24 ? 165 GLN A N   1 Q9D920 UNP 165 Q 
+ATOM 1286 C CA  . GLN A 1 165 ? 27.606  22.223  -47.776 1.0 95.24 ? 165 GLN A CA  1 Q9D920 UNP 165 Q 
+ATOM 1287 C C   . GLN A 1 165 ? 28.880  21.745  -48.490 1.0 95.24 ? 165 GLN A C   1 Q9D920 UNP 165 Q 
+ATOM 1288 C CB  . GLN A 1 165 ? 27.987  22.792  -46.402 1.0 95.24 ? 165 GLN A CB  1 Q9D920 UNP 165 Q 
+ATOM 1289 O O   . GLN A 1 165 ? 29.472  22.498  -49.264 1.0 95.24 ? 165 GLN A O   1 Q9D920 UNP 165 Q 
+ATOM 1290 C CG  . GLN A 1 165 ? 26.863  23.632  -45.782 1.0 95.24 ? 165 GLN A CG  1 Q9D920 UNP 165 Q 
+ATOM 1291 C CD  . GLN A 1 165 ? 27.167  24.080  -44.357 1.0 95.24 ? 165 GLN A CD  1 Q9D920 UNP 165 Q 
+ATOM 1292 N NE2 . GLN A 1 165 ? 26.240  24.761  -43.719 1.0 95.24 ? 165 GLN A NE2 1 Q9D920 UNP 165 Q 
+ATOM 1293 O OE1 . GLN A 1 165 ? 28.221  23.866  -43.781 1.0 95.24 ? 165 GLN A OE1 1 Q9D920 UNP 165 Q 
+ATOM 1294 N N   . THR A 1 166 ? 29.327  20.515  -48.221 1.0 95.20 ? 166 THR A N   1 Q9D920 UNP 166 T 
+ATOM 1295 C CA  . THR A 1 166 ? 30.615  19.992  -48.713 1.0 95.20 ? 166 THR A CA  1 Q9D920 UNP 166 T 
+ATOM 1296 C C   . THR A 1 166 ? 30.526  19.495  -50.155 1.0 95.20 ? 166 THR A C   1 Q9D920 UNP 166 T 
+ATOM 1297 C CB  . THR A 1 166 ? 31.150  18.878  -47.799 1.0 95.20 ? 166 THR A CB  1 Q9D920 UNP 166 T 
+ATOM 1298 O O   . THR A 1 166 ? 31.459  19.705  -50.931 1.0 95.20 ? 166 THR A O   1 Q9D920 UNP 166 T 
+ATOM 1299 C CG2 . THR A 1 166 ? 32.565  18.434  -48.175 1.0 95.20 ? 166 THR A CG2 1 Q9D920 UNP 166 T 
+ATOM 1300 O OG1 . THR A 1 166 ? 31.225  19.343  -46.471 1.0 95.20 ? 166 THR A OG1 1 Q9D920 UNP 166 T 
+ATOM 1301 N N   . VAL A 1 167 ? 29.407  18.874  -50.544 1.0 92.98 ? 167 VAL A N   1 Q9D920 UNP 167 V 
+ATOM 1302 C CA  . VAL A 1 167 ? 29.224  18.291  -51.884 1.0 92.98 ? 167 VAL A CA  1 Q9D920 UNP 167 V 
+ATOM 1303 C C   . VAL A 1 167 ? 29.374  19.338  -52.999 1.0 92.98 ? 167 VAL A C   1 Q9D920 UNP 167 V 
+ATOM 1304 C CB  . VAL A 1 167 ? 27.909  17.485  -51.974 1.0 92.98 ? 167 VAL A CB  1 Q9D920 UNP 167 V 
+ATOM 1305 O O   . VAL A 1 167 ? 30.204  19.111  -53.879 1.0 92.98 ? 167 VAL A O   1 Q9D920 UNP 167 V 
+ATOM 1306 C CG1 . VAL A 1 167 ? 27.561  17.061  -53.405 1.0 92.98 ? 167 VAL A CG1 1 Q9D920 UNP 167 V 
+ATOM 1307 C CG2 . VAL A 1 167 ? 28.029  16.211  -51.130 1.0 92.98 ? 167 VAL A CG2 1 Q9D920 UNP 167 V 
+ATOM 1308 N N   . PRO A 1 168 ? 28.730  20.524  -52.945 1.0 92.80 ? 168 PRO A N   1 Q9D920 UNP 168 P 
+ATOM 1309 C CA  . PRO A 1 168 ? 28.914  21.550  -53.975 1.0 92.80 ? 168 PRO A CA  1 Q9D920 UNP 168 P 
+ATOM 1310 C C   . PRO A 1 168 ? 30.352  22.083  -54.067 1.0 92.80 ? 168 PRO A C   1 Q9D920 UNP 168 P 
+ATOM 1311 C CB  . PRO A 1 168 ? 27.944  22.679  -53.606 1.0 92.80 ? 168 PRO A CB  1 Q9D920 UNP 168 P 
+ATOM 1312 O O   . PRO A 1 168 ? 30.826  22.428  -55.150 1.0 92.80 ? 168 PRO A O   1 Q9D920 UNP 168 P 
+ATOM 1313 C CG  . PRO A 1 168 ? 26.874  21.986  -52.768 1.0 92.80 ? 168 PRO A CG  1 Q9D920 UNP 168 P 
+ATOM 1314 C CD  . PRO A 1 168 ? 27.676  20.928  -52.024 1.0 92.80 ? 168 PRO A CD  1 Q9D920 UNP 168 P 
+ATOM 1315 N N   . LEU A 1 169 ? 31.075  22.156  -52.940 1.0 94.41 ? 169 LEU A N   1 Q9D920 UNP 169 L 
+ATOM 1316 C CA  . LEU A 1 169 ? 32.484  22.570  -52.928 1.0 94.41 ? 169 LEU A CA  1 Q9D920 UNP 169 L 
+ATOM 1317 C C   . LEU A 1 169 ? 33.369  21.531  -53.617 1.0 94.41 ? 169 LEU A C   1 Q9D920 UNP 169 L 
+ATOM 1318 C CB  . LEU A 1 169 ? 32.970  22.798  -51.486 1.0 94.41 ? 169 LEU A CB  1 Q9D920 UNP 169 L 
+ATOM 1319 O O   . LEU A 1 169 ? 34.256  21.893  -54.390 1.0 94.41 ? 169 LEU A O   1 Q9D920 UNP 169 L 
+ATOM 1320 C CG  . LEU A 1 169 ? 32.304  23.970  -50.749 1.0 94.41 ? 169 LEU A CG  1 Q9D920 UNP 169 L 
+ATOM 1321 C CD1 . LEU A 1 169 ? 32.807  24.008  -49.306 1.0 94.41 ? 169 LEU A CD1 1 Q9D920 UNP 169 L 
+ATOM 1322 C CD2 . LEU A 1 169 ? 32.624  25.316  -51.406 1.0 94.41 ? 169 LEU A CD2 1 Q9D920 UNP 169 L 
+ATOM 1323 N N   . MET A 1 170 ? 33.107  20.250  -53.365 1.0 93.06 ? 170 MET A N   1 Q9D920 UNP 170 M 
+ATOM 1324 C CA  . MET A 1 170 ? 33.814  19.151  -54.010 1.0 93.06 ? 170 MET A CA  1 Q9D920 UNP 170 M 
+ATOM 1325 C C   . MET A 1 170 ? 33.507  19.080  -55.510 1.0 93.06 ? 170 MET A C   1 Q9D920 UNP 170 M 
+ATOM 1326 C CB  . MET A 1 170 ? 33.452  17.852  -53.292 1.0 93.06 ? 170 MET A CB  1 Q9D920 UNP 170 M 
+ATOM 1327 O O   . MET A 1 170 ? 34.433  18.938  -56.301 1.0 93.06 ? 170 MET A O   1 Q9D920 UNP 170 M 
+ATOM 1328 C CG  . MET A 1 170 ? 34.318  16.688  -53.776 1.0 93.06 ? 170 MET A CG  1 Q9D920 UNP 170 M 
+ATOM 1329 S SD  . MET A 1 170 ? 34.080  15.173  -52.820 1.0 93.06 ? 170 MET A SD  1 Q9D920 UNP 170 M 
+ATOM 1330 C CE  . MET A 1 170 ? 32.359  14.830  -53.237 1.0 93.06 ? 170 MET A CE  1 Q9D920 UNP 170 M 
+ATOM 1331 N N   . GLU A 1 171 ? 32.248  19.257  -55.921 1.0 91.75 ? 171 GLU A N   1 Q9D920 UNP 171 E 
+ATOM 1332 C CA  . GLU A 1 171 ? 31.861  19.355  -57.337 1.0 91.75 ? 171 GLU A CA  1 Q9D920 UNP 171 E 
+ATOM 1333 C C   . GLU A 1 171 ? 32.556  20.534  -58.032 1.0 91.75 ? 171 GLU A C   1 Q9D920 UNP 171 E 
+ATOM 1334 C CB  . GLU A 1 171 ? 30.341  19.526  -57.451 1.0 91.75 ? 171 GLU A CB  1 Q9D920 UNP 171 E 
+ATOM 1335 O O   . GLU A 1 171 ? 33.084  20.388  -59.139 1.0 91.75 ? 171 GLU A O   1 Q9D920 UNP 171 E 
+ATOM 1336 C CG  . GLU A 1 171 ? 29.567  18.240  -57.123 1.0 91.75 ? 171 GLU A CG  1 Q9D920 UNP 171 E 
+ATOM 1337 C CD  . GLU A 1 171 ? 28.042  18.439  -57.147 1.0 91.75 ? 171 GLU A CD  1 Q9D920 UNP 171 E 
+ATOM 1338 O OE1 . GLU A 1 171 ? 27.337  17.406  -57.130 1.0 91.75 ? 171 GLU A OE1 1 Q9D920 UNP 171 E 
+ATOM 1339 O OE2 . GLU A 1 171 ? 27.585  19.606  -57.172 1.0 91.75 ? 171 GLU A OE2 1 Q9D920 UNP 171 E 
+ATOM 1340 N N   . ARG A 1 172 ? 32.637  21.691  -57.359 1.0 93.54 ? 172 ARG A N   1 Q9D920 UNP 172 R 
+ATOM 1341 C CA  . ARG A 1 172 ? 33.373  22.858  -57.860 1.0 93.54 ? 172 ARG A CA  1 Q9D920 UNP 172 R 
+ATOM 1342 C C   . ARG A 1 172 ? 34.859  22.557  -58.037 1.0 93.54 ? 172 ARG A C   1 Q9D920 UNP 172 R 
+ATOM 1343 C CB  . ARG A 1 172 ? 33.136  24.057  -56.933 1.0 93.54 ? 172 ARG A CB  1 Q9D920 UNP 172 R 
+ATOM 1344 O O   . ARG A 1 172 ? 35.395  22.865  -59.099 1.0 93.54 ? 172 ARG A O   1 Q9D920 UNP 172 R 
+ATOM 1345 C CG  . ARG A 1 172 ? 33.839  25.317  -57.453 1.0 93.54 ? 172 ARG A CG  1 Q9D920 UNP 172 R 
+ATOM 1346 C CD  . ARG A 1 172 ? 33.519  26.509  -56.552 1.0 93.54 ? 172 ARG A CD  1 Q9D920 UNP 172 R 
+ATOM 1347 N NE  . ARG A 1 172 ? 34.181  27.729  -57.046 1.0 93.54 ? 172 ARG A NE  1 Q9D920 UNP 172 R 
+ATOM 1348 N NH1 . ARG A 1 172 ? 33.212  29.199  -55.580 1.0 93.54 ? 172 ARG A NH1 1 Q9D920 UNP 172 R 
+ATOM 1349 N NH2 . ARG A 1 172 ? 34.647  29.954  -57.117 1.0 93.54 ? 172 ARG A NH2 1 Q9D920 UNP 172 R 
+ATOM 1350 C CZ  . ARG A 1 172 ? 34.012  28.951  -56.581 1.0 93.54 ? 172 ARG A CZ  1 Q9D920 UNP 172 R 
+ATOM 1351 N N   . LEU A 1 173 ? 35.515  21.954  -57.045 1.0 93.28 ? 173 LEU A N   1 Q9D920 UNP 173 L 
+ATOM 1352 C CA  . LEU A 1 173 ? 36.921  21.544  -57.156 1.0 93.28 ? 173 LEU A CA  1 Q9D920 UNP 173 L 
+ATOM 1353 C C   . LEU A 1 173 ? 37.119  20.540  -58.297 1.0 93.28 ? 173 LEU A C   1 Q9D920 UNP 173 L 
+ATOM 1354 C CB  . LEU A 1 173 ? 37.399  20.941  -55.824 1.0 93.28 ? 173 LEU A CB  1 Q9D920 UNP 173 L 
+ATOM 1355 O O   . LEU A 1 173 ? 38.023  20.714  -59.110 1.0 93.28 ? 173 LEU A O   1 Q9D920 UNP 173 L 
+ATOM 1356 C CG  . LEU A 1 173 ? 37.643  21.967  -54.705 1.0 93.28 ? 173 LEU A CG  1 Q9D920 UNP 173 L 
+ATOM 1357 C CD1 . LEU A 1 173 ? 37.912  21.228  -53.394 1.0 93.28 ? 173 LEU A CD1 1 Q9D920 UNP 173 L 
+ATOM 1358 C CD2 . LEU A 1 173 ? 38.844  22.871  -54.999 1.0 93.28 ? 173 LEU A CD2 1 Q9D920 UNP 173 L 
+ATOM 1359 N N   . ASN A 1 174 ? 36.234  19.549  -58.410 1.0 93.89 ? 174 ASN A N   1 Q9D920 UNP 174 N 
+ATOM 1360 C CA  . ASN A 1 174 ? 36.288  18.538  -59.460 1.0 93.89 ? 174 ASN A CA  1 Q9D920 UNP 174 N 
+ATOM 1361 C C   . ASN A 1 174 ? 36.167  19.159  -60.865 1.0 93.89 ? 174 ASN A C   1 Q9D920 UNP 174 N 
+ATOM 1362 C CB  . ASN A 1 174 ? 35.176  17.512  -59.186 1.0 93.89 ? 174 ASN A CB  1 Q9D920 UNP 174 N 
+ATOM 1363 O O   . ASN A 1 174 ? 36.881  18.778  -61.785 1.0 93.89 ? 174 ASN A O   1 Q9D920 UNP 174 N 
+ATOM 1364 C CG  . ASN A 1 174 ? 35.362  16.257  -60.008 1.0 93.89 ? 174 ASN A CG  1 Q9D920 UNP 174 N 
+ATOM 1365 N ND2 . ASN A 1 174 ? 34.295  15.680  -60.502 1.0 93.89 ? 174 ASN A ND2 1 Q9D920 UNP 174 N 
+ATOM 1366 O OD1 . ASN A 1 174 ? 36.468  15.784  -60.183 1.0 93.89 ? 174 ASN A OD1 1 Q9D920 UNP 174 N 
+ATOM 1367 N N   . SER A 1 175 ? 35.328  20.187  -61.030 1.0 92.72 ? 175 SER A N   1 Q9D920 UNP 175 S 
+ATOM 1368 C CA  . SER A 1 175 ? 35.180  20.899  -62.309 1.0 92.72 ? 175 SER A CA  1 Q9D920 UNP 175 S 
+ATOM 1369 C C   . SER A 1 175 ? 36.442  21.655  -62.760 1.0 92.72 ? 175 SER A C   1 Q9D920 UNP 175 S 
+ATOM 1370 C CB  . SER A 1 175 ? 33.974  21.843  -62.245 1.0 92.72 ? 175 SER A CB  1 Q9D920 UNP 175 S 
+ATOM 1371 O O   . SER A 1 175 ? 36.597  21.913  -63.956 1.0 92.72 ? 175 SER A O   1 Q9D920 UNP 175 S 
+ATOM 1372 O OG  . SER A 1 175 ? 34.240  23.020  -61.503 1.0 92.72 ? 175 SER A OG  1 Q9D920 UNP 175 S 
+ATOM 1373 N N   . MET A 1 176 ? 37.356  21.975  -61.834 1.0 93.54 ? 176 MET A N   1 Q9D920 UNP 176 M 
+ATOM 1374 C CA  . MET A 1 176 ? 38.618  22.670  -62.120 1.0 93.54 ? 176 MET A CA  1 Q9D920 UNP 176 M 
+ATOM 1375 C C   . MET A 1 176 ? 39.741  21.732  -62.586 1.0 93.54 ? 176 MET A C   1 Q9D920 UNP 176 M 
+ATOM 1376 C CB  . MET A 1 176 ? 39.080  23.467  -60.887 1.0 93.54 ? 176 MET A CB  1 Q9D920 UNP 176 M 
+ATOM 1377 O O   . MET A 1 176 ? 40.752  22.222  -63.087 1.0 93.54 ? 176 MET A O   1 Q9D920 UNP 176 M 
+ATOM 1378 C CG  . MET A 1 176 ? 38.112  24.596  -60.512 1.0 93.54 ? 176 MET A CG  1 Q9D920 UNP 176 M 
+ATOM 1379 S SD  . MET A 1 176 ? 38.584  25.579  -59.054 1.0 93.54 ? 176 MET A SD  1 Q9D920 UNP 176 M 
+ATOM 1380 C CE  . MET A 1 176 ? 40.101  26.366  -59.665 1.0 93.54 ? 176 MET A CE  1 Q9D920 UNP 176 M 
+ATOM 1381 N N   . LEU A 1 177 ? 39.583  20.413  -62.434 1.0 91.93 ? 177 LEU A N   1 Q9D920 UNP 177 L 
+ATOM 1382 C CA  . LEU A 1 177 ? 40.553  19.430  -62.918 1.0 91.93 ? 177 LEU A CA  1 Q9D920 UNP 177 L 
+ATOM 1383 C C   . LEU A 1 177 ? 40.453  19.254  -64.447 1.0 91.93 ? 177 LEU A C   1 Q9D920 UNP 177 L 
+ATOM 1384 C CB  . LEU A 1 177 ? 40.355  18.087  -62.188 1.0 91.93 ? 177 LEU A CB  1 Q9D920 UNP 177 L 
+ATOM 1385 O O   . LEU A 1 177 ? 39.351  19.384  -65.003 1.0 91.93 ? 177 LEU A O   1 Q9D920 UNP 177 L 
+ATOM 1386 C CG  . LEU A 1 177 ? 40.681  18.125  -60.684 1.0 91.93 ? 177 LEU A CG  1 Q9D920 UNP 177 L 
+ATOM 1387 C CD1 . LEU A 1 177 ? 40.252  16.817  -60.023 1.0 91.93 ? 177 LEU A CD1 1 Q9D920 UNP 177 L 
+ATOM 1388 C CD2 . LEU A 1 177 ? 42.177  18.328  -60.425 1.0 91.93 ? 177 LEU A CD2 1 Q9D920 UNP 177 L 
+ATOM 1389 N N   . PRO A 1 178 ? 41.572  18.933  -65.132 1.0 92.93 ? 178 PRO A N   1 Q9D920 UNP 178 P 
+ATOM 1390 C CA  . PRO A 1 178 ? 41.555  18.473  -66.519 1.0 92.93 ? 178 PRO A CA  1 Q9D920 UNP 178 P 
+ATOM 1391 C C   . PRO A 1 178 ? 40.582  17.306  -66.694 1.0 92.93 ? 178 PRO A C   1 Q9D920 UNP 178 P 
+ATOM 1392 C CB  . PRO A 1 178 ? 42.990  18.030  -66.836 1.0 92.93 ? 178 PRO A CB  1 Q9D920 UNP 178 P 
+ATOM 1393 O O   . PRO A 1 178 ? 40.442  16.481  -65.798 1.0 92.93 ? 178 PRO A O   1 Q9D920 UNP 178 P 
+ATOM 1394 C CG  . PRO A 1 178 ? 43.841  18.792  -65.824 1.0 92.93 ? 178 PRO A CG  1 Q9D920 UNP 178 P 
+ATOM 1395 C CD  . PRO A 1 178 ? 42.929  18.873  -64.604 1.0 92.93 ? 178 PRO A CD  1 Q9D920 UNP 178 P 
+ATOM 1396 N N   . GLU A 1 179 ? 39.928  17.201  -67.852 1.0 89.46 ? 179 GLU A N   1 Q9D920 UNP 179 E 
+ATOM 1397 C CA  . GLU A 1 179 ? 38.866  16.203  -68.067 1.0 89.46 ? 179 GLU A CA  1 Q9D920 UNP 179 E 
+ATOM 1398 C C   . GLU A 1 179 ? 39.308  14.763  -67.783 1.0 89.46 ? 179 GLU A C   1 Q9D920 UNP 179 E 
+ATOM 1399 C CB  . GLU A 1 179 ? 38.337  16.297  -69.504 1.0 89.46 ? 179 GLU A CB  1 Q9D920 UNP 179 E 
+ATOM 1400 O O   . GLU A 1 179 ? 38.525  13.984  -67.251 1.0 89.46 ? 179 GLU A O   1 Q9D920 UNP 179 E 
+ATOM 1401 C CG  . GLU A 1 179 ? 37.605  17.623  -69.744 1.0 89.46 ? 179 GLU A CG  1 Q9D920 UNP 179 E 
+ATOM 1402 C CD  . GLU A 1 179 ? 36.943  17.716  -71.126 1.0 89.46 ? 179 GLU A CD  1 Q9D920 UNP 179 E 
+ATOM 1403 O OE1 . GLU A 1 179 ? 36.110  18.641  -71.267 1.0 89.46 ? 179 GLU A OE1 1 Q9D920 UNP 179 E 
+ATOM 1404 O OE2 . GLU A 1 179 ? 37.268  16.894  -72.010 1.0 89.46 ? 179 GLU A OE2 1 Q9D920 UNP 179 E 
+ATOM 1405 N N   . ALA A 1 180 ? 40.571  14.436  -68.067 1.0 92.01 ? 180 ALA A N   1 Q9D920 UNP 180 A 
+ATOM 1406 C CA  . ALA A 1 180 ? 41.154  13.121  -67.812 1.0 92.01 ? 180 ALA A CA  1 Q9D920 UNP 180 A 
+ATOM 1407 C C   . ALA A 1 180 ? 41.349  12.789  -66.317 1.0 92.01 ? 180 ALA A C   1 Q9D920 UNP 180 A 
+ATOM 1408 C CB  . ALA A 1 180 ? 42.487  13.058  -68.568 1.0 92.01 ? 180 ALA A CB  1 Q9D920 UNP 180 A 
+ATOM 1409 O O   . ALA A 1 180 ? 41.577  11.631  -65.982 1.0 92.01 ? 180 ALA A O   1 Q9D920 UNP 180 A 
+ATOM 1410 N N   . GLU A 1 181 ? 41.278  13.785  -65.431 1.0 92.96 ? 181 GLU A N   1 Q9D920 UNP 181 E 
+ATOM 1411 C CA  . GLU A 1 181 ? 41.530  13.658  -63.988 1.0 92.96 ? 181 GLU A CA  1 Q9D920 UNP 181 E 
+ATOM 1412 C C   . GLU A 1 181 ? 40.272  13.891  -63.136 1.0 92.96 ? 181 GLU A C   1 Q9D920 UNP 181 E 
+ATOM 1413 C CB  . GLU A 1 181 ? 42.636  14.640  -63.570 1.0 92.96 ? 181 GLU A CB  1 Q9D920 UNP 181 E 
+ATOM 1414 O O   . GLU A 1 181 ? 40.331  13.828  -61.907 1.0 92.96 ? 181 GLU A O   1 Q9D920 UNP 181 E 
+ATOM 1415 C CG  . GLU A 1 181 ? 43.988  14.354  -64.243 1.0 92.96 ? 181 GLU A CG  1 Q9D920 UNP 181 E 
+ATOM 1416 C CD  . GLU A 1 181 ? 45.099  15.319  -63.796 1.0 92.96 ? 181 GLU A CD  1 Q9D920 UNP 181 E 
+ATOM 1417 O OE1 . GLU A 1 181 ? 46.226  15.166  -64.320 1.0 92.96 ? 181 GLU A OE1 1 Q9D920 UNP 181 E 
+ATOM 1418 O OE2 . GLU A 1 181 ? 44.829  16.223  -62.971 1.0 92.96 ? 181 GLU A OE2 1 Q9D920 UNP 181 E 
+ATOM 1419 N N   . ARG A 1 182 ? 39.124  14.173  -63.763 1.0 93.25 ? 182 ARG A N   1 Q9D920 UNP 182 R 
+ATOM 1420 C CA  . ARG A 1 182 ? 37.869  14.398  -63.040 1.0 93.25 ? 182 ARG A CA  1 Q9D920 UNP 182 R 
+ATOM 1421 C C   . ARG A 1 182 ? 37.360  13.107  -62.403 1.0 93.25 ? 182 ARG A C   1 Q9D920 UNP 182 R 
+ATOM 1422 C CB  . ARG A 1 182 ? 36.809  15.016  -63.957 1.0 93.25 ? 182 ARG A CB  1 Q9D920 UNP 182 R 
+ATOM 1423 O O   . ARG A 1 182 ? 37.349  12.047  -63.020 1.0 93.25 ? 182 ARG A O   1 Q9D920 UNP 182 R 
+ATOM 1424 C CG  . ARG A 1 182 ? 37.181  16.449  -64.344 1.0 93.25 ? 182 ARG A CG  1 Q9D920 UNP 182 R 
+ATOM 1425 C CD  . ARG A 1 182 ? 36.048  17.099  -65.134 1.0 93.25 ? 182 ARG A CD  1 Q9D920 UNP 182 R 
+ATOM 1426 N NE  . ARG A 1 182 ? 36.329  18.522  -65.393 1.0 93.25 ? 182 ARG A NE  1 Q9D920 UNP 182 R 
+ATOM 1427 N NH1 . ARG A 1 182 ? 34.960  18.773  -67.219 1.0 93.25 ? 182 ARG A NH1 1 Q9D920 UNP 182 R 
+ATOM 1428 N NH2 . ARG A 1 182 ? 36.036  20.541  -66.387 1.0 93.25 ? 182 ARG A NH2 1 Q9D920 UNP 182 R 
+ATOM 1429 C CZ  . ARG A 1 182 ? 35.777  19.269  -66.328 1.0 93.25 ? 182 ARG A CZ  1 Q9D920 UNP 182 R 
+ATOM 1430 N N   . LEU A 1 183 ? 36.888  13.227  -61.169 1.0 90.86 ? 183 LEU A N   1 Q9D920 UNP 183 L 
+ATOM 1431 C CA  . LEU A 1 183 ? 36.231  12.168  -60.414 1.0 90.86 ? 183 LEU A CA  1 Q9D920 UNP 183 L 
+ATOM 1432 C C   . LEU A 1 183 ? 34.753  12.039  -60.806 1.0 90.86 ? 183 LEU A C   1 Q9D920 UNP 183 L 
+ATOM 1433 C CB  . LEU A 1 183 ? 36.379  12.454  -58.907 1.0 90.86 ? 183 LEU A CB  1 Q9D920 UNP 183 L 
+ATOM 1434 O O   . LEU A 1 183 ? 34.126  12.998  -61.262 1.0 90.86 ? 183 LEU A O   1 Q9D920 UNP 183 L 
+ATOM 1435 C CG  . LEU A 1 183 ? 37.832  12.575  -58.407 1.0 90.86 ? 183 LEU A CG  1 Q9D920 UNP 183 L 
+ATOM 1436 C CD1 . LEU A 1 183 ? 37.830  12.943  -56.921 1.0 90.86 ? 183 LEU A CD1 1 Q9D920 UNP 183 L 
+ATOM 1437 C CD2 . LEU A 1 183 ? 38.611  11.270  -58.580 1.0 90.86 ? 183 LEU A CD2 1 Q9D920 UNP 183 L 
+ATOM 1438 N N   . GLU A 1 184 ? 34.183  10.863  -60.553 1.0 88.04 ? 184 GLU A N   1 Q9D920 UNP 184 E 
+ATOM 1439 C CA  . GLU A 1 184 ? 32.742  10.624  -60.653 1.0 88.04 ? 184 GLU A CA  1 Q9D920 UNP 184 E 
+ATOM 1440 C C   . GLU A 1 184 ? 31.961  11.500  -59.648 1.0 88.04 ? 184 GLU A C   1 Q9D920 UNP 184 E 
+ATOM 1441 C CB  . GLU A 1 184 ? 32.440  9.139   -60.399 1.0 88.04 ? 184 GLU A CB  1 Q9D920 UNP 184 E 
+ATOM 1442 O O   . GLU A 1 184 ? 32.440  11.733  -58.529 1.0 88.04 ? 184 GLU A O   1 Q9D920 UNP 184 E 
+ATOM 1443 C CG  . GLU A 1 184 ? 32.971  8.204   -61.501 1.0 88.04 ? 184 GLU A CG  1 Q9D920 UNP 184 E 
+ATOM 1444 C CD  . GLU A 1 184 ? 32.270  8.382   -62.859 1.0 88.04 ? 184 GLU A CD  1 Q9D920 UNP 184 E 
+ATOM 1445 O OE1 . GLU A 1 184 ? 32.881  7.992   -63.878 1.0 88.04 ? 184 GLU A OE1 1 Q9D920 UNP 184 E 
+ATOM 1446 O OE2 . GLU A 1 184 ? 31.124  8.891   -62.874 1.0 88.04 ? 184 GLU A OE2 1 Q9D920 UNP 184 E 
+ATOM 1447 N N   . PRO A 1 185 ? 30.754  11.988  -59.996 1.0 84.46 ? 185 PRO A N   1 Q9D920 UNP 185 P 
+ATOM 1448 C CA  . PRO A 1 185 ? 29.914  12.747  -59.076 1.0 84.46 ? 185 PRO A CA  1 Q9D920 UNP 185 P 
+ATOM 1449 C C   . PRO A 1 185 ? 29.611  11.967  -57.792 1.0 84.46 ? 185 PRO A C   1 Q9D920 UNP 185 P 
+ATOM 1450 C CB  . PRO A 1 185 ? 28.628  13.071  -59.844 1.0 84.46 ? 185 PRO A CB  1 Q9D920 UNP 185 P 
+ATOM 1451 O O   . PRO A 1 185 ? 29.211  10.802  -57.822 1.0 84.46 ? 185 PRO A O   1 Q9D920 UNP 185 P 
+ATOM 1452 C CG  . PRO A 1 185 ? 29.064  13.007  -61.306 1.0 84.46 ? 185 PRO A CG  1 Q9D920 UNP 185 P 
+ATOM 1453 C CD  . PRO A 1 185 ? 30.126  11.911  -61.307 1.0 84.46 ? 185 PRO A CD  1 Q9D920 UNP 185 P 
+ATOM 1454 N N   . PHE A 1 186 ? 29.742  12.630  -56.645 1.0 83.15 ? 186 PHE A N   1 Q9D920 UNP 186 F 
+ATOM 1455 C CA  . PHE A 1 186 ? 29.428  12.014  -55.361 1.0 83.15 ? 186 PHE A CA  1 Q9D920 UNP 186 F 
+ATOM 1456 C C   . PHE A 1 186 ? 27.919  11.834  -55.187 1.0 83.15 ? 186 PHE A C   1 Q9D920 UNP 186 F 
+ATOM 1457 C CB  . PHE A 1 186 ? 30.044  12.845  -54.244 1.0 83.15 ? 186 PHE A CB  1 Q9D920 UNP 186 F 
+ATOM 1458 O O   . PHE A 1 186 ? 27.143  12.778  -55.317 1.0 83.15 ? 186 PHE A O   1 Q9D920 UNP 186 F 
+ATOM 1459 C CG  . PHE A 1 186 ? 29.751  12.347  -52.843 1.0 83.15 ? 186 PHE A CG  1 Q9D920 UNP 186 F 
+ATOM 1460 C CD1 . PHE A 1 186 ? 28.663  12.870  -52.121 1.0 83.15 ? 186 PHE A CD1 1 Q9D920 UNP 186 F 
+ATOM 1461 C CD2 . PHE A 1 186 ? 30.575  11.369  -52.256 1.0 83.15 ? 186 PHE A CD2 1 Q9D920 UNP 186 F 
+ATOM 1462 C CE1 . PHE A 1 186 ? 28.419  12.443  -50.805 1.0 83.15 ? 186 PHE A CE1 1 Q9D920 UNP 186 F 
+ATOM 1463 C CE2 . PHE A 1 186 ? 30.314  10.920  -50.950 1.0 83.15 ? 186 PHE A CE2 1 Q9D920 UNP 186 F 
+ATOM 1464 C CZ  . PHE A 1 186 ? 29.239  11.460  -50.222 1.0 83.15 ? 186 PHE A CZ  1 Q9D920 UNP 186 F 
+ATOM 1465 N N   . SER A 1 187 ? 27.498  10.619  -54.834 1.0 79.83 ? 187 SER A N   1 Q9D920 UNP 187 S 
+ATOM 1466 C CA  . SER A 1 187 ? 26.100  10.290  -54.563 1.0 79.83 ? 187 SER A CA  1 Q9D920 UNP 187 S 
+ATOM 1467 C C   . SER A 1 187 ? 25.979  9.528   -53.251 1.0 79.83 ? 187 SER A C   1 Q9D920 UNP 187 S 
+ATOM 1468 C CB  . SER A 1 187 ? 25.515  9.489   -55.731 1.0 79.83 ? 187 SER A CB  1 Q9D920 UNP 187 S 
+ATOM 1469 O O   . SER A 1 187 ? 26.570  8.468   -53.079 1.0 79.83 ? 187 SER A O   1 Q9D920 UNP 187 S 
+ATOM 1470 O OG  . SER A 1 187 ? 24.271  8.898   -55.377 1.0 79.83 ? 187 SER A OG  1 Q9D920 UNP 187 S 
+ATOM 1471 N N   . MET A 1 188 ? 25.135  10.035  -52.349 1.0 72.13 ? 188 MET A N   1 Q9D920 UNP 188 M 
+ATOM 1472 C CA  . MET A 1 188 ? 24.767  9.356   -51.101 1.0 72.13 ? 188 MET A CA  1 Q9D920 UNP 188 M 
+ATOM 1473 C C   . MET A 1 188 ? 23.609  8.371   -51.232 1.0 72.13 ? 188 MET A C   1 Q9D920 UNP 188 M 
+ATOM 1474 C CB  . MET A 1 188 ? 24.455  10.389  -50.012 1.0 72.13 ? 188 MET A CB  1 Q9D920 UNP 188 M 
+ATOM 1475 O O   . MET A 1 188 ? 23.166  7.799   -50.235 1.0 72.13 ? 188 MET A O   1 Q9D920 UNP 188 M 
+ATOM 1476 C CG  . MET A 1 188 ? 25.694  10.564  -49.157 1.0 72.13 ? 188 MET A CG  1 Q9D920 UNP 188 M 
+ATOM 1477 S SD  . MET A 1 188 ? 25.368  11.382  -47.598 1.0 72.13 ? 188 MET A SD  1 Q9D920 UNP 188 M 
+ATOM 1478 C CE  . MET A 1 188 ? 27.092  11.429  -47.055 1.0 72.13 ? 188 MET A CE  1 Q9D920 UNP 188 M 
+ATOM 1479 N N   . LYS A 1 189 ? 23.076  8.168   -52.439 1.0 68.06 ? 189 LYS A N   1 Q9D920 UNP 189 K 
+ATOM 1480 C CA  . LYS A 1 189 ? 22.071  7.124   -52.621 1.0 68.06 ? 189 LYS A CA  1 Q9D920 UNP 189 K 
+ATOM 1481 C C   . LYS A 1 189 ? 22.739  5.785   -52.307 1.0 68.06 ? 189 LYS A C   1 Q9D920 UNP 189 K 
+ATOM 1482 C CB  . LYS A 1 189 ? 21.483  7.147   -54.032 1.0 68.06 ? 189 LYS A CB  1 Q9D920 UNP 189 K 
+ATOM 1483 O O   . LYS A 1 189 ? 23.788  5.528   -52.895 1.0 68.06 ? 189 LYS A O   1 Q9D920 UNP 189 K 
+ATOM 1484 C CG  . LYS A 1 189 ? 20.671  8.431   -54.235 1.0 68.06 ? 189 LYS A CG  1 Q9D920 UNP 189 K 
+ATOM 1485 C CD  . LYS A 1 189 ? 20.094  8.499   -55.648 1.0 68.06 ? 189 LYS A CD  1 Q9D920 UNP 189 K 
+ATOM 1486 C CE  . LYS A 1 189 ? 19.318  9.811   -55.793 1.0 68.06 ? 189 LYS A CE  1 Q9D920 UNP 189 K 
+ATOM 1487 N NZ  . LYS A 1 189 ? 18.935  10.064  -57.203 1.0 68.06 ? 189 LYS A NZ  1 Q9D920 UNP 189 K 
+ATOM 1488 N N   . PRO A 1 190 ? 22.156  4.950   -51.426 1.0 60.27 ? 190 PRO A N   1 Q9D920 UNP 190 P 
+ATOM 1489 C CA  . PRO A 1 190 ? 22.638  3.589   -51.276 1.0 60.27 ? 190 PRO A CA  1 Q9D920 UNP 190 P 
+ATOM 1490 C C   . PRO A 1 190 ? 22.628  2.980   -52.672 1.0 60.27 ? 190 PRO A C   1 Q9D920 UNP 190 P 
+ATOM 1491 C CB  . PRO A 1 190 ? 21.681  2.897   -50.301 1.0 60.27 ? 190 PRO A CB  1 Q9D920 UNP 190 P 
+ATOM 1492 O O   . PRO A 1 190 ? 21.610  3.052   -53.374 1.0 60.27 ? 190 PRO A O   1 Q9D920 UNP 190 P 
+ATOM 1493 C CG  . PRO A 1 190 ? 20.393  3.712   -50.415 1.0 60.27 ? 190 PRO A CG  1 Q9D920 UNP 190 P 
+ATOM 1494 C CD  . PRO A 1 190 ? 20.888  5.121   -50.734 1.0 60.27 ? 190 PRO A CD  1 Q9D920 UNP 190 P 
+ATOM 1495 N N   . GLU A 1 191 ? 23.787  2.492   -53.101 1.0 51.62 ? 191 GLU A N   1 Q9D920 UNP 191 E 
+ATOM 1496 C CA  . GLU A 1 191 ? 23.921  1.740   -54.333 1.0 51.62 ? 191 GLU A CA  1 Q9D920 UNP 191 E 
+ATOM 1497 C C   . GLU A 1 191 ? 22.943  0.581   -54.201 1.0 51.62 ? 191 GLU A C   1 Q9D920 UNP 191 E 
+ATOM 1498 C CB  . GLU A 1 191 ? 25.387  1.318   -54.496 1.0 51.62 ? 191 GLU A CB  1 Q9D920 UNP 191 E 
+ATOM 1499 O O   . GLU A 1 191 ? 23.124  -0.311  -53.377 1.0 51.62 ? 191 GLU A O   1 Q9D920 UNP 191 E 
+ATOM 1500 C CG  . GLU A 1 191 ? 25.684  0.725   -55.878 1.0 51.62 ? 191 GLU A CG  1 Q9D920 UNP 191 E 
+ATOM 1501 C CD  . GLU A 1 191 ? 27.193  0.648   -56.171 1.0 51.62 ? 191 GLU A CD  1 Q9D920 UNP 191 E 
+ATOM 1502 O OE1 . GLU A 1 191 ? 27.516  0.483   -57.369 1.0 51.62 ? 191 GLU A OE1 1 Q9D920 UNP 191 E 
+ATOM 1503 O OE2 . GLU A 1 191 ? 27.996  0.784   -55.221 1.0 51.62 ? 191 GLU A OE2 1 Q9D920 UNP 191 E 
+ATOM 1504 N N   . ARG A 1 192 ? 21.793  0.696   -54.877 1.0 51.31 ? 192 ARG A N   1 Q9D920 UNP 192 R 
+ATOM 1505 C CA  . ARG A 1 192 ? 20.769  -0.339  -54.829 1.0 51.31 ? 192 ARG A CA  1 Q9D920 UNP 192 R 
+ATOM 1506 C C   . ARG A 1 192 ? 21.461  -1.597  -55.317 1.0 51.31 ? 192 ARG A C   1 Q9D920 UNP 192 R 
+ATOM 1507 C CB  . ARG A 1 192 ? 19.569  0.010   -55.719 1.0 51.31 ? 192 ARG A CB  1 Q9D920 UNP 192 R 
+ATOM 1508 O O   . ARG A 1 192 ? 21.825  -1.639  -56.491 1.0 51.31 ? 192 ARG A O   1 Q9D920 UNP 192 R 
+ATOM 1509 C CG  . ARG A 1 192 ? 18.690  1.118   -55.129 1.0 51.31 ? 192 ARG A CG  1 Q9D920 UNP 192 R 
+ATOM 1510 C CD  . ARG A 1 192 ? 17.479  1.330   -56.047 1.0 51.31 ? 192 ARG A CD  1 Q9D920 UNP 192 R 
+ATOM 1511 N NE  . ARG A 1 192 ? 16.540  2.327   -55.500 1.0 51.31 ? 192 ARG A NE  1 Q9D920 UNP 192 R 
+ATOM 1512 N NH1 . ARG A 1 192 ? 15.032  2.271   -57.228 1.0 51.31 ? 192 ARG A NH1 1 Q9D920 UNP 192 R 
+ATOM 1513 N NH2 . ARG A 1 192 ? 14.642  3.586   -55.469 1.0 51.31 ? 192 ARG A NH2 1 Q9D920 UNP 192 R 
+ATOM 1514 C CZ  . ARG A 1 192 ? 15.415  2.723   -56.066 1.0 51.31 ? 192 ARG A CZ  1 Q9D920 UNP 192 R 
+ATOM 1515 N N   . GLU A 1 193 ? 21.650  -2.550  -54.408 1.0 43.92 ? 193 GLU A N   1 Q9D920 UNP 193 E 
+ATOM 1516 C CA  . GLU A 1 193 ? 22.131  -3.893  -54.696 1.0 43.92 ? 193 GLU A CA  1 Q9D920 UNP 193 E 
+ATOM 1517 C C   . GLU A 1 193 ? 21.389  -4.388  -55.939 1.0 43.92 ? 193 GLU A C   1 Q9D920 UNP 193 E 
+ATOM 1518 C CB  . GLU A 1 193 ? 21.883  -4.813  -53.484 1.0 43.92 ? 193 GLU A CB  1 Q9D920 UNP 193 E 
+ATOM 1519 O O   . GLU A 1 193 ? 20.188  -4.660  -55.924 1.0 43.92 ? 193 GLU A O   1 Q9D920 UNP 193 E 
+ATOM 1520 C CG  . GLU A 1 193 ? 22.841  -4.516  -52.315 1.0 43.92 ? 193 GLU A CG  1 Q9D920 UNP 193 E 
+ATOM 1521 C CD  . GLU A 1 193 ? 22.508  -5.295  -51.027 1.0 43.92 ? 193 GLU A CD  1 Q9D920 UNP 193 E 
+ATOM 1522 O OE1 . GLU A 1 193 ? 23.443  -5.508  -50.221 1.0 43.92 ? 193 GLU A OE1 1 Q9D920 UNP 193 E 
+ATOM 1523 O OE2 . GLU A 1 193 ? 21.313  -5.601  -50.811 1.0 43.92 ? 193 GLU A OE2 1 Q9D920 UNP 193 E 
+ATOM 1524 N N   . ARG A 1 194 ? 22.097  -4.396  -57.069 1.0 37.36 ? 194 ARG A N   1 Q9D920 UNP 194 R 
+ATOM 1525 C CA  . ARG A 1 194 ? 21.727  -5.214  -58.209 1.0 37.36 ? 194 ARG A CA  1 Q9D920 UNP 194 R 
+ATOM 1526 C C   . ARG A 1 194 ? 22.363  -6.558  -57.914 1.0 37.36 ? 194 ARG A C   1 Q9D920 UNP 194 R 
+ATOM 1527 C CB  . ARG A 1 194 ? 22.276  -4.635  -59.526 1.0 37.36 ? 194 ARG A CB  1 Q9D920 UNP 194 R 
+ATOM 1528 O O   . ARG A 1 194 ? 23.538  -6.685  -58.214 1.0 37.36 ? 194 ARG A O   1 Q9D920 UNP 194 R 
+ATOM 1529 C CG  . ARG A 1 194 ? 21.669  -3.300  -59.965 1.0 37.36 ? 194 ARG A CG  1 Q9D920 UNP 194 R 
+ATOM 1530 C CD  . ARG A 1 194 ? 22.180  -3.006  -61.383 1.0 37.36 ? 194 ARG A CD  1 Q9D920 UNP 194 R 
+ATOM 1531 N NE  . ARG A 1 194 ? 21.910  -1.619  -61.800 1.0 37.36 ? 194 ARG A NE  1 Q9D920 UNP 194 R 
+ATOM 1532 N NH1 . ARG A 1 194 ? 22.319  -1.904  -64.042 1.0 37.36 ? 194 ARG A NH1 1 Q9D920 UNP 194 R 
+ATOM 1533 N NH2 . ARG A 1 194 ? 21.886  0.135   -63.251 1.0 37.36 ? 194 ARG A NH2 1 Q9D920 UNP 194 R 
+ATOM 1534 C CZ  . ARG A 1 194 ? 22.034  -1.140  -63.024 1.0 37.36 ? 194 ARG A CZ  1 Q9D920 UNP 194 R 
+ATOM 1535 N N   . HIS A 1 195 ? 21.632  -7.476  -57.289 1.0 37.97 ? 195 HIS A N   1 Q9D920 UNP 195 H 
+ATOM 1536 C CA  . HIS A 1 195 ? 21.667  -8.924  -57.532 1.0 37.97 ? 195 HIS A CA  1 Q9D920 UNP 195 H 
+ATOM 1537 C C   . HIS A 1 195 ? 20.549  -9.611  -56.751 1.0 37.97 ? 195 HIS A C   1 Q9D920 UNP 195 H 
+ATOM 1538 C CB  . HIS A 1 195 ? 23.046  -9.556  -57.253 1.0 37.97 ? 195 HIS A CB  1 Q9D920 UNP 195 H 
+ATOM 1539 O O   . HIS A 1 195 ? 20.389  -9.306  -55.552 1.0 37.97 ? 195 HIS A O   1 Q9D920 UNP 195 H 
+ATOM 1540 C CG  . HIS A 1 195 ? 23.989  -9.418  -58.430 1.0 37.97 ? 195 HIS A CG  1 Q9D920 UNP 195 H 
+ATOM 1541 C CD2 . HIS A 1 195 ? 25.267  -8.924  -58.422 1.0 37.97 ? 195 HIS A CD2 1 Q9D920 UNP 195 H 
+ATOM 1542 N ND1 . HIS A 1 195 ? 23.641  -9.593  -59.749 1.0 37.97 ? 195 HIS A ND1 1 Q9D920 UNP 195 H 
+ATOM 1543 C CE1 . HIS A 1 195 ? 24.671  -9.199  -60.514 1.0 37.97 ? 195 HIS A CE1 1 Q9D920 UNP 195 H 
+ATOM 1544 N NE2 . HIS A 1 195 ? 25.698  -8.797  -59.753 1.0 37.97 ? 195 HIS A NE2 1 Q9D920 UNP 195 H 
+ATOM 1545 O OXT . HIS A 1 195 ? 19.837  -10.380 -57.429 1.0 37.97 ? 195 HIS A OXT 1 Q9D920 UNP 195 H 
+#
